@@ -1,0 +1,4082 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "Id": 702.0,
+        "dkmInicio": 593.092,
+        "dkmFinal": 608.092,
+        "dLongitud": 15.0,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.136319032302,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.47958815799996,
+            -11.406071745999952,
+            0.0
+          ],
+          [
+            -69.49074554699996,
+            -11.399581908999949,
+            0.0
+          ],
+          [
+            -69.49209594999996,
+            -11.392787932999966,
+            0.0
+          ],
+          [
+            -69.49238586699994,
+            -11.385730742999954,
+            0.0
+          ],
+          [
+            -69.48614883699997,
+            -11.377189635999969,
+            0.0
+          ],
+          [
+            -69.48758606199993,
+            -11.36449573599998,
+            0.0
+          ],
+          [
+            -69.49407005599994,
+            -11.357797621999964,
+            0.0
+          ],
+          [
+            -69.49680900899995,
+            -11.356945037999935,
+            0.0
+          ],
+          [
+            -69.50017929399996,
+            -11.35136794999994,
+            0.0
+          ],
+          [
+            -69.50263023699995,
+            -11.350210189999927,
+            0.0
+          ],
+          [
+            -69.50601959499994,
+            -11.350368498999956,
+            0.0
+          ],
+          [
+            -69.50848573799993,
+            -11.348228717999973,
+            0.0
+          ],
+          [
+            -69.51593971499994,
+            -11.330293654999934,
+            0.0
+          ],
+          [
+            -69.51830864199997,
+            -11.315437316999976,
+            0.0
+          ],
+          [
+            -69.52068901299998,
+            -11.308221816999946,
+            0.0
+          ],
+          [
+            -69.52491951299999,
+            -11.302490233999947,
+            0.0
+          ],
+          [
+            -69.52503967599995,
+            -11.298210143999938,
+            0.0
+          ],
+          [
+            -69.52326132799993,
+            -11.294878690999951,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "Id": 555.0,
+        "dkmInicio": 355.021,
+        "dkmFinal": 363.553,
+        "dLongitud": 8.532,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.0783567234353,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.74493671099998,
+            -12.879195301999971,
+            0.0
+          ],
+          [
+            -69.73081016699996,
+            -12.878248213999939,
+            0.0
+          ],
+          [
+            -69.71982002399994,
+            -12.87580490099998,
+            0.0
+          ],
+          [
+            -69.69120025799998,
+            -12.864320754999937,
+            0.0
+          ],
+          [
+            -69.67850875999994,
+            -12.846397399999944,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "Id": 970.0,
+        "dkmInicio": 647.477,
+        "dkmFinal": 652.489,
+        "dLongitud": 5.012,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.0455669253086,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.55938069099994,
+            -10.981388863999939,
+            0.0
+          ],
+          [
+            -69.56621551799998,
+            -10.968997954999963,
+            0.0
+          ],
+          [
+            -69.56904602299994,
+            -10.968458174999967,
+            0.0
+          ],
+          [
+            -69.57242584499994,
+            -10.965349196999966,
+            0.0
+          ],
+          [
+            -69.57534111599995,
+            -10.957639418999975,
+            0.0
+          ],
+          [
+            -69.57849884299998,
+            -10.953199385999937,
+            0.0
+          ],
+          [
+            -69.57746674799995,
+            -10.943392815999971,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "Id": 4741.0,
+        "dkmInicio": 589.994,
+        "dkmFinal": 593.092,
+        "dLongitud": 3.098,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.0284377052757,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.45366209999997,
+            -11.403630172999954,
+            0.0
+          ],
+          [
+            -69.46060943899994,
+            -11.407333373999961,
+            0.0
+          ],
+          [
+            -69.47211456599996,
+            -11.40797805799997,
+            0.0
+          ],
+          [
+            -69.47444916099994,
+            -11.409414290999962,
+            0.0
+          ],
+          [
+            -69.47958815799996,
+            -11.406071745999952,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "Id": 582.0,
+        "dkmInicio": 413.54,
+        "dkmFinal": 419.482,
+        "dLongitud": 5.942,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.0515098491287,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.27314949399994,
+            -12.643222807999962,
+            0.0
+          ],
+          [
+            -69.25963974299998,
+            -12.638723372999948,
+            0.0
+          ],
+          [
+            -69.26031494499995,
+            -12.634504317999927,
+            0.0
+          ],
+          [
+            -69.25976098999996,
+            -12.631367504999957,
+            0.0
+          ],
+          [
+            -69.25630951299996,
+            -12.629798888999971,
+            0.0
+          ],
+          [
+            -69.25009918499995,
+            -12.624826430999974,
+            0.0
+          ],
+          [
+            -69.24143046199998,
+            -12.609425668999961,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "Id": 508.0,
+        "dkmInicio": 243.087,
+        "dkmFinal": 243.088,
+        "dLongitud": 0.001,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "003",
+        "Shape_Leng": 6.30166070494e-05,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.38715040399995,
+            -13.18649583499996,
+            0.0
+          ],
+          [
+            -70.38711357199998,
+            -13.18644523599994,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "Id": 3030.0,
+        "dkmInicio": 243.351,
+        "dkmFinal": 243.468,
+        "dLongitud": 0.117,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "003",
+        "Shape_Leng": 0.00166598657261,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.38516776099993,
+            -13.185683357999949,
+            0.0
+          ],
+          [
+            -70.38351814999999,
+            -13.18550664099996,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "Id": 1102.0,
+        "dkmInicio": 330.029,
+        "dkmFinal": 340.241,
+        "dLongitud": 10.212,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.0938536223109,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.94928932299996,
+            -12.896013259999961,
+            0.0
+          ],
+          [
+            -69.94364929299996,
+            -12.900346755999976,
+            0.0
+          ],
+          [
+            -69.93532943799994,
+            -12.903665541999942,
+            0.0
+          ],
+          [
+            -69.93081836899995,
+            -12.909596190999935,
+            0.0
+          ],
+          [
+            -69.92259025699997,
+            -12.912845610999966,
+            0.0
+          ],
+          [
+            -69.91209030299996,
+            -12.905296325999927,
+            0.0
+          ],
+          [
+            -69.90085969899997,
+            -12.902275162999956,
+            0.0
+          ],
+          [
+            -69.89451599199998,
+            -12.894802092999953,
+            0.0
+          ],
+          [
+            -69.88601875399996,
+            -12.88941955499996,
+            0.0
+          ],
+          [
+            -69.88093948499994,
+            -12.887762069999951,
+            0.0
+          ],
+          [
+            -69.87547865399995,
+            -12.88770799599996,
+            0.0
+          ],
+          [
+            -69.87307930099996,
+            -12.886075972999947,
+            0.0
+          ],
+          [
+            -69.87052380099993,
+            -12.886620379999954,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "Id": 552.0,
+        "dkmInicio": 267.316,
+        "dkmFinal": 293.456,
+        "dLongitud": 26.14,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.238523713708,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.34720993099995,
+            -13.024450301999934,
+            0.0
+          ],
+          [
+            -70.34987714299996,
+            -13.020121580999955,
+            0.0
+          ],
+          [
+            -70.34900452699998,
+            -13.016484619999972,
+            0.0
+          ],
+          [
+            -70.34508895899995,
+            -13.008649825999953,
+            0.0
+          ],
+          [
+            -70.34462084099994,
+            -13.00401347099995,
+            0.0
+          ],
+          [
+            -70.34261185399998,
+            -12.998941485999978,
+            0.0
+          ],
+          [
+            -70.34222030699993,
+            -12.991647719999946,
+            0.0
+          ],
+          [
+            -70.34339950399993,
+            -12.988003495999976,
+            0.0
+          ],
+          [
+            -70.34643936199996,
+            -12.985284804999935,
+            0.0
+          ],
+          [
+            -70.34651947099997,
+            -12.979288100999952,
+            0.0
+          ],
+          [
+            -70.34803009099994,
+            -12.976364135999972,
+            0.0
+          ],
+          [
+            -70.34663963399998,
+            -12.974687575999951,
+            0.0
+          ],
+          [
+            -70.34566497899993,
+            -12.97444915799997,
+            0.0
+          ],
+          [
+            -70.34630012599996,
+            -12.975076674999968,
+            0.0
+          ],
+          [
+            -70.34447479299996,
+            -12.976459502999944,
+            0.0
+          ],
+          [
+            -70.34479129599998,
+            -12.975323411999966,
+            0.0
+          ],
+          [
+            -70.34362274799997,
+            -12.972072867999941,
+            0.0
+          ],
+          [
+            -70.34280014099994,
+            -12.971046447999981,
+            0.0
+          ],
+          [
+            -70.34147985499999,
+            -12.971233102999975,
+            0.0
+          ],
+          [
+            -70.34136962999997,
+            -12.970312117999981,
+            0.0
+          ],
+          [
+            -70.33964538599997,
+            -12.969299315999933,
+            0.0
+          ],
+          [
+            -70.34111022999997,
+            -12.973297118999938,
+            0.0
+          ],
+          [
+            -70.33926542999995,
+            -12.973043237999946,
+            0.0
+          ],
+          [
+            -70.33898925799997,
+            -12.971113204999938,
+            0.0
+          ],
+          [
+            -70.33675956799993,
+            -12.969394683999951,
+            0.0
+          ],
+          [
+            -70.33596038899998,
+            -12.96733665499994,
+            0.0
+          ],
+          [
+            -70.33390045199997,
+            -12.96823692299995,
+            0.0
+          ],
+          [
+            -70.33059981599996,
+            -12.967400088999966,
+            0.0
+          ],
+          [
+            -70.32799530099999,
+            -12.967639922999979,
+            0.0
+          ],
+          [
+            -70.32495801799996,
+            -12.965114460999928,
+            0.0
+          ],
+          [
+            -70.32530021699995,
+            -12.962932586999955,
+            0.0
+          ],
+          [
+            -70.32377005999996,
+            -12.96188449999994,
+            0.0
+          ],
+          [
+            -70.32059887099996,
+            -12.961384573999965,
+            0.0
+          ],
+          [
+            -70.31633949299999,
+            -12.959058761999927,
+            0.0
+          ],
+          [
+            -70.31132888899998,
+            -12.959209441999974,
+            0.0
+          ],
+          [
+            -70.30864906399995,
+            -12.957576751999966,
+            0.0
+          ],
+          [
+            -70.30693681699995,
+            -12.959508097999958,
+            0.0
+          ],
+          [
+            -70.30732917899996,
+            -12.957138060999966,
+            0.0
+          ],
+          [
+            -70.30369567899999,
+            -12.953424453999958,
+            0.0
+          ],
+          [
+            -70.30562591599994,
+            -12.947496413999943,
+            0.0
+          ],
+          [
+            -70.30015354799997,
+            -12.94118631699996,
+            0.0
+          ],
+          [
+            -70.30086807599997,
+            -12.939287612999976,
+            0.0
+          ],
+          [
+            -70.30053330699997,
+            -12.93752494599994,
+            0.0
+          ],
+          [
+            -70.30603981099995,
+            -12.933557509999957,
+            0.0
+          ],
+          [
+            -70.30391883899995,
+            -12.932392119999975,
+            0.0
+          ],
+          [
+            -70.30411006599996,
+            -12.93126633199995,
+            0.0
+          ],
+          [
+            -70.30228996299996,
+            -12.92974090599995,
+            0.0
+          ],
+          [
+            -70.30322487999996,
+            -12.929604579999932,
+            0.0
+          ],
+          [
+            -70.30361622199996,
+            -12.926924226999972,
+            0.0
+          ],
+          [
+            -70.29996871999998,
+            -12.925350188999971,
+            0.0
+          ],
+          [
+            -70.28544998199999,
+            -12.930641173999959,
+            0.0
+          ],
+          [
+            -70.28264999499999,
+            -12.933046340999965,
+            0.0
+          ],
+          [
+            -70.28007507399997,
+            -12.93694686899994,
+            0.0
+          ],
+          [
+            -70.27595901599994,
+            -12.938879012999962,
+            0.0
+          ],
+          [
+            -70.26953181199997,
+            -12.935105957999951,
+            0.0
+          ],
+          [
+            -70.26634025599998,
+            -12.930194854999968,
+            0.0
+          ],
+          [
+            -70.25845811299996,
+            -12.933025382999972,
+            0.0
+          ],
+          [
+            -70.25696563799994,
+            -12.932704924999939,
+            0.0
+          ],
+          [
+            -70.25432014499995,
+            -12.924224852999942,
+            0.0
+          ],
+          [
+            -70.25211783099996,
+            -12.920052874999953,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "Id": 1159.0,
+        "dkmInicio": 398.567,
+        "dkmFinal": 403.686,
+        "dLongitud": 5.119,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.0471258094431,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.40557862499998,
+            -12.690326229999926,
+            0.0
+          ],
+          [
+            -69.36124475399998,
+            -12.674371041999962,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "Id": 1530.0,
+        "dkmInicio": 242.624,
+        "dkmFinal": 243.087,
+        "dLongitud": 0.463,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "003",
+        "Shape_Leng": 0.00410567309162,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.38834146299996,
+            -13.189625329999956,
+            0.0
+          ],
+          [
+            -70.38673790999997,
+            -13.187279075999982,
+            0.0
+          ],
+          [
+            -70.38715040399995,
+            -13.18649583499996,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "Id": 1536.0,
+        "dkmInicio": 345.01,
+        "dkmFinal": 355.021,
+        "dLongitud": 10.011,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.0922781031975,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.83036041399998,
+            -12.88502693199996,
+            0.0
+          ],
+          [
+            -69.82919271799994,
+            -12.883939320999957,
+            0.0
+          ],
+          [
+            -69.82861195999993,
+            -12.881121433999965,
+            0.0
+          ],
+          [
+            -69.82570387999993,
+            -12.87858420699996,
+            0.0
+          ],
+          [
+            -69.81774902499996,
+            -12.878124236999952,
+            0.0
+          ],
+          [
+            -69.81338501099998,
+            -12.874807357999941,
+            0.0
+          ],
+          [
+            -69.80949974199996,
+            -12.874963759999957,
+            0.0
+          ],
+          [
+            -69.80781891799995,
+            -12.874175562999937,
+            0.0
+          ],
+          [
+            -69.79787445199997,
+            -12.876539229999935,
+            0.0
+          ],
+          [
+            -69.78579902799999,
+            -12.88172721799998,
+            0.0
+          ],
+          [
+            -69.74493671099998,
+            -12.879195301999971,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "Id": 1007.0,
+        "dkmInicio": 243.088,
+        "dkmFinal": 243.313,
+        "dLongitud": 0.225,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "003",
+        "Shape_Leng": 0.00206013540601,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.38711357199998,
+            -13.18644523599994,
+            0.0
+          ],
+          [
+            -70.38534927399996,
+            -13.185970305999945,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "Id": 832.0,
+        "dkmInicio": 408.628,
+        "dkmFinal": 413.54,
+        "dLongitud": 4.912,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.0467742820173,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.31730790499995,
+            -12.65863627799996,
+            0.0
+          ],
+          [
+            -69.27314949399994,
+            -12.643222807999962,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "Id": 2249.0,
+        "dkmInicio": 315.105,
+        "dkmFinal": 330.029,
+        "dLongitud": 14.924,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.13731031717,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.06745221799997,
+            -12.892533287999981,
+            0.0
+          ],
+          [
+            -70.06559944199995,
+            -12.891927718999966,
+            0.0
+          ],
+          [
+            -70.06095886299994,
+            -12.895179747999975,
+            0.0
+          ],
+          [
+            -70.05064964399998,
+            -12.891090392999956,
+            0.0
+          ],
+          [
+            -70.03925895799995,
+            -12.876707076999935,
+            0.0
+          ],
+          [
+            -70.03054046699998,
+            -12.878873824999971,
+            0.0
+          ],
+          [
+            -70.02750015399994,
+            -12.882835387999933,
+            0.0
+          ],
+          [
+            -70.02520241099995,
+            -12.884493601999964,
+            0.0
+          ],
+          [
+            -70.01762962399994,
+            -12.886770247999948,
+            0.0
+          ],
+          [
+            -70.01153945999994,
+            -12.890554427999973,
+            0.0
+          ],
+          [
+            -69.99770927499998,
+            -12.89187431299996,
+            0.0
+          ],
+          [
+            -69.99346923899998,
+            -12.889558791999946,
+            0.0
+          ],
+          [
+            -69.99201011799994,
+            -12.889589309999963,
+            0.0
+          ],
+          [
+            -69.98790931799994,
+            -12.89179420499994,
+            0.0
+          ],
+          [
+            -69.98697616799996,
+            -12.895749333999959,
+            0.0
+          ],
+          [
+            -69.98612476299996,
+            -12.896507474999964,
+            0.0
+          ],
+          [
+            -69.96267890999997,
+            -12.897085189999927,
+            0.0
+          ],
+          [
+            -69.95169456899998,
+            -12.894630629999938,
+            0.0
+          ],
+          [
+            -69.94928932299996,
+            -12.896013259999961,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "Id": 1095.0,
+        "dkmInicio": 638.099,
+        "dkmFinal": 643.101,
+        "dLongitud": 5.002,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.0454834021442,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.57289571999996,
+            -11.057519809999974,
+            0.0
+          ],
+          [
+            -69.57229995999995,
+            -11.053281783999978,
+            0.0
+          ],
+          [
+            -69.57337951899996,
+            -11.047468184999957,
+            0.0
+          ],
+          [
+            -69.57524997999997,
+            -11.043105805999971,
+            0.0
+          ],
+          [
+            -69.57094001999997,
+            -11.029359816999943,
+            0.0
+          ],
+          [
+            -69.55876776199995,
+            -11.019093685999962,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "type": "Feature",
+      "properties": {
+        "Id": 708.0,
+        "dkmInicio": 368.627,
+        "dkmFinal": 378.905,
+        "dLongitud": 10.278,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.0943566003815,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.65057795099995,
+            -12.809799625999972,
+            0.0
+          ],
+          [
+            -69.61264991999997,
+            -12.787000655999975,
+            0.0
+          ],
+          [
+            -69.59883880799998,
+            -12.781179427999973,
+            0.0
+          ],
+          [
+            -69.58681869699996,
+            -12.774749755999949,
+            0.0
+          ],
+          [
+            -69.56888961999994,
+            -12.763057707999963,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "type": "Feature",
+      "properties": {
+        "Id": 1793.0,
+        "dkmInicio": 430.767,
+        "dkmFinal": 454.532,
+        "dLongitud": 23.765,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.216021317534,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.17344929699993,
+            -12.573341877999951,
+            0.0
+          ],
+          [
+            -69.16768945199993,
+            -12.567727540999954,
+            0.0
+          ],
+          [
+            -69.16642952299998,
+            -12.564958571999966,
+            0.0
+          ],
+          [
+            -69.16077041999995,
+            -12.560174940999957,
+            0.0
+          ],
+          [
+            -69.15449905799994,
+            -12.558565138999938,
+            0.0
+          ],
+          [
+            -69.14684868199998,
+            -12.553581236999946,
+            0.0
+          ],
+          [
+            -69.14331490999996,
+            -12.54581865199998,
+            0.0
+          ],
+          [
+            -69.14266237299995,
+            -12.539946810999936,
+            0.0
+          ],
+          [
+            -69.13564873099995,
+            -12.521366118999936,
+            0.0
+          ],
+          [
+            -69.13829994599996,
+            -12.51315879799995,
+            0.0
+          ],
+          [
+            -69.13759305499997,
+            -12.505159097999979,
+            0.0
+          ],
+          [
+            -69.14449882899999,
+            -12.498079298999926,
+            0.0
+          ],
+          [
+            -69.14485931799999,
+            -12.494590758999948,
+            0.0
+          ],
+          [
+            -69.14184952199997,
+            -12.488950728999953,
+            0.0
+          ],
+          [
+            -69.13906860699996,
+            -12.461408614999982,
+            0.0
+          ],
+          [
+            -69.12835113699998,
+            -12.453318964999937,
+            0.0
+          ],
+          [
+            -69.13798417299995,
+            -12.414062635999926,
+            0.0
+          ],
+          [
+            -69.14151001399995,
+            -12.395624159999954,
+            0.0
+          ],
+          [
+            -69.14454157299997,
+            -12.385843228999931,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "type": "Feature",
+      "properties": {
+        "Id": 2030.0,
+        "dkmInicio": 257.66,
+        "dkmFinal": 258.173,
+        "dLongitud": 0.513,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.00464769364518,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.36767104599994,
+            -13.102222637999944,
+            0.0
+          ],
+          [
+            -70.36618492199995,
+            -13.097849425999982,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "type": "Feature",
+      "properties": {
+        "Id": 331.0,
+        "dkmInicio": 305.023,
+        "dkmFinal": 310.052,
+        "dLongitud": 5.029,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.0463378177881,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.15089517399997,
+            -12.91227897999994,
+            0.0
+          ],
+          [
+            -70.14245605599996,
+            -12.913803099999939,
+            0.0
+          ],
+          [
+            -70.12711906499999,
+            -12.910690306999982,
+            0.0
+          ],
+          [
+            -70.11627117099994,
+            -12.914434065999956,
+            0.0
+          ],
+          [
+            -70.10803424999995,
+            -12.908111254999938,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "type": "Feature",
+      "properties": {
+        "Id": 966.0,
+        "dkmInicio": 643.101,
+        "dkmFinal": 647.477,
+        "dLongitud": 4.376,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.0397326670046,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.55876776199995,
+            -11.019093685999962,
+            0.0
+          ],
+          [
+            -69.55504989899998,
+            -11.00858306899994,
+            0.0
+          ],
+          [
+            -69.55498504899998,
+            -11.004213332999939,
+            0.0
+          ],
+          [
+            -69.55633926699994,
+            -10.99633216799998,
+            0.0
+          ],
+          [
+            -69.55515861799995,
+            -10.99062347399996,
+            0.0
+          ],
+          [
+            -69.55938069099994,
+            -10.981388863999939,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "21",
+      "type": "Feature",
+      "properties": {
+        "Id": 214.0,
+        "dkmInicio": 429.202,
+        "dkmFinal": 429.259,
+        "dLongitud": 0.057,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.00833310401592,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.17465808699995,
+            -12.591517832999955,
+            0.00010000000474974513
+          ],
+          [
+            -69.16969690999997,
+            -12.586211634999927,
+            0.00010000000474974513
+          ],
+          [
+            -69.16971588499996,
+            -12.585235594999972,
+            0.00019999999494757503
+          ]
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "type": "Feature",
+      "properties": {
+        "Id": 971.0,
+        "dkmInicio": 426.097,
+        "dkmFinal": 428.535,
+        "dLongitud": 2.438,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.019450761586,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.19364929599993,
+            -12.582750319999946,
+            0.00019999999494757503
+          ],
+          [
+            -69.19190418199997,
+            -12.582569393999961,
+            0.00019999999494757503
+          ],
+          [
+            -69.17881024599995,
+            -12.594278007999947,
+            0.00010000000474974513
+          ]
+        ]
+      }
+    },
+    {
+      "id": "23",
+      "type": "Feature",
+      "properties": {
+        "Id": 2124.0,
+        "dkmInicio": 403.686,
+        "dkmFinal": 408.628,
+        "dLongitud": 4.942,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.046674898964,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.36124475399998,
+            -12.674371041999962,
+            0.0
+          ],
+          [
+            -69.31730790499995,
+            -12.65863627799996,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "type": "Feature",
+      "properties": {
+        "Id": 24.0,
+        "dkmInicio": 608.092,
+        "dkmFinal": 638.099,
+        "dLongitud": 30.007,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.272598998407,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.52326132799993,
+            -11.294878690999951,
+            0.0
+          ],
+          [
+            -69.52196884399996,
+            -11.292291640999963,
+            0.0
+          ],
+          [
+            -69.52211952499994,
+            -11.288232802999971,
+            0.0
+          ],
+          [
+            -69.52029991399996,
+            -11.285022734999927,
+            0.0
+          ],
+          [
+            -69.52038955999996,
+            -11.280126570999926,
+            0.0
+          ],
+          [
+            -69.52416992499997,
+            -11.275577544999976,
+            0.0
+          ],
+          [
+            -69.52692529699993,
+            -11.267278233999946,
+            0.0
+          ],
+          [
+            -69.53091430899997,
+            -11.262310027999945,
+            0.0
+          ],
+          [
+            -69.53153793399997,
+            -11.257762318999937,
+            0.0
+          ],
+          [
+            -69.53581047299997,
+            -11.253612517999954,
+            0.0
+          ],
+          [
+            -69.53999466499994,
+            -11.252320924999935,
+            0.0
+          ],
+          [
+            -69.54300234299996,
+            -11.24575346399996,
+            0.0
+          ],
+          [
+            -69.54114914199994,
+            -11.242912291999971,
+            0.0
+          ],
+          [
+            -69.53820038099997,
+            -11.232004164999978,
+            0.0
+          ],
+          [
+            -69.54269027999999,
+            -11.224567412999932,
+            0.0
+          ],
+          [
+            -69.54288864399996,
+            -11.220724105999977,
+            0.0
+          ],
+          [
+            -69.54612922899997,
+            -11.21653175299997,
+            0.0
+          ],
+          [
+            -69.55028915699995,
+            -11.21639442399993,
+            0.0
+          ],
+          [
+            -69.55593560099999,
+            -11.214270020999948,
+            0.0
+          ],
+          [
+            -69.55698394999996,
+            -11.21278381299993,
+            0.0
+          ],
+          [
+            -69.55722999799997,
+            -11.208660124999938,
+            0.0
+          ],
+          [
+            -69.55541038799998,
+            -11.20060157699993,
+            0.0
+          ],
+          [
+            -69.55607986699994,
+            -11.198144911999975,
+            0.0
+          ],
+          [
+            -69.55806908399995,
+            -11.196299221999936,
+            0.0
+          ],
+          [
+            -69.55943870799996,
+            -11.193223952999972,
+            0.0
+          ],
+          [
+            -69.56019020299993,
+            -11.184932707999963,
+            0.0
+          ],
+          [
+            -69.55953979799995,
+            -11.173221587999933,
+            0.0
+          ],
+          [
+            -69.55756950599994,
+            -11.16651534999994,
+            0.0
+          ],
+          [
+            -69.56179046899996,
+            -11.15290069599996,
+            0.0
+          ],
+          [
+            -69.56761076299995,
+            -11.143741611999928,
+            0.0
+          ],
+          [
+            -69.56457901299996,
+            -11.138128279999933,
+            0.0
+          ],
+          [
+            -69.56557464899998,
+            -11.134544371999937,
+            0.0
+          ],
+          [
+            -69.56464004799994,
+            -11.12543487499994,
+            0.0
+          ],
+          [
+            -69.55790901499995,
+            -11.11732864399994,
+            0.0
+          ],
+          [
+            -69.55654907499996,
+            -11.113914488999967,
+            0.0
+          ],
+          [
+            -69.56081009199994,
+            -11.10607147199994,
+            0.0
+          ],
+          [
+            -69.56151962599995,
+            -11.09935188299994,
+            0.0
+          ],
+          [
+            -69.56683922099995,
+            -11.092397689999927,
+            0.0
+          ],
+          [
+            -69.56708908399997,
+            -11.087686537999957,
+            0.0
+          ],
+          [
+            -69.56937027199996,
+            -11.082773207999935,
+            0.0
+          ],
+          [
+            -69.56901931999994,
+            -11.078124999999943,
+            0.0
+          ],
+          [
+            -69.57102060199998,
+            -11.073209335999934,
+            0.0
+          ],
+          [
+            -69.57049942299994,
+            -11.065500258999975,
+            0.0
+          ],
+          [
+            -69.57309913899996,
+            -11.05985069199994,
+            0.0
+          ],
+          [
+            -69.57289571999996,
+            -11.057519809999974,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "25",
+      "type": "Feature",
+      "properties": {
+        "Id": 1702.0,
+        "dkmInicio": 454.532,
+        "dkmFinal": 589.994,
+        "dLongitud": 135.462,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 1.2325320155,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.14454157299997,
+            -12.385843228999931,
+            0.0
+          ],
+          [
+            -69.17296982199997,
+            -12.303693770999928,
+            0.0
+          ],
+          [
+            -69.15591431099995,
+            -12.283248900999979,
+            0.0
+          ],
+          [
+            -69.15164344299995,
+            -12.281559480999931,
+            0.0
+          ],
+          [
+            -69.15240478899995,
+            -12.276779173999955,
+            0.0
+          ],
+          [
+            -69.14867973699995,
+            -12.265541075999977,
+            0.0
+          ],
+          [
+            -69.14572906899997,
+            -12.239023207999935,
+            0.0
+          ],
+          [
+            -69.12289047699994,
+            -12.198839186999976,
+            0.0
+          ],
+          [
+            -69.11590958099998,
+            -12.189001082999937,
+            0.0
+          ],
+          [
+            -69.11565971799996,
+            -12.186868666999942,
+            0.0
+          ],
+          [
+            -69.11294556099995,
+            -12.184412001999931,
+            0.0
+          ],
+          [
+            -69.11886978599995,
+            -12.139623640999957,
+            0.0
+          ],
+          [
+            -69.12208429099996,
+            -12.121165024999982,
+            0.0
+          ],
+          [
+            -69.11713982099997,
+            -12.117233275999979,
+            0.0
+          ],
+          [
+            -69.12005997099993,
+            -12.069898604999935,
+            0.0
+          ],
+          [
+            -69.12139892999994,
+            -12.067382811999948,
+            0.0
+          ],
+          [
+            -69.12948036599994,
+            -12.062116621999962,
+            0.0
+          ],
+          [
+            -69.13885879899993,
+            -11.993103026999961,
+            0.0
+          ],
+          [
+            -69.12841034399997,
+            -11.945310591999942,
+            0.0
+          ],
+          [
+            -69.12720489899993,
+            -11.943510054999933,
+            0.0
+          ],
+          [
+            -69.12096405499994,
+            -11.938602446999937,
+            0.0
+          ],
+          [
+            -69.12038994299996,
+            -11.935338972999944,
+            0.0
+          ],
+          [
+            -69.11778306799994,
+            -11.933084540999971,
+            0.0
+          ],
+          [
+            -69.11668396399995,
+            -11.92883300699998,
+            0.0
+          ],
+          [
+            -69.12284038999996,
+            -11.919091393999963,
+            0.0
+          ],
+          [
+            -69.11749931099996,
+            -11.891530415999966,
+            0.0
+          ],
+          [
+            -69.11843872499998,
+            -11.890396117999956,
+            0.0
+          ],
+          [
+            -69.12866974299993,
+            -11.884952544999976,
+            0.0
+          ],
+          [
+            -69.13142967699997,
+            -11.873090742999977,
+            0.0
+          ],
+          [
+            -69.14156914199998,
+            -11.866441725999948,
+            0.0
+          ],
+          [
+            -69.17562866599997,
+            -11.824628828999948,
+            0.0
+          ],
+          [
+            -69.18454933599998,
+            -11.802133559999959,
+            0.0
+          ],
+          [
+            -69.18544006799993,
+            -11.76148414599993,
+            0.0
+          ],
+          [
+            -69.18450928099998,
+            -11.759693144999972,
+            0.0
+          ],
+          [
+            -69.17142868499997,
+            -11.748226164999949,
+            0.0
+          ],
+          [
+            -69.17174911899997,
+            -11.728883742999926,
+            0.0
+          ],
+          [
+            -69.17308998499993,
+            -11.72279739299995,
+            0.0
+          ],
+          [
+            -69.18784904899996,
+            -11.706029890999957,
+            0.0
+          ],
+          [
+            -69.20090484999997,
+            -11.699384688999942,
+            0.0
+          ],
+          [
+            -69.21205247999995,
+            -11.684070314999929,
+            0.0
+          ],
+          [
+            -69.21588898099998,
+            -11.672962187999929,
+            0.0
+          ],
+          [
+            -69.22047633199998,
+            -11.669202992999942,
+            0.0
+          ],
+          [
+            -69.23325920499997,
+            -11.66321372899995,
+            0.0
+          ],
+          [
+            -69.23893928899997,
+            -11.656625746999964,
+            0.0
+          ],
+          [
+            -69.24172973999998,
+            -11.65242004299995,
+            0.0
+          ],
+          [
+            -69.24145508199996,
+            -11.646862029999966,
+            0.0
+          ],
+          [
+            -69.24293899899993,
+            -11.641176222999945,
+            0.0
+          ],
+          [
+            -69.25158113699996,
+            -11.632375830999933,
+            0.0
+          ],
+          [
+            -69.26004028699998,
+            -11.61148452699996,
+            0.0
+          ],
+          [
+            -69.26144981799996,
+            -11.60564231799998,
+            0.0
+          ],
+          [
+            -69.27518463499996,
+            -11.592283247999944,
+            0.0
+          ],
+          [
+            -69.27807998999998,
+            -11.587240218999966,
+            0.0
+          ],
+          [
+            -69.29023933799994,
+            -11.575288771999965,
+            0.0
+          ],
+          [
+            -69.29323005999998,
+            -11.570507048999957,
+            0.0
+          ],
+          [
+            -69.29329872499994,
+            -11.568750380999973,
+            0.0
+          ],
+          [
+            -69.28757539799994,
+            -11.558100184999944,
+            0.0
+          ],
+          [
+            -69.29547882399999,
+            -11.529781340999932,
+            0.0
+          ],
+          [
+            -69.29551209699997,
+            -11.52570428599995,
+            0.0
+          ],
+          [
+            -69.29371233199998,
+            -11.520728313999939,
+            0.0
+          ],
+          [
+            -69.30179977799997,
+            -11.501588820999928,
+            0.0
+          ],
+          [
+            -69.30523872699996,
+            -11.49847602799997,
+            0.0
+          ],
+          [
+            -69.30822944999994,
+            -11.492778777999945,
+            0.0
+          ],
+          [
+            -69.31054878599997,
+            -11.484609602999967,
+            0.0
+          ],
+          [
+            -69.30978393899994,
+            -11.480600356999958,
+            0.0
+          ],
+          [
+            -69.30827726499996,
+            -11.479389691999927,
+            0.0
+          ],
+          [
+            -69.30722046299996,
+            -11.47646522499997,
+            0.0
+          ],
+          [
+            -69.30471039199995,
+            -11.474365233999947,
+            0.0
+          ],
+          [
+            -69.30379486499999,
+            -11.47139358499993,
+            0.0
+          ],
+          [
+            -69.30636596999994,
+            -11.467769621999935,
+            0.0
+          ],
+          [
+            -69.30665588699998,
+            -11.455791472999977,
+            0.0
+          ],
+          [
+            -69.30900001899994,
+            -11.454307555999947,
+            0.0
+          ],
+          [
+            -69.31282997499994,
+            -11.453556059999926,
+            0.0
+          ],
+          [
+            -69.32240867999997,
+            -11.453689574999942,
+            0.0
+          ],
+          [
+            -69.32413864499995,
+            -11.450073241999974,
+            0.0
+          ],
+          [
+            -69.34679985399998,
+            -11.426975249999941,
+            0.0
+          ],
+          [
+            -69.37514813099995,
+            -11.42727260099997,
+            0.0
+          ],
+          [
+            -69.39234924599998,
+            -11.415742873999932,
+            0.0
+          ],
+          [
+            -69.40909576699994,
+            -11.406984328999954,
+            0.0
+          ],
+          [
+            -69.42565918299994,
+            -11.40301132199994,
+            0.0
+          ],
+          [
+            -69.43306923199998,
+            -11.403638838999939,
+            0.0
+          ],
+          [
+            -69.44029999099996,
+            -11.401805876999958,
+            0.0
+          ],
+          [
+            -69.45366209999997,
+            -11.403630172999954,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "type": "Feature",
+      "properties": {
+        "Id": 1459.0,
+        "dkmInicio": 428.535,
+        "dkmFinal": 429.202,
+        "dLongitud": 0.667,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.00566071444458,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.17881024599995,
+            -12.594278007999947,
+            0.00010000000474974513
+          ],
+          [
+            -69.17681149899994,
+            -12.592291156999977,
+            0.00010000000474974513
+          ],
+          [
+            -69.17572884399993,
+            -12.592707562999976,
+            0.00010000000474974513
+          ],
+          [
+            -69.17465808699995,
+            -12.591517832999955,
+            0.00010000000474974513
+          ]
+        ]
+      }
+    },
+    {
+      "id": "27",
+      "type": "Feature",
+      "properties": {
+        "Id": 294.0,
+        "dkmInicio": 652.489,
+        "dkmFinal": 652.716,
+        "dLongitud": 0.227,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.00204874409498,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.57746674799995,
+            -10.943392815999971,
+            0.0
+          ],
+          [
+            -69.57701560099997,
+            -10.94139873599994,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "28",
+      "type": "Feature",
+      "properties": {
+        "Id": 603.0,
+        "dkmInicio": 378.905,
+        "dkmFinal": 398.567,
+        "dLongitud": 19.662,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.180854680126,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.56888961999994,
+            -12.763057707999963,
+            0.0
+          ],
+          [
+            -69.55937957999998,
+            -12.758377074999942,
+            0.0
+          ],
+          [
+            -69.55342865199998,
+            -12.752748488999941,
+            0.0
+          ],
+          [
+            -69.55035019099995,
+            -12.74740028399998,
+            0.0
+          ],
+          [
+            -69.50259399599997,
+            -12.725383757999964,
+            0.0
+          ],
+          [
+            -69.48873901599995,
+            -12.719621657999937,
+            0.0
+          ],
+          [
+            -69.47674560799999,
+            -12.715957640999932,
+            0.0
+          ],
+          [
+            -69.40557862499998,
+            -12.690326229999926,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "29",
+      "type": "Feature",
+      "properties": {
+        "Id": 2457.0,
+        "dkmInicio": 258.86,
+        "dkmFinal": 267.316,
+        "dLongitud": 8.456,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.0768460024149,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.36420189199998,
+            -13.091953902999933,
+            0.0
+          ],
+          [
+            -70.35771481899997,
+            -13.073361906999935,
+            0.0
+          ],
+          [
+            -70.34974155599997,
+            -13.06163339099993,
+            0.0
+          ],
+          [
+            -70.34988975599998,
+            -13.049760817999982,
+            0.0
+          ],
+          [
+            -70.34515953099998,
+            -13.046033858999976,
+            0.0
+          ],
+          [
+            -70.34395980899995,
+            -13.043033599999944,
+            0.0
+          ],
+          [
+            -70.34488032499996,
+            -13.03899692799996,
+            0.0
+          ],
+          [
+            -70.34392929099994,
+            -13.036607741999944,
+            0.0
+          ],
+          [
+            -70.34562346999996,
+            -13.036273028999972,
+            0.0
+          ],
+          [
+            -70.34655952499998,
+            -13.03501892099996,
+            0.0
+          ],
+          [
+            -70.34657308499999,
+            -13.032239819999972,
+            0.0
+          ],
+          [
+            -70.34800910999996,
+            -13.030557631999955,
+            0.0
+          ],
+          [
+            -70.34720993099995,
+            -13.024450301999934,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "30",
+      "type": "Feature",
+      "properties": {
+        "Id": 2166.0,
+        "dkmInicio": 298.535,
+        "dkmFinal": 305.023,
+        "dLongitud": 6.488,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.0591919511428,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.20975399699995,
+            -12.915628264999953,
+            0.0
+          ],
+          [
+            -70.17676925699993,
+            -12.912836074999973,
+            0.0
+          ],
+          [
+            -70.16343879799996,
+            -12.912302016999945,
+            0.0
+          ],
+          [
+            -70.15832519599996,
+            -12.913112639999952,
+            0.0
+          ],
+          [
+            -70.15089517399997,
+            -12.91227897999994,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "31",
+      "type": "Feature",
+      "properties": {
+        "Id": 2077.0,
+        "dkmInicio": 243.313,
+        "dkmFinal": 243.351,
+        "dLongitud": 0.038,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "003",
+        "Shape_Leng": 0.000354424525568,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.38534927399996,
+            -13.185970305999945,
+            0.0
+          ],
+          [
+            -70.38516776099993,
+            -13.185683357999949,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "32",
+      "type": "Feature",
+      "properties": {
+        "Id": 2203.0,
+        "dkmInicio": 430.15,
+        "dkmFinal": 430.767,
+        "dLongitud": 0.617,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.00560089271231,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.17399695599994,
+            -12.578198590999932,
+            0.0
+          ],
+          [
+            -69.17495918599997,
+            -12.575695036999946,
+            0.0
+          ],
+          [
+            -69.17344929699993,
+            -12.573341877999951,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "33",
+      "type": "Feature",
+      "properties": {
+        "Id": 2197.0,
+        "dkmInicio": 429.79,
+        "dkmFinal": 430.15,
+        "dLongitud": 0.36,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.00324019840362,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.17231447499995,
+            -12.58096335099998,
+            0.0
+          ],
+          [
+            -69.17399695599994,
+            -12.578198590999932,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "34",
+      "type": "Feature",
+      "properties": {
+        "Id": 1617.0,
+        "dkmInicio": 254.129,
+        "dkmFinal": 257.66,
+        "dLongitud": 3.531,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.0322801635484,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.38320543699996,
+            -13.119911844999933,
+            0.0
+          ],
+          [
+            -70.38018989599993,
+            -13.112627028999952,
+            0.0
+          ],
+          [
+            -70.37273025599995,
+            -13.113933562999932,
+            0.0
+          ],
+          [
+            -70.36830789099997,
+            -13.111043130999974,
+            0.0
+          ],
+          [
+            -70.36508157299994,
+            -13.106743489999928,
+            0.0
+          ],
+          [
+            -70.36767104599994,
+            -13.102222637999944,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "35",
+      "type": "Feature",
+      "properties": {
+        "Id": 941.0,
+        "dkmInicio": 310.052,
+        "dkmFinal": 315.105,
+        "dLongitud": 5.053,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.0464991118915,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.10803424999995,
+            -12.908111254999938,
+            0.0
+          ],
+          [
+            -70.10396957499995,
+            -12.906249999999943,
+            0.0
+          ],
+          [
+            -70.10046386799996,
+            -12.90319442699996,
+            0.0
+          ],
+          [
+            -70.09161949299994,
+            -12.899404525999955,
+            0.0
+          ],
+          [
+            -70.08201980699994,
+            -12.902009963999944,
+            0.0
+          ],
+          [
+            -70.07250963199994,
+            -12.895853202999945,
+            0.0
+          ],
+          [
+            -70.06945037899999,
+            -12.894666671999971,
+            0.0
+          ],
+          [
+            -70.06745221799997,
+            -12.892533287999981,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "36",
+      "type": "Feature",
+      "properties": {
+        "Id": 1654.0,
+        "dkmInicio": 258.173,
+        "dkmFinal": 258.86,
+        "dLongitud": 0.687,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.006244676735,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.36618492199995,
+            -13.097849425999982,
+            0.0
+          ],
+          [
+            -70.36420189199998,
+            -13.091953902999933,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "37",
+      "type": "Feature",
+      "properties": {
+        "Id": 1483.0,
+        "dkmInicio": 419.482,
+        "dkmFinal": 426.097,
+        "dLongitud": 6.615,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.0607050996948,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.24143046199998,
+            -12.609425668999961,
+            0.0
+          ],
+          [
+            -69.24062919999994,
+            -12.602872847999947,
+            0.0
+          ],
+          [
+            -69.23938942299998,
+            -12.600912093999966,
+            0.0
+          ],
+          [
+            -69.23407918099997,
+            -12.596462948999942,
+            0.0
+          ],
+          [
+            -69.22443962399996,
+            -12.592218398999933,
+            0.0
+          ],
+          [
+            -69.21387481999994,
+            -12.58469200099995,
+            0.0
+          ],
+          [
+            -69.20673671399999,
+            -12.581415678999974,
+            0.0
+          ],
+          [
+            -69.20319938999995,
+            -12.58084869299995,
+            0.0
+          ],
+          [
+            -69.19364929599993,
+            -12.582750319999946,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "38",
+      "type": "Feature",
+      "properties": {
+        "Id": 147.0,
+        "dkmInicio": 340.241,
+        "dkmFinal": 345.01,
+        "dLongitud": 4.769,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.0438504114598,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.87052380099993,
+            -12.886620379999954,
+            0.0
+          ],
+          [
+            -69.84951973099999,
+            -12.891672133999975,
+            0.0
+          ],
+          [
+            -69.83917999399995,
+            -12.892454146999967,
+            0.0
+          ],
+          [
+            -69.83514976599997,
+            -12.890605925999978,
+            0.0
+          ],
+          [
+            -69.83036041399998,
+            -12.88502693199996,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "39",
+      "type": "Feature",
+      "properties": {
+        "Id": 576.0,
+        "dkmInicio": 293.456,
+        "dkmFinal": 298.535,
+        "dLongitud": 5.079,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.0469528609427,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.25211783099996,
+            -12.920052874999953,
+            0.0
+          ],
+          [
+            -70.24951934899997,
+            -12.915880202999972,
+            0.0
+          ],
+          [
+            -70.24113464399994,
+            -12.911170958999946,
+            0.0
+          ],
+          [
+            -70.23479461699998,
+            -12.911155700999927,
+            0.0
+          ],
+          [
+            -70.22665738899997,
+            -12.915160623999952,
+            0.0
+          ],
+          [
+            -70.20975399699995,
+            -12.915628264999953,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "40",
+      "type": "Feature",
+      "properties": {
+        "Id": 1222.0,
+        "dkmInicio": 363.553,
+        "dkmFinal": 368.627,
+        "dLongitud": 5.074,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.046419922065,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.67850875999994,
+            -12.846397399999944,
+            0.0
+          ],
+          [
+            -69.65527916099995,
+            -12.812990187999958,
+            0.0
+          ],
+          [
+            -69.65057795099995,
+            -12.809799625999972,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "41",
+      "type": "Feature",
+      "properties": {
+        "Id": 2133.0,
+        "dkmInicio": 429.259,
+        "dkmFinal": 429.79,
+        "dLongitud": 0.531,
+        "cCodRuta": "PE-30C",
+        "cNomRuta": "Emp. PE-3S (Urcos) - Abra Cuyuni - Ocongate - Abra Pirhuayani - Marcapata - Quincemil - Pte. Fortaleza - Pte. Inambari (PE-30 C) - Masuco - Sta. Rosa - Vírgenes del Sol (PE-5S) - Pto. Maldonado – Pte. Billinghurst - Alegría - Mavila - Pte. Mavila - A",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": "C08",
+        "cCodTraCon": "004",
+        "Shape_Leng": 0.0050004738559,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.16971588499996,
+            -12.585235594999972,
+            0.0
+          ],
+          [
+            -69.17231447499995,
+            -12.58096335099998,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "42",
+      "type": "Feature",
+      "properties": {
+        "Id": 5135.0,
+        "dkmInicio": 749.511635736,
+        "dkmFinal": 835.253990884,
+        "dLongitud": 85.7423551483,
+        "cCodRuta": "PE-5S",
+        "cNomRuta": "Pte. Reither (PE-5N) - Perené - Bajo Pichanaqui - Boca de Ipoki - Abra Portillo - Dv. Satipo (PE-24 A) - Mazamari (PE-28 C) - Pto.Ocopa (PE-5S A) - Poyeni - Camisea - Boca Manu - Boca Inambari - Vírgenes del Sol (PE-30 C) - Río Heath (fr. Bolivia).",
+        "cClasifica": "LONGITUDINAL DE LA SELVA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 9,
+        "cEstado": 6,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.769576501312,
+        "origenTipoTramo": "proyectadaV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.32601712599995,
+            -12.867427749999933,
+            0.0
+          ],
+          [
+            -71.32883424899995,
+            -12.84744741299994,
+            0.0
+          ],
+          [
+            -71.33281536699997,
+            -12.828417674999969,
+            0.0
+          ],
+          [
+            -71.33958636499995,
+            -12.808517716999972,
+            0.0
+          ],
+          [
+            -71.34286200799994,
+            -12.774027307999972,
+            0.0
+          ],
+          [
+            -71.33962970399995,
+            -12.741264212999965,
+            0.0
+          ],
+          [
+            -71.33613610499998,
+            -12.726674398999933,
+            0.0
+          ],
+          [
+            -71.32989215999999,
+            -12.710228867999945,
+            0.0
+          ],
+          [
+            -71.32449583799996,
+            -12.69924810599997,
+            0.0
+          ],
+          [
+            -71.31814826499993,
+            -12.690071794999938,
+            0.0
+          ],
+          [
+            -71.31459043799998,
+            -12.680025373999968,
+            0.0
+          ],
+          [
+            -71.29470448699993,
+            -12.647031683999955,
+            0.0
+          ],
+          [
+            -71.24566919399996,
+            -12.582731357999933,
+            0.0
+          ],
+          [
+            -71.15962091299997,
+            -12.474520020999933,
+            0.0
+          ],
+          [
+            -71.13250893899993,
+            -12.45245237399996,
+            0.0
+          ],
+          [
+            -71.04903558699993,
+            -12.394875382999942,
+            0.0
+          ],
+          [
+            -71.00963858699998,
+            -12.36091270999998,
+            0.0
+          ],
+          [
+            -70.99618419999996,
+            -12.353254375999938,
+            0.0
+          ],
+          [
+            -70.96429188499997,
+            -12.341715533999945,
+            0.0
+          ],
+          [
+            -70.95675683299999,
+            -12.33778050199993,
+            0.0
+          ],
+          [
+            -70.94759983199998,
+            -12.331536631999938,
+            0.0
+          ],
+          [
+            -70.93990579699994,
+            -12.32422138499993,
+            0.0
+          ],
+          [
+            -70.93310599099993,
+            -12.31338262099996,
+            0.0
+          ],
+          [
+            -70.92968905399994,
+            -12.303774045999944,
+            0.0
+          ],
+          [
+            -70.92421689399998,
+            -12.283288225999968,
+            0.0
+          ],
+          [
+            -70.92223481299999,
+            -12.279148520999968,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "43",
+      "type": "Feature",
+      "properties": {
+        "Id": 2186.0,
+        "dkmInicio": 1114.33881362,
+        "dkmFinal": 1133.8723645,
+        "dLongitud": 19.53355088,
+        "cCodRuta": "PE-5S",
+        "cNomRuta": "Pte. Reither (PE-5N) - Perené - Bajo Pichanaqui - Boca de Ipoki - Abra Portillo - Dv. Satipo (PE-24 A) - Mazamari (PE-28 C) - Pto.Ocopa (PE-5S A) - Poyeni - Camisea - Boca Manu - Boca Inambari - Vírgenes del Sol (PE-30 C) - Río Heath (fr. Bolivia).",
+        "cClasifica": "LONGITUDINAL DE LA SELVA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 9,
+        "cEstado": 6,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.175791643088,
+        "origenTipoTramo": "proyectadaV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.83374889099997,
+            -12.477433046999977,
+            0.0
+          ],
+          [
+            -68.65937446999999,
+            -12.499710009999944,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "44",
+      "type": "Feature",
+      "properties": {
+        "Id": 5187.0,
+        "dkmInicio": 835.253990884,
+        "dkmFinal": 908.484086615,
+        "dLongitud": 73.2300957314,
+        "cCodRuta": "PE-5S",
+        "cNomRuta": "Pte. Reither (PE-5N) - Perené - Bajo Pichanaqui - Boca de Ipoki - Abra Portillo - Dv. Satipo (PE-24 A) - Mazamari (PE-28 C) - Pto.Ocopa (PE-5S A) - Poyeni - Camisea - Boca Manu - Boca Inambari - Vírgenes del Sol (PE-30 C) - Río Heath (fr. Bolivia).",
+        "cClasifica": "LONGITUDINAL DE LA SELVA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 9,
+        "cEstado": 6,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.659657300836,
+        "origenTipoTramo": "proyectadaV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.92223481299999,
+            -12.279148520999968,
+            0.0
+          ],
+          [
+            -70.91327275099997,
+            -12.282430141999953,
+            0.0
+          ],
+          [
+            -70.88308601999995,
+            -12.298651158999974,
+            0.0
+          ],
+          [
+            -70.87222430299994,
+            -12.302639240999952,
+            0.0
+          ],
+          [
+            -70.86096341999996,
+            -12.303773905999947,
+            0.0
+          ],
+          [
+            -70.83196717199996,
+            -12.302518770999939,
+            0.0
+          ],
+          [
+            -70.82351573199998,
+            -12.30294876299996,
+            0.0
+          ],
+          [
+            -70.81538522399995,
+            -12.304936808999969,
+            0.0
+          ],
+          [
+            -70.80383497899999,
+            -12.31073037599998,
+            0.0
+          ],
+          [
+            -70.79295409599996,
+            -12.318225652999956,
+            0.0
+          ],
+          [
+            -70.78623272199997,
+            -12.323925926999948,
+            0.0
+          ],
+          [
+            -70.78031944299994,
+            -12.33036449399998,
+            0.0
+          ],
+          [
+            -70.77519092799997,
+            -12.337479153999936,
+            0.0
+          ],
+          [
+            -70.74637764599998,
+            -12.387614594999945,
+            0.0
+          ],
+          [
+            -70.72140546399999,
+            -12.43928993999998,
+            0.0
+          ],
+          [
+            -70.71414297399997,
+            -12.44981807499994,
+            0.0
+          ],
+          [
+            -70.70477484599996,
+            -12.45815461099994,
+            0.0
+          ],
+          [
+            -70.69050603799997,
+            -12.467687423999962,
+            0.0
+          ],
+          [
+            -70.66434356899998,
+            -12.483145140999966,
+            0.0
+          ],
+          [
+            -70.60928325499998,
+            -12.511388072999978,
+            0.0
+          ],
+          [
+            -70.53327552899998,
+            -12.55865423199998,
+            0.0
+          ],
+          [
+            -70.51017435099993,
+            -12.571395765999966,
+            0.0
+          ],
+          [
+            -70.43177135499997,
+            -12.608454030999951,
+            0.0
+          ],
+          [
+            -70.42184656399996,
+            -12.611807501999976,
+            0.0
+          ],
+          [
+            -70.41102071699999,
+            -12.614248067999938,
+            0.0
+          ],
+          [
+            -70.39093780499996,
+            -12.61626052899993,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "45",
+      "type": "Feature",
+      "properties": {
+        "Id": 666.0,
+        "dkmInicio": 908.484086615,
+        "dkmFinal": 1114.33881362,
+        "dLongitud": 205.854727002,
+        "cCodRuta": "PE-5S",
+        "cNomRuta": "Pte. Reither (PE-5N) - Perené - Bajo Pichanaqui - Boca de Ipoki - Abra Portillo - Dv. Satipo (PE-24 A) - Mazamari (PE-28 C) - Pto.Ocopa (PE-5S A) - Poyeni - Camisea - Boca Manu - Boca Inambari - Vírgenes del Sol (PE-30 C) - Río Heath (fr. Bolivia).",
+        "cClasifica": "LONGITUDINAL DE LA SELVA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 9,
+        "cEstado": 6,
+        "cTipRed": "RN",
+        "cCodDepart": "17",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 1.85153133059,
+        "origenTipoTramo": "proyectadaV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.39093780499996,
+            -12.61626052899993,
+            0.0
+          ],
+          [
+            -70.38306019399994,
+            -12.619382968999957,
+            0.0
+          ],
+          [
+            -70.36528679399999,
+            -12.63086991199998,
+            0.0
+          ],
+          [
+            -70.26969555799997,
+            -12.65016640999994,
+            0.0
+          ],
+          [
+            -70.18632742299997,
+            -12.635573016999956,
+            0.0
+          ],
+          [
+            -70.12063377299995,
+            -12.63700932699993,
+            0.0
+          ],
+          [
+            -70.02798716199999,
+            -12.656789335999974,
+            0.0
+          ],
+          [
+            -69.92392192599993,
+            -12.690476460999946,
+            0.0
+          ],
+          [
+            -69.82757754999994,
+            -12.71873702199997,
+            0.0
+          ],
+          [
+            -69.75737329999998,
+            -12.730547199999933,
+            0.0
+          ],
+          [
+            -69.73005630799997,
+            -12.722864912999967,
+            0.0
+          ],
+          [
+            -69.71177770799994,
+            -12.72396648299997,
+            0.0
+          ],
+          [
+            -69.70923737999993,
+            -12.725043338999967,
+            0.0
+          ],
+          [
+            -69.70719910099996,
+            -12.727384566999945,
+            0.0
+          ],
+          [
+            -69.70697021899997,
+            -12.735944746999962,
+            0.0
+          ],
+          [
+            -69.69587707899996,
+            -12.752331732999949,
+            0.0
+          ],
+          [
+            -69.69549560999997,
+            -12.756296156999952,
+            0.0
+          ],
+          [
+            -69.69851684999998,
+            -12.762636183999973,
+            0.0
+          ],
+          [
+            -69.69937897099999,
+            -12.76686000799998,
+            0.0
+          ],
+          [
+            -69.69876861999995,
+            -12.768505095999956,
+            0.0
+          ],
+          [
+            -69.69233703999998,
+            -12.774482725999974,
+            0.0
+          ],
+          [
+            -69.69046783899995,
+            -12.783704756999953,
+            0.0
+          ],
+          [
+            -69.68108368299994,
+            -12.79672050399995,
+            0.0
+          ],
+          [
+            -69.67903900599998,
+            -12.804920195999955,
+            0.0
+          ],
+          [
+            -69.67813110799995,
+            -12.816143034999982,
+            0.0
+          ],
+          [
+            -69.67604828299994,
+            -12.82080364199993,
+            0.0
+          ],
+          [
+            -69.67299652499997,
+            -12.824641226999972,
+            0.0
+          ],
+          [
+            -69.66209411999995,
+            -12.832526205999955,
+            0.0
+          ],
+          [
+            -69.65418243799996,
+            -12.832184790999975,
+            0.0
+          ],
+          [
+            -69.65199280199994,
+            -12.832842825999933,
+            0.0
+          ],
+          [
+            -69.64770508199996,
+            -12.83725833799997,
+            0.0
+          ],
+          [
+            -69.64347839799996,
+            -12.83931636699998,
+            0.0
+          ],
+          [
+            -69.63999176499993,
+            -12.84382057099998,
+            0.0
+          ],
+          [
+            -69.63931274799995,
+            -12.850120543999935,
+            0.0
+          ],
+          [
+            -69.63687897199998,
+            -12.851773260999948,
+            0.0
+          ],
+          [
+            -69.63037872799998,
+            -12.853575705999958,
+            0.0
+          ],
+          [
+            -69.62844086099994,
+            -12.855328558999929,
+            0.0
+          ],
+          [
+            -69.62630463099998,
+            -12.862544058999958,
+            0.0
+          ],
+          [
+            -69.62396240699996,
+            -12.865738867999937,
+            0.0
+          ],
+          [
+            -69.61132812999995,
+            -12.86601924799993,
+            0.0
+          ],
+          [
+            -69.60914612299996,
+            -12.867154120999942,
+            0.0
+          ],
+          [
+            -69.60339355899998,
+            -12.87354659999994,
+            0.0
+          ],
+          [
+            -69.59526192299995,
+            -12.877359100999968,
+            0.0
+          ],
+          [
+            -69.54746004599997,
+            -12.88842795599993,
+            0.0
+          ],
+          [
+            -69.33336531399993,
+            -12.778747689999932,
+            0.0
+          ],
+          [
+            -69.13109567399994,
+            -12.65395962599996,
+            0.0
+          ],
+          [
+            -69.08626893399997,
+            -12.590947291999953,
+            0.0
+          ],
+          [
+            -69.05916131099997,
+            -12.535931178999931,
+            0.0
+          ],
+          [
+            -69.03148102799997,
+            -12.506119354999953,
+            0.0
+          ],
+          [
+            -68.99932817099995,
+            -12.49478596399996,
+            0.0
+          ],
+          [
+            -68.95306408799996,
+            -12.509671177999962,
+            0.0
+          ],
+          [
+            -68.91308090799998,
+            -12.504567574999953,
+            0.0
+          ],
+          [
+            -68.90339501799997,
+            -12.497347392999927,
+            0.0
+          ],
+          [
+            -68.89405484699995,
+            -12.47417640499998,
+            0.0
+          ],
+          [
+            -68.88450007199998,
+            -12.46767624499995,
+            0.0
+          ],
+          [
+            -68.86192083499998,
+            -12.464126918999966,
+            0.0
+          ],
+          [
+            -68.83374889099997,
+            -12.477433046999977,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "46",
+      "type": "Feature",
+      "properties": {
+        "Id": 5783.0,
+        "dkmInicio": 7.99,
+        "dkmFinal": 8.6,
+        "dLongitud": 0.61,
+        "cCodRuta": "PE-30E",
+        "cNomRuta": "Emp. PE 30C San Lorenzo – Alto Peru (Frontera Con Bolivia)",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "RM 205-2017 MTC (Temporal)",
+        "cReclasifi": "PROVISIONAL - RECLASIFICADAS TEMPORALMENTE",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 4,
+        "cEstado": 4,
+        "cTipRed": "RNT",
+        "cCodDepart": "17",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00541615643402,
+        "origenTipoTramo": "trochaV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.25911178899997,
+            -11.452294518999963,
+            -0.00010000000474974513
+          ],
+          [
+            -69.25708623699995,
+            -11.45727676599995,
+            -0.00010000000474974513
+          ]
+        ]
+      }
+    },
+    {
+      "id": "47",
+      "type": "Feature",
+      "properties": {
+        "Id": 4782.0,
+        "dkmInicio": -8.881784197e-16,
+        "dkmFinal": 7.99,
+        "dLongitud": 7.99,
+        "cCodRuta": "PE-30E",
+        "cNomRuta": "Emp. PE 30C San Lorenzo – Alto Peru (Frontera Con Bolivia)",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "RM 205-2017 MTC (Temporal)",
+        "cReclasifi": "PROVISIONAL - RECLASIFICADAS TEMPORALMENTE",
+        "cDepartame": "MADRE DE DIOS",
+        "cSuperfici": 4,
+        "cEstado": 4,
+        "cTipRed": "RNT",
+        "cCodDepart": "17",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0712997151304,
+        "origenTipoTramo": "trochaV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.32150841699996,
+            -11.453932261999967,
+            0.0
+          ],
+          [
+            -69.32139528099998,
+            -11.45023176799998,
+            0.0
+          ],
+          [
+            -69.32059979599995,
+            -11.449309204999963,
+            0.0
+          ],
+          [
+            -69.31104356699996,
+            -11.451068040999928,
+            0.0
+          ],
+          [
+            -69.30713993899997,
+            -11.450496446999978,
+            0.0
+          ],
+          [
+            -69.29133874899998,
+            -11.442314762999956,
+            0.0
+          ],
+          [
+            -69.26200152699994,
+            -11.448669537999933,
+            0.0
+          ],
+          [
+            -69.25911178899997,
+            -11.452294518999963,
+            -0.00010000000474974513
+          ]
+        ]
+      }
+    }
+  ]
+}

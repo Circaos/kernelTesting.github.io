@@ -1,0 +1,1892 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "Id": 5392.0,
+        "dkmInicio": 1300.195,
+        "dkmFinal": 1308.016,
+        "dLongitud": 7.821,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.0703297804006,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.29590317499998,
+            -3.5089629499999546,
+            0.0
+          ],
+          [
+            -80.29328758699995,
+            -3.5094110639999485,
+            0.0
+          ],
+          [
+            -80.28749569399997,
+            -3.5152753159999293,
+            0.0
+          ],
+          [
+            -80.28221222199994,
+            -3.517622339999946,
+            0.0
+          ],
+          [
+            -80.27822275199998,
+            -3.5178234029999658,
+            0.0
+          ],
+          [
+            -80.26365886699995,
+            -3.5157236529999523,
+            0.0
+          ],
+          [
+            -80.24997650399996,
+            -3.5120836959999338,
+            0.0
+          ],
+          [
+            -80.24790855799995,
+            -3.5100253539999358,
+            0.0
+          ],
+          [
+            -80.24299775899993,
+            -3.501535002999958,
+            0.0
+          ],
+          [
+            -80.24001083099995,
+            -3.499139206999928,
+            0.0
+          ],
+          [
+            -80.23641664699994,
+            -3.4976782649999336,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "Id": 4962.0,
+        "dkmInicio": 1276.195,
+        "dkmFinal": 1276.824,
+        "dLongitud": 0.629,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.00646059259694,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.48458442699996,
+            -3.5979405699999347,
+            0.0
+          ],
+          [
+            -80.48236557999996,
+            -3.596674521999944,
+            0.0
+          ],
+          [
+            -80.47996453099995,
+            -3.593629537999959,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "Id": 6305.0,
+        "dkmInicio": 1258.667,
+        "dkmFinal": 1259.228,
+        "dLongitud": 0.561,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.00496199633931,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.62116191799998,
+            -3.6583693389999326,
+            0.0
+          ],
+          [
+            -80.61806866599994,
+            -3.6545002499999555,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "Id": 5398.0,
+        "dkmInicio": 1187.295,
+        "dkmFinal": 1193.067,
+        "dLongitud": 5.772,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.0521223863612,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.98529343499996,
+            -4.0651911319999385,
+            0.0
+          ],
+          [
+            -80.95798777699997,
+            -4.055582498999968,
+            0.0
+          ],
+          [
+            -80.95612452299997,
+            -4.054319447999944,
+            0.0
+          ],
+          [
+            -80.95404897299994,
+            -4.0500569829999336,
+            0.0
+          ],
+          [
+            -80.95404078199994,
+            -4.043466543999955,
+            0.0
+          ],
+          [
+            -80.95838686599996,
+            -4.0350431469999535,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "Id": 671.0,
+        "dkmInicio": 5.187,
+        "dkmFinal": 6.936,
+        "dLongitud": 1.749,
+        "cCodRuta": "PE-1NO",
+        "cNomRuta": "Emp. PE-1N (Ov. Zarumilla) - Pte. Zarumilla - Zarumilla - Dv. El Bendito - Pte. Piedritas - Pte. El Bolsico - Pte. Internacional Aguas Verdes (frontera con Ecuador)",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "RM N° 783-2013-MTC/02",
+        "cReclasifi": "RVN reclasificada temporalmente con RVD",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0157530231599,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.25857767599996,
+            -3.4840028419999385,
+            0.0
+          ],
+          [
+            -80.24310696199996,
+            -3.481377585999951,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "Id": 4958.0,
+        "dkmInicio": 1308.016,
+        "dkmFinal": 1308.711,
+        "dLongitud": 0.695,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.00695484966929,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.23641664699994,
+            -3.4976782649999336,
+            0.0
+          ],
+          [
+            -80.22949393799996,
+            -3.4972270859999526,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "Id": 4961.0,
+        "dkmInicio": 1180.401,
+        "dkmFinal": 1182.728,
+        "dLongitud": 2.327,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.0210070278303,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.03027436399998,
+            -4.102000302999954,
+            0.0
+          ],
+          [
+            -81.02835970999996,
+            -4.100452252999958,
+            0.0
+          ],
+          [
+            -81.02090793199994,
+            -4.083510437999962,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "Id": 6620.0,
+        "dkmInicio": 1274.228,
+        "dkmFinal": 1276.195,
+        "dLongitud": 1.967,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.0198404977622,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.50202499999995,
+            -3.606598498999972,
+            0.0
+          ],
+          [
+            -80.49177304499995,
+            -3.5994973109999364,
+            0.0
+          ],
+          [
+            -80.48458442699996,
+            -3.5979405699999347,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "Id": 4994.0,
+        "dkmInicio": 1296.702,
+        "dkmFinal": 1300.195,
+        "dLongitud": 3.493,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.0317034490253,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.32641639299999,
+            -3.5164106649999667,
+            0.0
+          ],
+          [
+            -80.29940199399994,
+            -3.508539895999945,
+            0.0
+          ],
+          [
+            -80.29590317499998,
+            -3.5089629499999546,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "Id": 6309.0,
+        "dkmInicio": 1201.801,
+        "dkmFinal": 1205.928,
+        "dLongitud": 4.127,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.037756293597,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.95536889199997,
+            -3.97906852899996,
+            0.0
+          ],
+          [
+            -80.94572910799997,
+            -3.967821024999978,
+            0.0
+          ],
+          [
+            -80.94544408099995,
+            -3.965676344999963,
+            0.0
+          ],
+          [
+            -80.94750146199993,
+            -3.9515948429999526,
+            0.0
+          ],
+          [
+            -80.94680056699997,
+            -3.950001808999957,
+            0.0
+          ],
+          [
+            -80.94322205299994,
+            -3.9469308779999324,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "Id": 6619.0,
+        "dkmInicio": 1259.228,
+        "dkmFinal": 1266.228,
+        "dLongitud": 7.0,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.061819276763,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.61806866599994,
+            -3.6545002499999555,
+            0.0
+          ],
+          [
+            -80.61478069699996,
+            -3.6494024079999576,
+            0.0
+          ],
+          [
+            -80.60375591799999,
+            -3.640155292999964,
+            0.0
+          ],
+          [
+            -80.60022892499995,
+            -3.6390622489999487,
+            0.0
+          ],
+          [
+            -80.58324128399994,
+            -3.6371224749999556,
+            0.0
+          ],
+          [
+            -80.56559773699996,
+            -3.626678583999933,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "Id": 5006.0,
+        "dkmInicio": 1269.228,
+        "dkmFinal": 1272.228,
+        "dLongitud": 3.0,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.0264774514125,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.54232665499995,
+            -3.615181621999966,
+            0.0
+          ],
+          [
+            -80.52399905099998,
+            -3.618977116999929,
+            0.0
+          ],
+          [
+            -80.52123453199994,
+            -3.618470722999973,
+            0.0
+          ],
+          [
+            -80.51700698199994,
+            -3.6159585039999342,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "Id": 5002.0,
+        "dkmInicio": 1182.728,
+        "dkmFinal": 1187.295,
+        "dLongitud": 4.567,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.0412443218248,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.02090793199994,
+            -4.083510437999962,
+            0.0
+          ],
+          [
+            -81.01947844899996,
+            -4.080619677999948,
+            0.0
+          ],
+          [
+            -81.01763653999996,
+            -4.07907199999994,
+            0.0
+          ],
+          [
+            -81.00401627499997,
+            -4.075610694999966,
+            0.0
+          ],
+          [
+            -80.98529343499996,
+            -4.0651911319999385,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "Id": 6546.0,
+        "dkmInicio": 1277.228,
+        "dkmFinal": 1277.824,
+        "dLongitud": 0.596,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.00527471090522,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.47770871199998,
+            -3.590678078999929,
+            0.0
+          ],
+          [
+            -80.47451530099994,
+            -3.5864801129999364,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "Id": 8393.0,
+        "dkmInicio": 1253.228,
+        "dkmFinal": 1258.667,
+        "dLongitud": 5.439,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.0488000403143,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.66245116099998,
+            -3.673683399999959,
+            0.0
+          ],
+          [
+            -80.65873258999994,
+            -3.6693577669999513,
+            0.0
+          ],
+          [
+            -80.65104611899994,
+            -3.6692898379999406,
+            0.0
+          ],
+          [
+            -80.64517380999996,
+            -3.6679354329999683,
+            0.0
+          ],
+          [
+            -80.63814533299995,
+            -3.67048448099996,
+            0.0
+          ],
+          [
+            -80.63583672899995,
+            -3.6703067359999295,
+            0.0
+          ],
+          [
+            -80.63157276999993,
+            -3.665332543999966,
+            0.0
+          ],
+          [
+            -80.62661383899996,
+            -3.6631152929999757,
+            0.0
+          ],
+          [
+            -80.62116191799998,
+            -3.6583693389999326,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "Id": 4999.0,
+        "dkmInicio": 1280.042,
+        "dkmFinal": 1281.667,
+        "dLongitud": 1.625,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "RM Nº 337-2013-MTC/02/DS011_1",
+        "cReclasifi": "RVN reclasificada temporalmente con RVD",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.0146661727441,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.46133960499998,
+            -3.5713883219999616,
+            0.0
+          ],
+          [
+            -80.45292558299997,
+            -3.5593921129999444,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "type": "Feature",
+      "properties": {
+        "Id": 4995.0,
+        "dkmInicio": 1283.685,
+        "dkmFinal": 1286.718,
+        "dLongitud": 3.033,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.027332182036,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.43585769399994,
+            -3.554955022999934,
+            0.0
+          ],
+          [
+            -80.40894155999996,
+            -3.550315307999938,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "type": "Feature",
+      "properties": {
+        "Id": 5010.0,
+        "dkmInicio": 1193.067,
+        "dkmFinal": 1197.318,
+        "dLongitud": 4.251,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.0384128292732,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.95838686599996,
+            -4.0350431469999535,
+            0.0
+          ],
+          [
+            -80.96758064399995,
+            -4.018711696999958,
+            0.0
+          ],
+          [
+            -80.97749215599998,
+            -4.014366575999929,
+            0.0
+          ],
+          [
+            -80.97907324399995,
+            -4.006120965999969,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "type": "Feature",
+      "properties": {
+        "Id": 179.0,
+        "dkmInicio": 1278.918,
+        "dkmFinal": 1280.042,
+        "dLongitud": 1.124,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.0101028016843,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.46801365499994,
+            -3.5789593589999527,
+            0.0
+          ],
+          [
+            -80.46133960499998,
+            -3.5713883219999616,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "type": "Feature",
+      "properties": {
+        "Id": 4997.0,
+        "dkmInicio": 1281.667,
+        "dkmFinal": 1283.685,
+        "dLongitud": 2.018,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "RM Nº 337-2013-MTC/02/DS011_1",
+        "cReclasifi": "RVN reclasificada temporalmente con RVD",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.0181756615706,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.45292558299997,
+            -3.5593921129999444,
+            0.0
+          ],
+          [
+            -80.45065984199994,
+            -3.5572652909999647,
+            0.0
+          ],
+          [
+            -80.43585769399994,
+            -3.554955022999934,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "type": "Feature",
+      "properties": {
+        "Id": 950.0,
+        "dkmInicio": -8.881784197e-16,
+        "dkmFinal": 5.187,
+        "dLongitud": 5.187,
+        "cCodRuta": "PE-1NO",
+        "cNomRuta": "Emp. PE-1N (Ov. Zarumilla) - Pte. Zarumilla - Zarumilla - Dv. El Bendito - Pte. Piedritas - Pte. El Bolsico - Pte. Internacional Aguas Verdes (frontera con Ecuador)",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "RM N° 783-2013-MTC/02",
+        "cReclasifi": "RVN reclasificada temporalmente con RVD",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0467300264404,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.29590317499998,
+            -3.5089629499999546,
+            0.0
+          ],
+          [
+            -80.29444400299997,
+            -3.5086244169999645,
+            0.0
+          ],
+          [
+            -80.29414748899995,
+            -3.5070018769999365,
+            0.0
+          ],
+          [
+            -80.28115081499999,
+            -3.502836226999932,
+            0.0
+          ],
+          [
+            -80.26461600999994,
+            -3.488842009999928,
+            0.0
+          ],
+          [
+            -80.26266479199995,
+            -3.4881801599999562,
+            0.0
+          ],
+          [
+            -80.25857767599996,
+            -3.4840028419999385,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "21",
+      "type": "Feature",
+      "properties": {
+        "Id": 5408.0,
+        "dkmInicio": 1286.718,
+        "dkmFinal": 1288.101,
+        "dLongitud": 1.383,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.0128091224834,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.40894155999996,
+            -3.550315307999938,
+            0.0
+          ],
+          [
+            -80.40018239599993,
+            -3.5483065369999736,
+            0.0
+          ],
+          [
+            -80.39683302599997,
+            -3.5465169269999706,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "type": "Feature",
+      "properties": {
+        "Id": 5394.0,
+        "dkmInicio": 1223.728,
+        "dkmFinal": 1243.228,
+        "dLongitud": 19.5,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.175262103311,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.82850631099996,
+            -3.8519938629999615,
+            0.0
+          ],
+          [
+            -80.79333720899996,
+            -3.763801566999973,
+            0.0
+          ],
+          [
+            -80.78603645699997,
+            -3.7489630349999743,
+            0.0
+          ],
+          [
+            -80.78236240299998,
+            -3.7449837559999537,
+            0.0
+          ],
+          [
+            -80.77936803199998,
+            -3.7451677429999677,
+            0.0
+          ],
+          [
+            -80.77707367499994,
+            -3.7436054449999574,
+            0.0
+          ],
+          [
+            -80.77432225599995,
+            -3.743000224999946,
+            0.0
+          ],
+          [
+            -80.76919166299996,
+            -3.738771430999975,
+            0.0
+          ],
+          [
+            -80.76430682399996,
+            -3.729989889999956,
+            0.0
+          ],
+          [
+            -80.75726180399994,
+            -3.7236816219999582,
+            0.0
+          ],
+          [
+            -80.75408912799998,
+            -3.7189886949999504,
+            0.0
+          ],
+          [
+            -80.75217341999996,
+            -3.718300607999936,
+            0.0
+          ],
+          [
+            -80.74865859399995,
+            -3.718715007999947,
+            0.0
+          ],
+          [
+            -80.74083119699998,
+            -3.7145828499999425,
+            0.0
+          ],
+          [
+            -80.73769553099999,
+            -3.714747809999949,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "23",
+      "type": "Feature",
+      "properties": {
+        "Id": 8391.0,
+        "dkmInicio": 1205.928,
+        "dkmFinal": 1223.728,
+        "dLongitud": 17.8,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.15977404143,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.94322205299994,
+            -3.9469308779999324,
+            0.0
+          ],
+          [
+            -80.94186164699994,
+            -3.94598848499993,
+            0.0
+          ],
+          [
+            -80.93797353499997,
+            -3.945340951999981,
+            0.0
+          ],
+          [
+            -80.92373720599994,
+            -3.9360973039999294,
+            0.0
+          ],
+          [
+            -80.91327757199997,
+            -3.9304664539999408,
+            0.0
+          ],
+          [
+            -80.90596361299998,
+            -3.9245953729999314,
+            0.0
+          ],
+          [
+            -80.89604121599996,
+            -3.919547755999929,
+            0.0
+          ],
+          [
+            -80.89058605599996,
+            -3.9152193899999475,
+            0.0
+          ],
+          [
+            -80.88725316399996,
+            -3.914724628999977,
+            0.0
+          ],
+          [
+            -80.88245927799994,
+            -3.907800950999956,
+            0.0
+          ],
+          [
+            -80.87878047499999,
+            -3.905761712999947,
+            0.0
+          ],
+          [
+            -80.87537148899997,
+            -3.9022734599999467,
+            0.0
+          ],
+          [
+            -80.86808837399997,
+            -3.898866583999961,
+            0.0
+          ],
+          [
+            -80.85550142899996,
+            -3.8956441749999726,
+            0.0
+          ],
+          [
+            -80.84534731199994,
+            -3.883960975999969,
+            0.0
+          ],
+          [
+            -80.83885020099996,
+            -3.880762526999945,
+            0.0
+          ],
+          [
+            -80.83071421899996,
+            -3.8735298899999293,
+            0.0
+          ],
+          [
+            -80.82914492999998,
+            -3.8673852809999403,
+            0.0
+          ],
+          [
+            -80.82933556099994,
+            -3.855240564999974,
+            0.0
+          ],
+          [
+            -80.82850631099996,
+            -3.8519938629999615,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "type": "Feature",
+      "properties": {
+        "Id": 6306.0,
+        "dkmInicio": 1266.228,
+        "dkmFinal": 1269.228,
+        "dLongitud": 3.0,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.0264928945433,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.56559773699996,
+            -3.626678583999933,
+            0.0
+          ],
+          [
+            -80.54692362099996,
+            -3.6155000179999774,
+            0.0
+          ],
+          [
+            -80.54232665499995,
+            -3.615181621999966,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "25",
+      "type": "Feature",
+      "properties": {
+        "Id": 5009.0,
+        "dkmInicio": 1288.101,
+        "dkmFinal": 1296.702,
+        "dLongitud": 8.601,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.0771579819353,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.39683302599997,
+            -3.5465169269999706,
+            0.0
+          ],
+          [
+            -80.38568136999999,
+            -3.5384790689999477,
+            0.0
+          ],
+          [
+            -80.36579724899997,
+            -3.530352744999959,
+            0.0
+          ],
+          [
+            -80.35497518799997,
+            -3.524871517999941,
+            0.0
+          ],
+          [
+            -80.32641639299999,
+            -3.5164106649999667,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "type": "Feature",
+      "properties": {
+        "Id": 8392.0,
+        "dkmInicio": 1243.228,
+        "dkmFinal": 1253.228,
+        "dLongitud": 10.0,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.0897254752001,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.73769553099999,
+            -3.714747809999949,
+            0.0
+          ],
+          [
+            -80.73212958899995,
+            -3.716362594999964,
+            0.0
+          ],
+          [
+            -80.73005860199999,
+            -3.7160304229999497,
+            0.0
+          ],
+          [
+            -80.71978727699997,
+            -3.7070329299999685,
+            0.0
+          ],
+          [
+            -80.70091690599997,
+            -3.693799278999961,
+            0.0
+          ],
+          [
+            -80.69442459799996,
+            -3.6903262329999507,
+            0.0
+          ],
+          [
+            -80.69172960699996,
+            -3.6870646049999323,
+            0.0
+          ],
+          [
+            -80.68374506299995,
+            -3.6806351019999397,
+            0.0
+          ],
+          [
+            -80.67744677499996,
+            -3.680593053999928,
+            0.0
+          ],
+          [
+            -80.67311392699997,
+            -3.6795997419999367,
+            0.0
+          ],
+          [
+            -80.66656815099998,
+            -3.6768230029999245,
+            0.0
+          ],
+          [
+            -80.66245116099998,
+            -3.673683399999959,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "27",
+      "type": "Feature",
+      "properties": {
+        "Id": 6545.0,
+        "dkmInicio": 1277.824,
+        "dkmFinal": 1278.918,
+        "dLongitud": 1.094,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.00995644018659,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.47451530099994,
+            -3.5864801129999364,
+            0.0
+          ],
+          [
+            -80.46801365499994,
+            -3.5789593589999527,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "28",
+      "type": "Feature",
+      "properties": {
+        "Id": 483.0,
+        "dkmInicio": -4.4408920985e-16,
+        "dkmFinal": 3.228,
+        "dLongitud": 3.228,
+        "cCodRuta": "PE-1NÑ",
+        "cNomRuta": "Emp. PE-1N (Dv. San Pedro de las Incas) - Dv. San Jacinto - Dv. Garbanzal - Emp. PE-1N (Aeropuerto)",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0291376050976,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.48455633599997,
+            -3.597932815999968,
+            0.0
+          ],
+          [
+            -80.48371886899997,
+            -3.5992355349999343,
+            0.0
+          ],
+          [
+            -80.48551177599995,
+            -3.602050780999946,
+            0.0
+          ],
+          [
+            -80.48502158799994,
+            -3.6041431429999307,
+            0.0
+          ],
+          [
+            -80.48185920399999,
+            -3.605985640999961,
+            0.0
+          ],
+          [
+            -80.48002624199995,
+            -3.609930037999959,
+            0.0
+          ],
+          [
+            -80.47727775199996,
+            -3.6088867189999405,
+            0.0
+          ],
+          [
+            -80.46995734799998,
+            -3.6113052369999536,
+            0.0
+          ],
+          [
+            -80.46990846899996,
+            -3.609237309999969,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "29",
+      "type": "Feature",
+      "properties": {
+        "Id": 8390.0,
+        "dkmInicio": 1197.318,
+        "dkmFinal": 1201.801,
+        "dLongitud": 4.483,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.0396022287208,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.97907324399995,
+            -4.006120965999969,
+            0.0
+          ],
+          [
+            -80.97854789999997,
+            -4.0034835239999325,
+            0.0
+          ],
+          [
+            -80.97466485799998,
+            -3.998029777999932,
+            0.0
+          ],
+          [
+            -80.97191933499994,
+            -3.9895419869999387,
+            0.0
+          ],
+          [
+            -80.96575863799995,
+            -3.983116539999969,
+            0.0
+          ],
+          [
+            -80.95942011599999,
+            -3.9830625919999534,
+            0.0
+          ],
+          [
+            -80.95536889199997,
+            -3.97906852899996,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "30",
+      "type": "Feature",
+      "properties": {
+        "Id": 6308.0,
+        "dkmInicio": 1276.824,
+        "dkmFinal": 1277.228,
+        "dLongitud": 0.404,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.00371515174137,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.47996453099995,
+            -3.593629537999959,
+            0.0
+          ],
+          [
+            -80.47770871199998,
+            -3.590678078999929,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "31",
+      "type": "Feature",
+      "properties": {
+        "Id": 6307.0,
+        "dkmInicio": 1272.228,
+        "dkmFinal": 1274.228,
+        "dLongitud": 2.0,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": "C15",
+        "cCodTraCon": "SU-ILPZ",
+        "Shape_Leng": 0.0176691425106,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.51700698199994,
+            -3.6159585039999342,
+            0.0
+          ],
+          [
+            -80.50202499999995,
+            -3.606598498999972,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "32",
+      "type": "Feature",
+      "properties": {
+        "Id": 1012.0,
+        "dkmInicio": 3.228,
+        "dkmFinal": 15.1669451882,
+        "dLongitud": 11.9389451882,
+        "cCodRuta": "PE-1NÑ",
+        "cNomRuta": "Emp. PE-1N (Dv. San Pedro de las Incas) - Dv. San Jacinto - Dv. Garbanzal - Emp. PE-1N (Aeropuerto)",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "TUMBES",
+        "cSuperfici": 9,
+        "cEstado": 6,
+        "cTipRed": "RN",
+        "cCodDepart": "24",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.10771720819,
+        "origenTipoTramo": "proyectadaV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.46990846899996,
+            -3.609237309999969,
+            0.0
+          ],
+          [
+            -80.46681744399996,
+            -3.6062207809999336,
+            0.0
+          ],
+          [
+            -80.46482306399997,
+            -3.6023428189999436,
+            0.0
+          ],
+          [
+            -80.45983711199995,
+            -3.599905241999977,
+            0.0
+          ],
+          [
+            -80.45138767999998,
+            -3.586627562999979,
+            0.0
+          ],
+          [
+            -80.44753843099994,
+            -3.5788534459999255,
+            0.0
+          ],
+          [
+            -80.43901060699994,
+            -3.570572137999932,
+            0.0
+          ],
+          [
+            -80.43090056099999,
+            -3.568738221999979,
+            0.0
+          ],
+          [
+            -80.42417906499998,
+            -3.5682942859999685,
+            0.0
+          ],
+          [
+            -80.41841887199996,
+            -3.563939808999976,
+            0.0
+          ],
+          [
+            -80.41271208499995,
+            -3.5622801779999804,
+            0.0
+          ],
+          [
+            -80.40684668599994,
+            -3.5622180389999585,
+            0.0
+          ],
+          [
+            -80.40286842099994,
+            -3.561286111999948,
+            0.0
+          ],
+          [
+            -80.39822122299995,
+            -3.5574708259999284,
+            0.0
+          ],
+          [
+            -80.39694969399994,
+            -3.5529504639999345,
+            0.0
+          ],
+          [
+            -80.39516070699995,
+            -3.551203459999954,
+            0.0
+          ],
+          [
+            -80.39536042499998,
+            -3.5498617999999738,
+            0.0
+          ],
+          [
+            -80.39645471699998,
+            -3.5494085409999343,
+            0.0
+          ],
+          [
+            -80.39683302599997,
+            -3.5465169269999706,
+            0.0
+          ]
+        ]
+      }
+    }
+  ]
+}

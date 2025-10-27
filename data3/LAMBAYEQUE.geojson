@@ -1,0 +1,5064 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "Id": 91.0,
+        "dkmInicio": 55.665,
+        "dkmFinal": 60.573,
+        "dLongitud": 4.908,
+        "cCodRuta": "PE-1NI",
+        "cNomRuta": "Emp. PE-1N (Nvo. Mocupe) - Zaña - Cayaltí - Nueva Arica - Oyotún - Las Delicias - Dv. Bebederos  - Niepos - Bolivar",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 2,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "ALEE01",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0438199692519,
+        "origenTipoTramo": "afirmadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.29430770799996,
+            -6.794334411999955,
+            0.0
+          ],
+          [
+            -79.29385799099998,
+            -6.793765814999972,
+            0.0
+          ],
+          [
+            -79.29130744899999,
+            -6.7949752809999495,
+            0.0
+          ],
+          [
+            -79.28911590499996,
+            -6.794843673999935,
+            0.0
+          ],
+          [
+            -79.28464126499995,
+            -6.793466567999928,
+            0.0
+          ],
+          [
+            -79.28167152399999,
+            -6.7912101749999465,
+            0.0
+          ],
+          [
+            -79.27834129299998,
+            -6.79127693199996,
+            0.0
+          ],
+          [
+            -79.27438222699999,
+            -6.793088173999934,
+            0.0
+          ],
+          [
+            -79.27388000399998,
+            -6.7887935639999455,
+            0.0
+          ],
+          [
+            -79.26929473799999,
+            -6.787939071999972,
+            0.0
+          ],
+          [
+            -79.26605987499994,
+            -6.789457320999929,
+            0.0
+          ],
+          [
+            -79.26485907999995,
+            -6.7917199729999425,
+            0.0
+          ],
+          [
+            -79.26524925199999,
+            -6.792610167999953,
+            0.0
+          ],
+          [
+            -79.26364898599996,
+            -6.794031142999927,
+            0.0
+          ],
+          [
+            -79.26292769199995,
+            -6.795964486999935,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "Id": 2878.0,
+        "dkmInicio": 48.738,
+        "dkmFinal": 49.226,
+        "dLongitud": 0.488,
+        "cCodRuta": "PE-1NI",
+        "cNomRuta": "Emp. PE-1N (Nvo. Mocupe) - Zaña - Cayaltí - Nueva Arica - Oyotún - Las Delicias - Dv. Bebederos  - Niepos - Bolivar",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 2,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "ALEE01",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00701751022717,
+        "origenTipoTramo": "afirmadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.30559833199999,
+            -6.8527066659999605,
+            0.0
+          ],
+          [
+            -79.30266143299997,
+            -6.846410254999967,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "Id": 3243.0,
+        "dkmInicio": 46.797,
+        "dkmFinal": 48.738,
+        "dLongitud": 1.941,
+        "cCodRuta": "PE-1NI",
+        "cNomRuta": "Emp. PE-1N (Nvo. Mocupe) - Zaña - Cayaltí - Nueva Arica - Oyotún - Las Delicias - Dv. Bebederos  - Niepos - Bolivar",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 2,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "ALEE01",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00926089480227,
+        "origenTipoTramo": "afirmadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.30382807299998,
+            -6.860250572999973,
+            0.0
+          ],
+          [
+            -79.30369446199995,
+            -6.855714261999935,
+            0.0
+          ],
+          [
+            -79.30504067099997,
+            -6.855556554999964,
+            0.0
+          ],
+          [
+            -79.30559833199999,
+            -6.8527066659999605,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "Id": 1825.0,
+        "dkmInicio": 60.573,
+        "dkmFinal": 61.159,
+        "dLongitud": 0.586,
+        "cCodRuta": "PE-1NI",
+        "cNomRuta": "Emp. PE-1N (Nvo. Mocupe) - Zaña - Cayaltí - Nueva Arica - Oyotún - Las Delicias - Dv. Bebederos  - Niepos - Bolivar",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 2,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "ALEE01",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00524534666517,
+        "origenTipoTramo": "afirmadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.26292769199995,
+            -6.795964486999935,
+            0.0
+          ],
+          [
+            -79.26202011099997,
+            -6.796937941999943,
+            0.0
+          ],
+          [
+            -79.25844024199995,
+            -6.797504400999969,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "Id": 1922.0,
+        "dkmInicio": 53.185,
+        "dkmFinal": 55.665,
+        "dLongitud": 2.48,
+        "cCodRuta": "PE-1NI",
+        "cNomRuta": "Emp. PE-1N (Nvo. Mocupe) - Zaña - Cayaltí - Nueva Arica - Oyotún - Las Delicias - Dv. Bebederos  - Niepos - Bolivar",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 2,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "ALEE01",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0223790569563,
+        "origenTipoTramo": "afirmadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.29180166699996,
+            -6.812269402999959,
+            0.0
+          ],
+          [
+            -79.28975295999999,
+            -6.809537887999966,
+            0.0
+          ],
+          [
+            -79.28894233699998,
+            -6.804363250999927,
+            0.0
+          ],
+          [
+            -79.29515457099996,
+            -6.797929763999946,
+            0.0
+          ],
+          [
+            -79.29430770799996,
+            -6.794334411999955,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "Id": 4593.0,
+        "dkmInicio": 132.162,
+        "dkmFinal": 147.682,
+        "dLongitud": 15.52,
+        "cCodRuta": "PE-1NJ",
+        "cNomRuta": "Emp. PE-1N (Dv. Mochumí) - Mochumí - Illimo - Pte. La Leche - Pte. Salas - Pte. Anchovira - Pte. Chicoma - Pte. Motupe - Motupe - Dv. Jaén (PE-04 B) - Pte. Olmos – Olmos - Pte. Cascajal - Insculas - Pte. Insculas - Las Animas - Dv. Huancabamba (PE-0",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C02",
+        "cCodTraCon": "002",
+        "Shape_Leng": 0.140725157959,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.88008117399994,
+            -5.669507979999935,
+            0.0
+          ],
+          [
+            -79.88302993499997,
+            -5.6309909819999575,
+            0.0
+          ],
+          [
+            -79.88781356499999,
+            -5.6189041139999745,
+            0.0
+          ],
+          [
+            -79.89192008699996,
+            -5.611932753999952,
+            0.0
+          ],
+          [
+            -79.89632444899996,
+            -5.60976613899993,
+            0.0
+          ],
+          [
+            -79.89773940799995,
+            -5.605461120999962,
+            0.0
+          ],
+          [
+            -79.90064811399998,
+            -5.600393294999947,
+            0.0
+          ],
+          [
+            -79.90688895899996,
+            -5.5925006869999265,
+            0.0
+          ],
+          [
+            -79.91693305699994,
+            -5.588712691999945,
+            0.0
+          ],
+          [
+            -79.92452239699998,
+            -5.589469909999934,
+            0.0
+          ],
+          [
+            -79.92875671099995,
+            -5.5910968779999735,
+            0.0
+          ],
+          [
+            -79.93297195099996,
+            -5.590787886999976,
+            0.0
+          ],
+          [
+            -79.93628310899999,
+            -5.5915279389999455,
+            0.0
+          ],
+          [
+            -79.94078063699999,
+            -5.590450286999953,
+            0.0
+          ],
+          [
+            -79.94415664399997,
+            -5.591222762999962,
+            0.0
+          ],
+          [
+            -79.94545733499996,
+            -5.593538414999955,
+            0.0
+          ],
+          [
+            -79.95264053099999,
+            -5.595121383999981,
+            0.0
+          ],
+          [
+            -79.95711516999995,
+            -5.593975066999974,
+            0.0
+          ],
+          [
+            -79.95839002899999,
+            -5.5929163639999615,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "Id": 1426.0,
+        "dkmInicio": 15.232,
+        "dkmFinal": 15.527,
+        "dLongitud": 0.295,
+        "cCodRuta": "PE-1NI",
+        "cNomRuta": "Emp. PE-1N (Nvo. Mocupe) - Zaña - Cayaltí - Nueva Arica - Oyotún - Las Delicias - Dv. Bebederos  - Niepos - Bolivar",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "ALEE01",
+        "cCodTraCon": "012",
+        "Shape_Leng": 0.0026355576674,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.56044815999996,
+            -6.8970184389999645,
+            0.0
+          ],
+          [
+            -79.55842967299998,
+            -6.895355704999929,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "Id": 5894.0,
+        "dkmInicio": 49.226,
+        "dkmFinal": 50.528,
+        "dLongitud": 1.302,
+        "cCodRuta": "PE-1NI",
+        "cNomRuta": "Emp. PE-1N (Nvo. Mocupe) - Zaña - Cayaltí - Nueva Arica - Oyotún - Las Delicias - Dv. Bebederos  - Niepos - Bolivar",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "ALEE01",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0117155446539,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.30266143299997,
+            -6.846410254999967,
+            0.0
+          ],
+          [
+            -79.29758713099994,
+            -6.836164966999945,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "Id": 4843.0,
+        "dkmInicio": 885.406,
+        "dkmFinal": 885.596,
+        "dLongitud": 0.19,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "EE01",
+        "cCodTraCon": "013",
+        "Shape_Leng": 0.00172764355559,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.47465370999998,
+            -6.153782130999957,
+            0.0
+          ],
+          [
+            -80.47570951199998,
+            -6.152414723999925,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "Id": 5140.0,
+        "dkmInicio": 147.682,
+        "dkmFinal": 150.305,
+        "dLongitud": 2.623,
+        "cCodRuta": "PE-1NJ",
+        "cNomRuta": "Emp. PE-1N (Dv. Mochumí) - Mochumí - Illimo - Pte. La Leche - Pte. Salas - Pte. Anchovira - Pte. Chicoma - Pte. Motupe - Motupe - Dv. Jaén (PE-04 B) - Pte. Olmos – Olmos - Pte. Cascajal - Insculas - Pte. Insculas - Las Animas - Dv. Huancabamba (PE-0",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C02",
+        "cCodTraCon": "002",
+        "Shape_Leng": 0.0236253608535,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.95839002899999,
+            -5.5929163639999615,
+            0.0
+          ],
+          [
+            -79.96080016799993,
+            -5.590627669999947,
+            0.0
+          ],
+          [
+            -79.96203994499996,
+            -5.590578078999954,
+            0.0
+          ],
+          [
+            -79.96185874599996,
+            -5.588323592999927,
+            0.0
+          ],
+          [
+            -79.96532821399995,
+            -5.583068847999925,
+            0.0
+          ],
+          [
+            -79.96513175699994,
+            -5.581825255999945,
+            0.0
+          ],
+          [
+            -79.96576690399996,
+            -5.581945418999965,
+            0.0
+          ],
+          [
+            -79.96600722999995,
+            -5.584701537999933,
+            0.0
+          ],
+          [
+            -79.96826591099995,
+            -5.580852351999965,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "Id": 1674.0,
+        "dkmInicio": 3.662,
+        "dkmFinal": 8.47,
+        "dLongitud": 4.808,
+        "cCodRuta": "PE-06",
+        "cNomRuta": "Emp. PE-IN (Dv. Pimentel) - Pimentel",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "ALEE01",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0430837400418,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.89329310699998,
+            -6.803063892999944,
+            15.577399999994668
+          ],
+          [
+            -79.92707600999995,
+            -6.829680080999935,
+            7.132400000002235
+          ]
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "Id": 4940.0,
+        "dkmInicio": 855.264,
+        "dkmFinal": 861.085,
+        "dLongitud": 5.821,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "EE01",
+        "cCodTraCon": "013",
+        "Shape_Leng": 0.0528351895468,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.25329651699997,
+            -6.3061933789999784,
+            0.0
+          ],
+          [
+            -80.26261246799999,
+            -6.300515116999975,
+            0.0
+          ],
+          [
+            -80.30117045599997,
+            -6.284122848999971,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "Id": 1068.0,
+        "dkmInicio": 46.404,
+        "dkmFinal": 49.814,
+        "dLongitud": 3.41,
+        "cCodRuta": "PE-06A",
+        "cNomRuta": "Emp. PE-1N (Larán) - Pomalca - Pátapo -Chongoyape - Pte. El Cumbil - Dv. Sta. Cruz de Succhabamba (PE-06 B) - Llama - Huambos - Emp. PE-3N (Cochabamba)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C16",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0307569481515,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.49872519499996,
+            -6.734612241999969,
+            0.0
+          ],
+          [
+            -79.49851417499997,
+            -6.732801436999978,
+            0.0
+          ],
+          [
+            -79.49679565399998,
+            -6.730712890999939,
+            0.0
+          ],
+          [
+            -79.48949241599996,
+            -6.722581862999959,
+            0.0
+          ],
+          [
+            -79.47980799799996,
+            -6.714412422999942,
+            0.0
+          ],
+          [
+            -79.47877103099995,
+            -6.712082450999958,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "Id": 5191.0,
+        "dkmInicio": 15.663,
+        "dkmFinal": 18.632,
+        "dLongitud": 2.969,
+        "cCodRuta": "PE-1NJ",
+        "cNomRuta": "Emp. PE-1N (Dv. Mochumí) - Mochumí - Illimo - Pte. La Leche - Pte. Salas - Pte. Anchovira - Pte. Chicoma - Pte. Motupe - Motupe - Dv. Jaén (PE-04 B) - Pte. Olmos – Olmos - Pte. Cascajal - Insculas - Pte. Insculas - Las Animas - Dv. Huancabamba (PE-0",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C01",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0267596762943,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.86476062699995,
+            -6.546863963999954,
+            0.0
+          ],
+          [
+            -79.86418151699996,
+            -6.545045852999976,
+            0.0
+          ],
+          [
+            -79.86590385299996,
+            -6.536470412999961,
+            0.0
+          ],
+          [
+            -79.86317825099997,
+            -6.5206432339999765,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "Id": 8620.0,
+        "dkmInicio": 796.269,
+        "dkmFinal": 797.719,
+        "dLongitud": 1.45,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "EE01",
+        "cCodTraCon": "013",
+        "Shape_Leng": 0.0131123110808,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.90371912099994,
+            -6.695771196999942,
+            0.0
+          ],
+          [
+            -79.90357840599995,
+            -6.682725629999936,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "Id": 4929.0,
+        "dkmInicio": 797.719,
+        "dkmFinal": 817.073,
+        "dLongitud": 19.354,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "EE01",
+        "cCodTraCon": "013",
+        "Shape_Leng": 0.174714168585,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.90357840599995,
+            -6.682725629999936,
+            0.0
+          ],
+          [
+            -79.90417140799997,
+            -6.680985354999962,
+            0.0
+          ],
+          [
+            -79.94351826999997,
+            -6.647692244999973,
+            0.0
+          ],
+          [
+            -79.99609157599997,
+            -6.564805590999981,
+            0.0
+          ],
+          [
+            -80.00629020899999,
+            -6.552269499999966,
+            0.0
+          ],
+          [
+            -80.01116374899993,
+            -6.547420564999925,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "type": "Feature",
+      "properties": {
+        "Id": 1173.0,
+        "dkmInicio": 0.196,
+        "dkmFinal": 2.787,
+        "dLongitud": 2.591,
+        "cCodRuta": "PE-06",
+        "cNomRuta": "Emp. PE-IN (Dv. Pimentel) - Pimentel",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "ALEE01",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0234357818234,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.87520886399994,
+            -6.7793744019999735,
+            0.0
+          ],
+          [
+            -79.87857436999997,
+            -6.783723830999975,
+            0.0
+          ],
+          [
+            -79.87920510199996,
+            -6.7886387399999535,
+            0.0
+          ],
+          [
+            -79.88115151899996,
+            -6.793396788999928,
+            0.0
+          ],
+          [
+            -79.88714584399997,
+            -6.798271288999956,
+            18.020000000004075
+          ]
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "type": "Feature",
+      "properties": {
+        "Id": 5372.0,
+        "dkmInicio": 772.056,
+        "dkmFinal": 777.816,
+        "dLongitud": 5.76,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "EE01",
+        "cCodTraCon": "013",
+        "Shape_Leng": 0.0491345934229,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.82720334499999,
+            -6.850569431999929,
+            0.0
+          ],
+          [
+            -79.82928495599998,
+            -6.844209925999962,
+            0.0
+          ],
+          [
+            -79.82981237399997,
+            -6.801828281999974,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "type": "Feature",
+      "properties": {
+        "Id": 44.0,
+        "dkmInicio": 817.073,
+        "dkmFinal": 825.181,
+        "dLongitud": 8.108,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "EE01",
+        "cCodTraCon": "013",
+        "Shape_Leng": 0.0732398431172,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.01116374899993,
+            -6.547420564999925,
+            0.0
+          ],
+          [
+            -80.06943120099999,
+            -6.503053009999974,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "type": "Feature",
+      "properties": {
+        "Id": 5087.0,
+        "dkmInicio": 42.254,
+        "dkmFinal": 44.738,
+        "dLongitud": 2.484,
+        "cCodRuta": "PE-06A",
+        "cNomRuta": "Emp. PE-1N (Larán) - Pomalca - Pátapo -Chongoyape - Pte. El Cumbil - Dv. Sta. Cruz de Succhabamba (PE-06 B) - Llama - Huambos - Emp. PE-3N (Cochabamba)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C16",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0224353200823,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.52457690299997,
+            -6.744863977999955,
+            0.0
+          ],
+          [
+            -79.51012437199995,
+            -6.7386475839999775,
+            0.0
+          ],
+          [
+            -79.50824928199995,
+            -6.73909187299995,
+            0.0
+          ],
+          [
+            -79.50486101899997,
+            -6.742165434999947,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "type": "Feature",
+      "properties": {
+        "Id": 2879.0,
+        "dkmInicio": 51.948,
+        "dkmFinal": 53.185,
+        "dLongitud": 1.237,
+        "cCodRuta": "PE-1NI",
+        "cNomRuta": "Emp. PE-1N (Nvo. Mocupe) - Zaña - Cayaltí - Nueva Arica - Oyotún - Las Delicias - Dv. Bebederos  - Niepos - Bolivar",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "ALEE01",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0138818032642,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.29448363399996,
+            -6.823979991999977,
+            0.0
+          ],
+          [
+            -79.29387473999998,
+            -6.82011794999994,
+            0.0
+          ],
+          [
+            -79.29438209499995,
+            -6.814388274999942,
+            0.0
+          ],
+          [
+            -79.29332542399999,
+            -6.812860488999945,
+            0.0
+          ],
+          [
+            -79.29222297599995,
+            -6.813011168999935,
+            0.0
+          ],
+          [
+            -79.29180166699996,
+            -6.812269402999959,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "21",
+      "type": "Feature",
+      "properties": {
+        "Id": 98.0,
+        "dkmInicio": 734.407,
+        "dkmFinal": 737.216,
+        "dLongitud": 2.809,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "EE01",
+        "cCodTraCon": "013",
+        "Shape_Leng": 0.0253851500142,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.57443373499996,
+            -7.053461477999974,
+            0.0
+          ],
+          [
+            -79.59100207399996,
+            -7.034236021999959,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "type": "Feature",
+      "properties": {
+        "Id": 32.0,
+        "dkmInicio": 870.312,
+        "dkmFinal": 880.352,
+        "dLongitud": 10.04,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "EE01",
+        "cCodTraCon": "013",
+        "Shape_Leng": 0.0908065489874,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.37507769699994,
+            -6.247015599999941,
+            0.0
+          ],
+          [
+            -80.42223668399998,
+            -6.2060290009999335,
+            0.0
+          ],
+          [
+            -80.44240213599994,
+            -6.186152478999929,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "23",
+      "type": "Feature",
+      "properties": {
+        "Id": 5918.0,
+        "dkmInicio": 11.562,
+        "dkmFinal": 11.73,
+        "dLongitud": 0.168,
+        "cCodRuta": "PE-06A",
+        "cNomRuta": "Emp. PE-1N (Larán) - Pomalca - Pátapo -Chongoyape - Pte. El Cumbil - Dv. Sta. Cruz de Succhabamba (PE-06 B) - Llama - Huambos - Emp. PE-3N (Cochabamba)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C16",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00151939297707,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.77335434899999,
+            -6.771227744999976,
+            0.0
+          ],
+          [
+            -79.77339004699996,
+            -6.7697115989999475,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "type": "Feature",
+      "properties": {
+        "Id": 5901.0,
+        "dkmInicio": -7.62723217917e-14,
+        "dkmFinal": 0.91,
+        "dLongitud": 0.91,
+        "cCodRuta": "PE-06A",
+        "cNomRuta": "Emp. PE-1N (Larán) - Pomalca - Pátapo -Chongoyape - Pte. El Cumbil - Dv. Sta. Cruz de Succhabamba (PE-06 B) - Llama - Huambos - Emp. PE-3N (Cochabamba)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C16",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00823349719706,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.82720334499999,
+            -6.850569431999929,
+            0.0
+          ],
+          [
+            -79.82592964099996,
+            -6.849082946999943,
+            0.0
+          ],
+          [
+            -79.82020902899995,
+            -6.847266763999926,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "25",
+      "type": "Feature",
+      "properties": {
+        "Id": 4853.0,
+        "dkmInicio": 784.002,
+        "dkmFinal": 790.418,
+        "dLongitud": 6.416,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "EE01",
+        "cCodTraCon": "013",
+        "Shape_Leng": 0.0580385712268,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.87373716899998,
+            -6.777974268999969,
+            0.0
+          ],
+          [
+            -79.87748298599996,
+            -6.771031492999953,
+            0.0
+          ],
+          [
+            -79.86060980399998,
+            -6.761973593999926,
+            0.0
+          ],
+          [
+            -79.86546297299998,
+            -6.75398366099995,
+            0.0
+          ],
+          [
+            -79.87986280399997,
+            -6.738506559999962,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "type": "Feature",
+      "properties": {
+        "Id": 5142.0,
+        "dkmInicio": 131.162,
+        "dkmFinal": 132.162,
+        "dLongitud": 1.0,
+        "cCodRuta": "PE-1NJ",
+        "cNomRuta": "Emp. PE-1N (Dv. Mochumí) - Mochumí - Illimo - Pte. La Leche - Pte. Salas - Pte. Anchovira - Pte. Chicoma - Pte. Motupe - Motupe - Dv. Jaén (PE-04 B) - Pte. Olmos – Olmos - Pte. Cascajal - Insculas - Pte. Insculas - Las Animas - Dv. Huancabamba (PE-0",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C02",
+        "cCodTraCon": "002",
+        "Shape_Leng": 0.00706062816052,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.87686538399998,
+            -5.675601958999948,
+            0.0
+          ],
+          [
+            -79.87973403699993,
+            -5.671583175999956,
+            0.0
+          ],
+          [
+            -79.88008117399994,
+            -5.669507979999935,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "27",
+      "type": "Feature",
+      "properties": {
+        "Id": 5089.0,
+        "dkmInicio": 44.758,
+        "dkmFinal": 44.814,
+        "dLongitud": 0.056,
+        "cCodRuta": "PE-06A",
+        "cNomRuta": "Emp. PE-1N (Larán) - Pomalca - Pátapo -Chongoyape - Pte. El Cumbil - Dv. Sta. Cruz de Succhabamba (PE-06 B) - Llama - Huambos - Emp. PE-3N (Cochabamba)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C16",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.000503645107209,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.50472326899995,
+            -6.742232676999947,
+            0.0
+          ],
+          [
+            -79.50426967699997,
+            -6.74245154099998,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "28",
+      "type": "Feature",
+      "properties": {
+        "Id": 41.0,
+        "dkmInicio": 745.804,
+        "dkmFinal": 768.015,
+        "dLongitud": 22.211,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "EE01",
+        "cCodTraCon": "013",
+        "Shape_Leng": 0.200149764485,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.64237093599996,
+            -6.980260083999951,
+            0.0
+          ],
+          [
+            -79.64618711499998,
+            -6.978779166999971,
+            0.0
+          ],
+          [
+            -79.67114046299997,
+            -6.975845814999957,
+            0.0
+          ],
+          [
+            -79.68871640799995,
+            -6.960179920999963,
+            0.0
+          ],
+          [
+            -79.80855356999996,
+            -6.885695853999948,
+            0.0
+          ],
+          [
+            -79.81292601199993,
+            -6.881424531999926,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "29",
+      "type": "Feature",
+      "properties": {
+        "Id": 5141.0,
+        "dkmInicio": 124.682,
+        "dkmFinal": 131.162,
+        "dLongitud": 6.48,
+        "cCodRuta": "PE-1NJ",
+        "cNomRuta": "Emp. PE-1N (Dv. Mochumí) - Mochumí - Illimo - Pte. La Leche - Pte. Salas - Pte. Anchovira - Pte. Chicoma - Pte. Motupe - Motupe - Dv. Jaén (PE-04 B) - Pte. Olmos – Olmos - Pte. Cascajal - Insculas - Pte. Insculas - Las Animas - Dv. Huancabamba (PE-0",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C02",
+        "cCodTraCon": "002",
+        "Shape_Leng": 0.0583877950243,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.88776778899995,
+            -5.7266159059999495,
+            0.0
+          ],
+          [
+            -79.89019705099997,
+            -5.723038358999929,
+            0.0
+          ],
+          [
+            -79.89063453399996,
+            -5.716947554999933,
+            0.0
+          ],
+          [
+            -79.88341140499995,
+            -5.70502090399998,
+            0.0
+          ],
+          [
+            -79.87228202599994,
+            -5.682586669999978,
+            0.0
+          ],
+          [
+            -79.87298207599997,
+            -5.679075367999928,
+            0.0
+          ],
+          [
+            -79.87686538399998,
+            -5.675601958999948,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "30",
+      "type": "Feature",
+      "properties": {
+        "Id": 3497.0,
+        "dkmInicio": 28.692,
+        "dkmFinal": 42.254,
+        "dLongitud": 13.562,
+        "cCodRuta": "PE-06A",
+        "cNomRuta": "Emp. PE-1N (Larán) - Pomalca - Pátapo -Chongoyape - Pte. El Cumbil - Dv. Sta. Cruz de Succhabamba (PE-06 B) - Llama - Huambos - Emp. PE-3N (Cochabamba)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C16",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.122324663022,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.64050125399996,
+            -6.7396668689999615,
+            0.0
+          ],
+          [
+            -79.63289260799996,
+            -6.738796233999949,
+            0.0
+          ],
+          [
+            -79.63071250799999,
+            -6.736244201999966,
+            0.0
+          ],
+          [
+            -79.60856588099995,
+            -6.727842607999946,
+            0.0
+          ],
+          [
+            -79.58571052499997,
+            -6.726379393999935,
+            0.0
+          ],
+          [
+            -79.54074287299994,
+            -6.736083983999947,
+            0.0
+          ],
+          [
+            -79.52880287099998,
+            -6.743406295999932,
+            0.0
+          ],
+          [
+            -79.52457690299997,
+            -6.744863977999955,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "31",
+      "type": "Feature",
+      "properties": {
+        "Id": 3063.0,
+        "dkmInicio": 34.294,
+        "dkmFinal": 36.368,
+        "dLongitud": 2.074,
+        "cCodRuta": "PE-1NJ",
+        "cNomRuta": "Emp. PE-1N (Dv. Mochumí) - Mochumí - Illimo - Pte. La Leche - Pte. Salas - Pte. Anchovira - Pte. Chicoma - Pte. Motupe - Motupe - Dv. Jaén (PE-04 B) - Pte. Olmos – Olmos - Pte. Cascajal - Insculas - Pte. Insculas - Las Animas - Dv. Huancabamba (PE-0",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C01",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0193648468855,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.82047797299998,
+            -6.390261495999937,
+            0.0
+          ],
+          [
+            -79.81895255899997,
+            -6.385261535999973,
+            0.0
+          ],
+          [
+            -79.81705665399994,
+            -6.382488250999927,
+            0.0
+          ],
+          [
+            -79.80766925799998,
+            -6.377317061999975,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "32",
+      "type": "Feature",
+      "properties": {
+        "Id": 360.0,
+        "dkmInicio": 11.835,
+        "dkmFinal": 15.232,
+        "dLongitud": 3.397,
+        "cCodRuta": "PE-1NI",
+        "cNomRuta": "Emp. PE-1N (Nvo. Mocupe) - Zaña - Cayaltí - Nueva Arica - Oyotún - Las Delicias - Dv. Bebederos  - Niepos - Bolivar",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "ALEE01",
+        "cCodTraCon": "012",
+        "Shape_Leng": 0.0317070092792,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.58154487499996,
+            -6.916744231999928,
+            0.0
+          ],
+          [
+            -79.56387710499996,
+            -6.895536422999953,
+            0.0
+          ],
+          [
+            -79.56219100899995,
+            -6.895540236999977,
+            0.0
+          ],
+          [
+            -79.56044815999996,
+            -6.8970184389999645,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "33",
+      "type": "Feature",
+      "properties": {
+        "Id": 5088.0,
+        "dkmInicio": 44.814,
+        "dkmFinal": 46.404,
+        "dLongitud": 1.59,
+        "cCodRuta": "PE-06A",
+        "cNomRuta": "Emp. PE-1N (Larán) - Pomalca - Pátapo -Chongoyape - Pte. El Cumbil - Dv. Sta. Cruz de Succhabamba (PE-06 B) - Llama - Huambos - Emp. PE-3N (Cochabamba)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C16",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0143407992393,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.50426967699997,
+            -6.74245154099998,
+            0.0
+          ],
+          [
+            -79.50075149499997,
+            -6.743997573999934,
+            0.0
+          ],
+          [
+            -79.49949848199998,
+            -6.743187349999971,
+            0.0
+          ],
+          [
+            -79.49824333099997,
+            -6.737169265999967,
+            0.0
+          ],
+          [
+            -79.49872519499996,
+            -6.734612241999969,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "34",
+      "type": "Feature",
+      "properties": {
+        "Id": 2765.0,
+        "dkmInicio": 85.597,
+        "dkmFinal": 86.623,
+        "dLongitud": 1.026,
+        "cCodRuta": "PE-1NJ",
+        "cNomRuta": "Emp. PE-1N (Dv. Mochumí) - Mochumí - Illimo - Pte. La Leche - Pte. Salas - Pte. Anchovira - Pte. Chicoma - Pte. Motupe - Motupe - Dv. Jaén (PE-04 B) - Pte. Olmos – Olmos - Pte. Cascajal - Insculas - Pte. Insculas - Las Animas - Dv. Huancabamba (PE-0",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C02",
+        "cCodTraCon": "002",
+        "Shape_Leng": 0.010516881731,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.69370234399997,
+            -5.9987113359999285,
+            0.0
+          ],
+          [
+            -79.70047068299993,
+            -5.9907214339999655,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "35",
+      "type": "Feature",
+      "properties": {
+        "Id": 825.0,
+        "dkmInicio": 5.68434188608e-14,
+        "dkmFinal": 5.462,
+        "dLongitud": 5.462,
+        "cCodRuta": "PE-1NJ",
+        "cNomRuta": "Emp. PE-1N (Dv. Mochumí) - Mochumí - Illimo - Pte. La Leche - Pte. Salas - Pte. Anchovira - Pte. Chicoma - Pte. Motupe - Motupe - Dv. Jaén (PE-04 B) - Pte. Olmos – Olmos - Pte. Cascajal - Insculas - Pte. Insculas - Las Animas - Dv. Huancabamba (PE-0",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C01",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0493787272572,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.90357840599995,
+            -6.682725629999936,
+            0.0
+          ],
+          [
+            -79.89844321999999,
+            -6.6674957269999595,
+            0.0
+          ],
+          [
+            -79.89031791499997,
+            -6.635229110999944,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "36",
+      "type": "Feature",
+      "properties": {
+        "Id": 5222.0,
+        "dkmInicio": 49.814,
+        "dkmFinal": 50.661,
+        "dLongitud": 0.847,
+        "cCodRuta": "PE-06A",
+        "cNomRuta": "Emp. PE-1N (Larán) - Pomalca - Pátapo -Chongoyape - Pte. El Cumbil - Dv. Sta. Cruz de Succhabamba (PE-06 B) - Llama - Huambos - Emp. PE-3N (Cochabamba)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C16",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00888099652812,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.47877103099995,
+            -6.712082450999958,
+            0.0
+          ],
+          [
+            -79.47636045499996,
+            -6.703535013999954,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "37",
+      "type": "Feature",
+      "properties": {
+        "Id": 4146.0,
+        "dkmInicio": 67.322,
+        "dkmFinal": 67.918,
+        "dLongitud": 0.596,
+        "cCodRuta": "PE-06A",
+        "cNomRuta": "Emp. PE-1N (Larán) - Pomalca - Pátapo -Chongoyape - Pte. El Cumbil - Dv. Sta. Cruz de Succhabamba (PE-06 B) - Llama - Huambos - Emp. PE-3N (Cochabamba)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C16",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00649622364962,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.37547017399999,
+            -6.622120216999974,
+            242.57069999999658
+          ],
+          [
+            -79.37234919499997,
+            -6.617786495999951,
+            242.49000000000524
+          ],
+          [
+            -79.37140780299995,
+            -6.617776169999956,
+            245.33980000000156
+          ]
+        ]
+      }
+    },
+    {
+      "id": "38",
+      "type": "Feature",
+      "properties": {
+        "Id": 522.0,
+        "dkmInicio": 5.181,
+        "dkmFinal": 10.659,
+        "dLongitud": 5.478,
+        "cCodRuta": "PE-1NI",
+        "cNomRuta": "Emp. PE-1N (Nvo. Mocupe) - Zaña - Cayaltí - Nueva Arica - Oyotún - Las Delicias - Dv. Bebederos  - Niepos - Bolivar",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "ALEE01",
+        "cCodTraCon": "012",
+        "Shape_Leng": 0.0484818008906,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.62170965099995,
+            -6.93987795399994,
+            0.0
+          ],
+          [
+            -79.61928792699996,
+            -6.9354487719999725,
+            0.0
+          ],
+          [
+            -79.61156463499998,
+            -6.929889678999928,
+            0.0
+          ],
+          [
+            -79.60626983599997,
+            -6.92372131299993,
+            0.0
+          ],
+          [
+            -79.58948089799998,
+            -6.912846644999945,
+            0.0
+          ],
+          [
+            -79.58859719599997,
+            -6.913192826999932,
+            0.0
+          ],
+          [
+            -79.58729140499997,
+            -6.917709951999939,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "39",
+      "type": "Feature",
+      "properties": {
+        "Id": 5404.0,
+        "dkmInicio": 845.229,
+        "dkmFinal": 850.252,
+        "dLongitud": 5.023,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "EE01",
+        "cCodTraCon": "013",
+        "Shape_Leng": 0.0454481672814,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.19862245699994,
+            -6.378473773999929,
+            0.0
+          ],
+          [
+            -80.22535917499994,
+            -6.341727784999932,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "40",
+      "type": "Feature",
+      "properties": {
+        "Id": 43.0,
+        "dkmInicio": 737.216,
+        "dkmFinal": 745.804,
+        "dLongitud": 8.588,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "EE01",
+        "cCodTraCon": "013",
+        "Shape_Leng": 0.0774708831769,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.59100207399996,
+            -7.034236021999959,
+            0.0
+          ],
+          [
+            -79.61019164399994,
+            -7.011697796999954,
+            0.0
+          ],
+          [
+            -79.62023533099995,
+            -6.991485452999939,
+            0.0
+          ],
+          [
+            -79.62536095999997,
+            -6.989759976999949,
+            0.0
+          ],
+          [
+            -79.62904483299997,
+            -6.9860239699999624,
+            0.0
+          ],
+          [
+            -79.64237093599996,
+            -6.980260083999951,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "41",
+      "type": "Feature",
+      "properties": {
+        "Id": 674.0,
+        "dkmInicio": 13.881,
+        "dkmFinal": 13.892,
+        "dLongitud": 0.011,
+        "cCodRuta": "PE-06A",
+        "cNomRuta": "Emp. PE-1N (Larán) - Pomalca - Pátapo -Chongoyape - Pte. El Cumbil - Dv. Sta. Cruz de Succhabamba (PE-06 B) - Llama - Huambos - Emp. PE-3N (Cochabamba)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C16",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.000100659016676,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.75426865199995,
+            -6.76719284099994,
+            0.0
+          ],
+          [
+            -79.75416869399999,
+            -6.767180981999957,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "42",
+      "type": "Feature",
+      "properties": {
+        "Id": 8617.0,
+        "dkmInicio": 790.418,
+        "dkmFinal": 794.579,
+        "dLongitud": 4.161,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "EE01",
+        "cCodTraCon": "013",
+        "Shape_Leng": 0.0357502332891,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.87986280399997,
+            -6.738506559999962,
+            0.0
+          ],
+          [
+            -79.88922680699994,
+            -6.728355552999972,
+            0.0
+          ],
+          [
+            -79.89407066099994,
+            -6.720548248999933,
+            0.0
+          ],
+          [
+            -79.90200799099995,
+            -6.710628209999925,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "43",
+      "type": "Feature",
+      "properties": {
+        "Id": 2862.0,
+        "dkmInicio": 54.633,
+        "dkmFinal": 61.122,
+        "dLongitud": 6.489,
+        "cCodRuta": "PE-06A",
+        "cNomRuta": "Emp. PE-1N (Larán) - Pomalca - Pátapo -Chongoyape - Pte. El Cumbil - Dv. Sta. Cruz de Succhabamba (PE-06 B) - Llama - Huambos - Emp. PE-3N (Cochabamba)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C16",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0579861661298,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.45178289399996,
+            -6.680861788999948,
+            0.0
+          ],
+          [
+            -79.44972801099993,
+            -6.679164885999967,
+            0.0
+          ],
+          [
+            -79.43779182399999,
+            -6.674341201999937,
+            0.0
+          ],
+          [
+            -79.43277549699997,
+            -6.659524917999931,
+            0.0
+          ],
+          [
+            -79.41952552999999,
+            -6.653513748999956,
+            0.0
+          ],
+          [
+            -79.41682302199996,
+            -6.645223746999932,
+            0.0
+          ],
+          [
+            -79.41676139799995,
+            -6.642261504999965,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "44",
+      "type": "Feature",
+      "properties": {
+        "Id": 4147.0,
+        "dkmInicio": 67.918,
+        "dkmFinal": 70.07,
+        "dLongitud": 2.152,
+        "cCodRuta": "PE-06A",
+        "cNomRuta": "Emp. PE-1N (Larán) - Pomalca - Pátapo -Chongoyape - Pte. El Cumbil - Dv. Sta. Cruz de Succhabamba (PE-06 B) - Llama - Huambos - Emp. PE-3N (Cochabamba)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C16",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0194120599897,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.37140780299995,
+            -6.617776169999956,
+            245.33980000000156
+          ],
+          [
+            -79.35584490799994,
+            -6.628411605999929,
+            264.070000000007
+          ]
+        ]
+      }
+    },
+    {
+      "id": "45",
+      "type": "Feature",
+      "properties": {
+        "Id": 216.0,
+        "dkmInicio": 4.4408920985e-15,
+        "dkmFinal": 5.181,
+        "dLongitud": 5.181,
+        "cCodRuta": "PE-1NI",
+        "cNomRuta": "Emp. PE-1N (Nvo. Mocupe) - Zaña - Cayaltí - Nueva Arica - Oyotún - Las Delicias - Dv. Bebederos  - Niepos - Bolivar",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "ALEE01",
+        "cCodTraCon": "012",
+        "Shape_Leng": 0.0458613472192,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.64237093599996,
+            -6.980260083999951,
+            0.0
+          ],
+          [
+            -79.64259910499999,
+            -6.978054046999944,
+            0.0
+          ],
+          [
+            -79.62170965099995,
+            -6.93987795399994,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "46",
+      "type": "Feature",
+      "properties": {
+        "Id": 5188.0,
+        "dkmInicio": 11.73,
+        "dkmFinal": 13.881,
+        "dLongitud": 2.151,
+        "cCodRuta": "PE-06A",
+        "cNomRuta": "Emp. PE-1N (Larán) - Pomalca - Pátapo -Chongoyape - Pte. El Cumbil - Dv. Sta. Cruz de Succhabamba (PE-06 B) - Llama - Huambos - Emp. PE-3N (Cochabamba)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C16",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0194425043941,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.77339004699996,
+            -6.7697115989999475,
+            0.0
+          ],
+          [
+            -79.75426865199995,
+            -6.76719284099994,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "47",
+      "type": "Feature",
+      "properties": {
+        "Id": 357.0,
+        "dkmInicio": 10.659,
+        "dkmFinal": 11.835,
+        "dLongitud": 1.176,
+        "cCodRuta": "PE-1NI",
+        "cNomRuta": "Emp. PE-1N (Nvo. Mocupe) - Zaña - Cayaltí - Nueva Arica - Oyotún - Las Delicias - Dv. Bebederos  - Niepos - Bolivar",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "ALEE01",
+        "cCodTraCon": "012",
+        "Shape_Leng": 0.0106912839821,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.58729140499997,
+            -6.917709951999939,
+            0.0
+          ],
+          [
+            -79.58619880599997,
+            -6.921072005999974,
+            0.0
+          ],
+          [
+            -79.58320808299999,
+            -6.919996261999927,
+            0.0
+          ],
+          [
+            -79.58319854699994,
+            -6.918807982999965,
+            0.0
+          ],
+          [
+            -79.58154487499996,
+            -6.916744231999928,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "48",
+      "type": "Feature",
+      "properties": {
+        "Id": 54.0,
+        "dkmInicio": 880.352,
+        "dkmFinal": 885.406,
+        "dLongitud": 5.054,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "EE01",
+        "cCodTraCon": "013",
+        "Shape_Leng": 0.0457063280928,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.44240213599994,
+            -6.186152478999929,
+            0.0
+          ],
+          [
+            -80.47465370999998,
+            -6.153782130999957,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "49",
+      "type": "Feature",
+      "properties": {
+        "Id": 4939.0,
+        "dkmInicio": 861.085,
+        "dkmFinal": 864.085,
+        "dLongitud": 3.0,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "EE01",
+        "cCodTraCon": "013",
+        "Shape_Leng": 0.027170331014,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.30117045599997,
+            -6.284122848999971,
+            0.0
+          ],
+          [
+            -80.32617418999996,
+            -6.273493748999954,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "50",
+      "type": "Feature",
+      "properties": {
+        "Id": 931.0,
+        "dkmInicio": 5.3290705182e-15,
+        "dkmFinal": 12.0,
+        "dLongitud": 12.0,
+        "cCodRuta": "PE-04B",
+        "cNomRuta": "Emp. PE-1N J (Dv. Jaén) - Limón de Porcuya - Abra de Porculla - Emp. PE-3N (Pte. Hualapampa)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C01",
+        "cCodTraCon": "002",
+        "Shape_Leng": 0.107185980823,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.69370234399997,
+            -5.9987113359999285,
+            0.0
+          ],
+          [
+            -79.69422721799998,
+            -5.989475249999941,
+            0.0
+          ],
+          [
+            -79.68847806599996,
+            -5.987015110999948,
+            0.0
+          ],
+          [
+            -79.68813896099994,
+            -5.976388930999974,
+            0.0
+          ],
+          [
+            -79.68585777199996,
+            -5.970176696999943,
+            0.0
+          ],
+          [
+            -79.67776298399997,
+            -5.963171004999936,
+            0.0
+          ],
+          [
+            -79.67399406299995,
+            -5.9621124269999655,
+            0.0
+          ],
+          [
+            -79.66807937499993,
+            -5.953666686999952,
+            0.0
+          ],
+          [
+            -79.66226052999997,
+            -5.949101449999944,
+            0.0
+          ],
+          [
+            -79.65844726499995,
+            -5.948675155999979,
+            0.0
+          ],
+          [
+            -79.65604781999997,
+            -5.947463988999971,
+            0.0
+          ],
+          [
+            -79.64992141599998,
+            -5.9426841739999645,
+            0.0
+          ],
+          [
+            -79.64442252999999,
+            -5.943107604999966,
+            0.0
+          ],
+          [
+            -79.63824844299995,
+            -5.941953658999978,
+            0.0
+          ],
+          [
+            -79.63472366199994,
+            -5.94322204599996,
+            0.0
+          ],
+          [
+            -79.63088035499999,
+            -5.942092894999973,
+            0.0
+          ],
+          [
+            -79.62733077899998,
+            -5.942449569999951,
+            0.0
+          ],
+          [
+            -79.62362992399994,
+            -5.941582094999944,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "51",
+      "type": "Feature",
+      "properties": {
+        "Id": 3681.0,
+        "dkmInicio": 8.47,
+        "dkmFinal": 9.952,
+        "dLongitud": 1.482,
+        "cCodRuta": "PE-06",
+        "cNomRuta": "Emp. PE-IN (Dv. Pimentel) - Pimentel",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "ALEE01",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0134127750367,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.92707600999995,
+            -6.829680080999935,
+            7.132400000002235
+          ],
+          [
+            -79.92703217399998,
+            -6.835717197999941,
+            5.325100000001839
+          ],
+          [
+            -79.93386497699998,
+            -6.8378589619999275,
+            2.571299999995972
+          ]
+        ]
+      }
+    },
+    {
+      "id": "52",
+      "type": "Feature",
+      "properties": {
+        "Id": 99.0,
+        "dkmInicio": 46.595,
+        "dkmFinal": 46.797,
+        "dLongitud": 0.202,
+        "cCodRuta": "PE-1NI",
+        "cNomRuta": "Emp. PE-1N (Nvo. Mocupe) - Zaña - Cayaltí - Nueva Arica - Oyotún - Las Delicias - Dv. Bebederos  - Niepos - Bolivar",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "ALEE01",
+        "cCodTraCon": "012",
+        "Shape_Leng": 0.0097417774146,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.30743816199998,
+            -6.868758696999976,
+            0.0
+          ],
+          [
+            -79.30538940399998,
+            -6.8669967649999535,
+            0.0
+          ],
+          [
+            -79.30382807299998,
+            -6.860250572999973,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "53",
+      "type": "Feature",
+      "properties": {
+        "Id": 5090.0,
+        "dkmInicio": 44.738,
+        "dkmFinal": 44.758,
+        "dLongitud": 0.02,
+        "cCodRuta": "PE-06A",
+        "cNomRuta": "Emp. PE-1N (Larán) - Pomalca - Pátapo -Chongoyape - Pte. El Cumbil - Dv. Sta. Cruz de Succhabamba (PE-06 B) - Llama - Huambos - Emp. PE-3N (Cochabamba)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C16",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.000153286052325,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.50486101899997,
+            -6.742165434999947,
+            0.0
+          ],
+          [
+            -79.50472326899995,
+            -6.742232676999947,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "54",
+      "type": "Feature",
+      "properties": {
+        "Id": 4592.0,
+        "dkmInicio": 91.169,
+        "dkmFinal": 96.682,
+        "dLongitud": 5.513,
+        "cCodRuta": "PE-1NJ",
+        "cNomRuta": "Emp. PE-1N (Dv. Mochumí) - Mochumí - Illimo - Pte. La Leche - Pte. Salas - Pte. Anchovira - Pte. Chicoma - Pte. Motupe - Motupe - Dv. Jaén (PE-04 B) - Pte. Olmos – Olmos - Pte. Cascajal - Insculas - Pte. Insculas - Las Animas - Dv. Huancabamba (PE-0",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C02",
+        "cCodTraCon": "002",
+        "Shape_Leng": 0.0498494808097,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.74066517699998,
+            -5.9848903899999755,
+            0.0
+          ],
+          [
+            -79.74924659499999,
+            -5.976207732999967,
+            0.0
+          ],
+          [
+            -79.75093269099995,
+            -5.973602294999978,
+            0.0
+          ],
+          [
+            -79.75282859599997,
+            -5.964824675999978,
+            0.0
+          ],
+          [
+            -79.75850295799995,
+            -5.946828841999945,
+            0.0
+          ],
+          [
+            -79.75922393599996,
+            -5.940250396999943,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "55",
+      "type": "Feature",
+      "properties": {
+        "Id": 116.0,
+        "dkmInicio": 96.682,
+        "dkmFinal": 124.682,
+        "dLongitud": 28.0,
+        "cCodRuta": "PE-1NJ",
+        "cNomRuta": "Emp. PE-1N (Dv. Mochumí) - Mochumí - Illimo - Pte. La Leche - Pte. Salas - Pte. Anchovira - Pte. Chicoma - Pte. Motupe - Motupe - Dv. Jaén (PE-04 B) - Pte. Olmos – Olmos - Pte. Cascajal - Insculas - Pte. Insculas - Las Animas - Dv. Huancabamba (PE-0",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C02",
+        "cCodTraCon": "002",
+        "Shape_Leng": 0.253139666775,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.75922393599996,
+            -5.940250396999943,
+            0.0
+          ],
+          [
+            -79.76131820499995,
+            -5.935655593999968,
+            0.0
+          ],
+          [
+            -79.76355170999994,
+            -5.923122405999948,
+            0.0
+          ],
+          [
+            -79.76542472599994,
+            -5.921392440999966,
+            0.0
+          ],
+          [
+            -79.76893615499995,
+            -5.920066832999964,
+            0.0
+          ],
+          [
+            -79.77052688399993,
+            -5.918369292999955,
+            0.0
+          ],
+          [
+            -79.78357124099995,
+            -5.8906154629999605,
+            0.0
+          ],
+          [
+            -79.85990333299998,
+            -5.756366729999968,
+            0.0
+          ],
+          [
+            -79.86261176799997,
+            -5.753507613999943,
+            0.0
+          ],
+          [
+            -79.86893844299993,
+            -5.749977111999954,
+            0.0
+          ],
+          [
+            -79.87121390999994,
+            -5.745550155999979,
+            0.0
+          ],
+          [
+            -79.88776778899995,
+            -5.7266159059999495,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "56",
+      "type": "Feature",
+      "properties": {
+        "Id": 5197.0,
+        "dkmInicio": 12.0,
+        "dkmFinal": 15.429,
+        "dLongitud": 3.429,
+        "cCodRuta": "PE-04B",
+        "cNomRuta": "Emp. PE-1N J (Dv. Jaén) - Limón de Porcuya - Abra de Porculla - Emp. PE-3N (Pte. Hualapampa)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C01",
+        "cCodTraCon": "002",
+        "Shape_Leng": 0.0308887592163,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.62362992399994,
+            -5.941582094999944,
+            0.0
+          ],
+          [
+            -79.62051391499995,
+            -5.940883635999967,
+            0.0
+          ],
+          [
+            -79.61009597699996,
+            -5.941682815999968,
+            0.0
+          ],
+          [
+            -79.60592841999994,
+            -5.94032096899997,
+            0.0
+          ],
+          [
+            -79.60081672599995,
+            -5.940799712999933,
+            0.0
+          ],
+          [
+            -79.59884643499998,
+            -5.93646812399993,
+            0.0
+          ],
+          [
+            -79.59685944999995,
+            -5.934563350999952,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "57",
+      "type": "Feature",
+      "properties": {
+        "Id": 3062.0,
+        "dkmInicio": 10.203,
+        "dkmFinal": 15.663,
+        "dLongitud": 5.46,
+        "cCodRuta": "PE-1NJ",
+        "cNomRuta": "Emp. PE-1N (Dv. Mochumí) - Mochumí - Illimo - Pte. La Leche - Pte. Salas - Pte. Anchovira - Pte. Chicoma - Pte. Motupe - Motupe - Dv. Jaén (PE-04 B) - Pte. Olmos – Olmos - Pte. Cascajal - Insculas - Pte. Insculas - Las Animas - Dv. Huancabamba (PE-0",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C01",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0492142689065,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.87837028299998,
+            -6.594102858999975,
+            0.0
+          ],
+          [
+            -79.86836242499999,
+            -6.5565910339999505,
+            0.0
+          ],
+          [
+            -79.86476062699995,
+            -6.546863963999954,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "58",
+      "type": "Feature",
+      "properties": {
+        "Id": 5893.0,
+        "dkmInicio": 50.528,
+        "dkmFinal": 51.948,
+        "dLongitud": 1.42,
+        "cCodRuta": "PE-1NI",
+        "cNomRuta": "Emp. PE-1N (Nvo. Mocupe) - Zaña - Cayaltí - Nueva Arica - Oyotún - Las Delicias - Dv. Bebederos  - Niepos - Bolivar",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "ALEE01",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0128403400719,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.29758713099994,
+            -6.836164966999945,
+            0.0
+          ],
+          [
+            -79.29448363399996,
+            -6.823979991999977,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "59",
+      "type": "Feature",
+      "properties": {
+        "Id": 8615.0,
+        "dkmInicio": 781.568,
+        "dkmFinal": 784.002,
+        "dLongitud": 2.434,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "EE01",
+        "cCodTraCon": "013",
+        "Shape_Leng": 0.0239393954665,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.86112622999997,
+            -6.798321299999941,
+            0.0
+          ],
+          [
+            -79.87373716899998,
+            -6.777974268999969,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "60",
+      "type": "Feature",
+      "properties": {
+        "Id": 5150.0,
+        "dkmInicio": 825.181,
+        "dkmFinal": 840.22,
+        "dLongitud": 15.039,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "EE01",
+        "cCodTraCon": "013",
+        "Shape_Leng": 0.136056830774,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.06943120099999,
+            -6.503053009999974,
+            0.0
+          ],
+          [
+            -80.15049963499996,
+            -6.442493457999944,
+            0.0
+          ],
+          [
+            -80.15682881899994,
+            -6.435845176999976,
+            0.0
+          ],
+          [
+            -80.17195060899996,
+            -6.415112452999949,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "61",
+      "type": "Feature",
+      "properties": {
+        "Id": 163.0,
+        "dkmInicio": 50.661,
+        "dkmFinal": 54.633,
+        "dLongitud": 3.972,
+        "cCodRuta": "PE-06A",
+        "cNomRuta": "Emp. PE-1N (Larán) - Pomalca - Pátapo -Chongoyape - Pte. El Cumbil - Dv. Sta. Cruz de Succhabamba (PE-06 B) - Llama - Huambos - Emp. PE-3N (Cochabamba)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C16",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0367799872033,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.47636045499996,
+            -6.703535013999954,
+            0.0
+          ],
+          [
+            -79.47484779299998,
+            -6.698429107999971,
+            0.0
+          ],
+          [
+            -79.47310638399995,
+            -6.696022033999952,
+            0.0
+          ],
+          [
+            -79.46645736599999,
+            -6.6906280519999655,
+            0.0
+          ],
+          [
+            -79.45334625199996,
+            -6.686666488999947,
+            0.0
+          ],
+          [
+            -79.45178289399996,
+            -6.680861788999948,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "62",
+      "type": "Feature",
+      "properties": {
+        "Id": 4850.0,
+        "dkmInicio": 778.056,
+        "dkmFinal": 781.568,
+        "dLongitud": 3.512,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "EE01",
+        "cCodTraCon": "013",
+        "Shape_Leng": 0.0320512573239,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.83023878099993,
+            -6.799323522999941,
+            0.0
+          ],
+          [
+            -79.84423047699994,
+            -6.80249956199998,
+            0.0
+          ],
+          [
+            -79.86012539399997,
+            -6.79922651399994,
+            0.0
+          ],
+          [
+            -79.86112622999997,
+            -6.798321299999941,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "63",
+      "type": "Feature",
+      "properties": {
+        "Id": 8619.0,
+        "dkmInicio": 794.579,
+        "dkmFinal": 796.269,
+        "dLongitud": 1.69,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "EE01",
+        "cCodTraCon": "013",
+        "Shape_Leng": 0.0169229141746,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.90200799099995,
+            -6.710628209999925,
+            0.0
+          ],
+          [
+            -79.90326454999996,
+            -6.708006259999934,
+            0.0
+          ],
+          [
+            -79.90161299099998,
+            -6.697028681999939,
+            0.0
+          ],
+          [
+            -79.90371912099994,
+            -6.695771196999942,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "64",
+      "type": "Feature",
+      "properties": {
+        "Id": 9802.0,
+        "dkmInicio": 777.816,
+        "dkmFinal": 778.056,
+        "dLongitud": 0.24,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "EE01",
+        "cCodTraCon": "013",
+        "Shape_Leng": 0.00255095828484,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.82981237399997,
+            -6.801828281999974,
+            0.0
+          ],
+          [
+            -79.83023878099993,
+            -6.799323522999941,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "65",
+      "type": "Feature",
+      "properties": {
+        "Id": 2373.0,
+        "dkmInicio": 5.462,
+        "dkmFinal": 10.203,
+        "dLongitud": 4.741,
+        "cCodRuta": "PE-1NJ",
+        "cNomRuta": "Emp. PE-1N (Dv. Mochumí) - Mochumí - Illimo - Pte. La Leche - Pte. Salas - Pte. Anchovira - Pte. Chicoma - Pte. Motupe - Motupe - Dv. Jaén (PE-04 B) - Pte. Olmos – Olmos - Pte. Cascajal - Insculas - Pte. Insculas - Las Animas - Dv. Huancabamba (PE-0",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C01",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0428336942886,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.89031791499997,
+            -6.635229110999944,
+            0.0
+          ],
+          [
+            -79.87837028299998,
+            -6.594102858999975,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "66",
+      "type": "Feature",
+      "properties": {
+        "Id": 15.0,
+        "dkmInicio": 850.252,
+        "dkmFinal": 855.264,
+        "dLongitud": 5.012,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "EE01",
+        "cCodTraCon": "013",
+        "Shape_Leng": 0.0453249076636,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.22535917499994,
+            -6.341727784999932,
+            0.0
+          ],
+          [
+            -80.24569320899997,
+            -6.313829129999931,
+            0.0
+          ],
+          [
+            -80.25329651699997,
+            -6.3061933789999784,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "67",
+      "type": "Feature",
+      "properties": {
+        "Id": 2764.0,
+        "dkmInicio": 86.623,
+        "dkmFinal": 91.169,
+        "dLongitud": 4.546,
+        "cCodRuta": "PE-1NJ",
+        "cNomRuta": "Emp. PE-1N (Dv. Mochumí) - Mochumí - Illimo - Pte. La Leche - Pte. Salas - Pte. Anchovira - Pte. Chicoma - Pte. Motupe - Motupe - Dv. Jaén (PE-04 B) - Pte. Olmos – Olmos - Pte. Cascajal - Insculas - Pte. Insculas - Las Animas - Dv. Huancabamba (PE-0",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C02",
+        "cCodTraCon": "002",
+        "Shape_Leng": 0.0445378176995,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.70047068299993,
+            -5.9907214339999655,
+            0.0
+          ],
+          [
+            -79.70338058299996,
+            -5.989351272999954,
+            0.0
+          ],
+          [
+            -79.71403312499996,
+            -5.991270064999981,
+            0.0
+          ],
+          [
+            -79.72423362499995,
+            -5.991147994999949,
+            0.0
+          ],
+          [
+            -79.73147201299997,
+            -5.993257522999954,
+            0.0
+          ],
+          [
+            -79.73317336799994,
+            -5.992444991999946,
+            0.0
+          ],
+          [
+            -79.74066517699998,
+            -5.9848903899999755,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "68",
+      "type": "Feature",
+      "properties": {
+        "Id": 4960.0,
+        "dkmInicio": 768.015,
+        "dkmFinal": 772.056,
+        "dLongitud": 4.041,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "EE01",
+        "cCodTraCon": "013",
+        "Shape_Leng": 0.0366540663243,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.81292601199993,
+            -6.881424531999926,
+            0.0
+          ],
+          [
+            -79.81732363999998,
+            -6.874998070999936,
+            0.0
+          ],
+          [
+            -79.81704856499994,
+            -6.863813636999964,
+            0.0
+          ],
+          [
+            -79.82391749499999,
+            -6.859117773999969,
+            0.0
+          ],
+          [
+            -79.82720334499999,
+            -6.850569431999929,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "69",
+      "type": "Feature",
+      "properties": {
+        "Id": 2349.0,
+        "dkmInicio": 15.429,
+        "dkmFinal": 17.967,
+        "dLongitud": 2.538,
+        "cCodRuta": "PE-04B",
+        "cNomRuta": "Emp. PE-1N J (Dv. Jaén) - Limón de Porcuya - Abra de Porculla - Emp. PE-3N (Pte. Hualapampa)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C01",
+        "cCodTraCon": "002",
+        "Shape_Leng": 0.022900177957,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.59685944999995,
+            -5.934563350999952,
+            0.0
+          ],
+          [
+            -79.59545135399998,
+            -5.933837890999939,
+            0.0
+          ],
+          [
+            -79.59363431199995,
+            -5.934303917999955,
+            0.0
+          ],
+          [
+            -79.58703994699994,
+            -5.938867568999967,
+            0.0
+          ],
+          [
+            -79.58326530399995,
+            -5.93759345999996,
+            0.0
+          ],
+          [
+            -79.58130264199997,
+            -5.935340880999945,
+            0.0
+          ],
+          [
+            -79.57732391299999,
+            -5.93498802199997,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "70",
+      "type": "Feature",
+      "properties": {
+        "Id": 444.0,
+        "dkmInicio": 41.534,
+        "dkmFinal": 46.595,
+        "dLongitud": 5.061,
+        "cCodRuta": "PE-1NI",
+        "cNomRuta": "Emp. PE-1N (Nvo. Mocupe) - Zaña - Cayaltí - Nueva Arica - Oyotún - Las Delicias - Dv. Bebederos  - Niepos - Bolivar",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "ALEE01",
+        "cCodTraCon": "012",
+        "Shape_Leng": 0.0414451006977,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.34384448399999,
+            -6.873564669999951,
+            0.0
+          ],
+          [
+            -79.33782768199995,
+            -6.872051238999973,
+            0.0
+          ],
+          [
+            -79.32775671699994,
+            -6.871668037999939,
+            0.0
+          ],
+          [
+            -79.32110378299996,
+            -6.873532315999967,
+            0.0
+          ],
+          [
+            -79.31752395599995,
+            -6.875776290999966,
+            0.0
+          ],
+          [
+            -79.31464385899994,
+            -6.876199721999967,
+            0.0
+          ],
+          [
+            -79.31254005399995,
+            -6.871957778999956,
+            0.0
+          ],
+          [
+            -79.30743816199998,
+            -6.868758696999976,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "71",
+      "type": "Feature",
+      "properties": {
+        "Id": 5917.0,
+        "dkmInicio": 11.362,
+        "dkmFinal": 11.562,
+        "dLongitud": 0.2,
+        "cCodRuta": "PE-06A",
+        "cNomRuta": "Emp. PE-1N (Larán) - Pomalca - Pátapo -Chongoyape - Pte. El Cumbil - Dv. Sta. Cruz de Succhabamba (PE-06 B) - Llama - Huambos - Emp. PE-3N (Cochabamba)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C16",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00179249872065,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.77407744399994,
+            -6.772865621999927,
+            0.0
+          ],
+          [
+            -79.77335434899999,
+            -6.771227744999976,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "72",
+      "type": "Feature",
+      "properties": {
+        "Id": 546.0,
+        "dkmInicio": 61.122,
+        "dkmFinal": 63.673,
+        "dLongitud": 2.551,
+        "cCodRuta": "PE-06A",
+        "cNomRuta": "Emp. PE-1N (Larán) - Pomalca - Pátapo -Chongoyape - Pte. El Cumbil - Dv. Sta. Cruz de Succhabamba (PE-06 B) - Llama - Huambos - Emp. PE-3N (Cochabamba)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C16",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.023157431424,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.41676139799995,
+            -6.642261504999965,
+            0.0
+          ],
+          [
+            -79.41603469799998,
+            -6.640420913999947,
+            0.0
+          ],
+          [
+            -79.41073799099996,
+            -6.63479614299996,
+            0.0
+          ],
+          [
+            -79.40817832899995,
+            -6.629268645999957,
+            0.0
+          ],
+          [
+            -79.40569686799995,
+            -6.628898620999962,
+            0.0
+          ],
+          [
+            -79.40195770399998,
+            -6.631621982999945,
+            206.69700000000012
+          ]
+        ]
+      }
+    },
+    {
+      "id": "73",
+      "type": "Feature",
+      "properties": {
+        "Id": 115.0,
+        "dkmInicio": 864.085,
+        "dkmFinal": 870.312,
+        "dLongitud": 6.227,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "EE01",
+        "cCodTraCon": "013",
+        "Shape_Leng": 0.0560761505625,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.32617418999996,
+            -6.273493748999954,
+            0.0
+          ],
+          [
+            -80.35938933799997,
+            -6.259180786999934,
+            0.0
+          ],
+          [
+            -80.36572796699994,
+            -6.255052736999971,
+            0.0
+          ],
+          [
+            -80.37507769699994,
+            -6.247015599999941,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "74",
+      "type": "Feature",
+      "properties": {
+        "Id": 1142.0,
+        "dkmInicio": 13.892,
+        "dkmFinal": 28.692,
+        "dLongitud": 14.8,
+        "cCodRuta": "PE-06A",
+        "cNomRuta": "Emp. PE-1N (Larán) - Pomalca - Pátapo -Chongoyape - Pte. El Cumbil - Dv. Sta. Cruz de Succhabamba (PE-06 B) - Llama - Huambos - Emp. PE-3N (Cochabamba)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C16",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.133125662337,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.75416869399999,
+            -6.767180981999957,
+            0.0
+          ],
+          [
+            -79.72964668199995,
+            -6.763986586999977,
+            0.0
+          ],
+          [
+            -79.72843402699993,
+            -6.762317491999966,
+            0.0
+          ],
+          [
+            -79.72779846099996,
+            -6.756990432999942,
+            0.0
+          ],
+          [
+            -79.72659492399998,
+            -6.754032134999932,
+            0.0
+          ],
+          [
+            -79.71587180999995,
+            -6.7407970429999295,
+            0.0
+          ],
+          [
+            -79.71401405199998,
+            -6.739673613999969,
+            0.0
+          ],
+          [
+            -79.68848800599994,
+            -6.745031356999959,
+            0.0
+          ],
+          [
+            -79.65793609499997,
+            -6.732973098999935,
+            0.0
+          ],
+          [
+            -79.65393829299995,
+            -6.732429503999981,
+            0.0
+          ],
+          [
+            -79.64050125399996,
+            -6.7396668689999615,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "75",
+      "type": "Feature",
+      "properties": {
+        "Id": 3033.0,
+        "dkmInicio": 2.787,
+        "dkmFinal": 3.662,
+        "dLongitud": 0.875,
+        "cCodRuta": "PE-06",
+        "cNomRuta": "Emp. PE-IN (Dv. Pimentel) - Pimentel",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "ALEE01",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00779509809048,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.88714584399997,
+            -6.798271288999956,
+            18.02039999999397
+          ],
+          [
+            -79.89329310699998,
+            -6.803063892999944,
+            15.577399999994668
+          ]
+        ]
+      }
+    },
+    {
+      "id": "76",
+      "type": "Feature",
+      "properties": {
+        "Id": 530.0,
+        "dkmInicio": 9.952,
+        "dkmFinal": 10.277,
+        "dLongitud": 0.325,
+        "cCodRuta": "PE-06",
+        "cNomRuta": "Emp. PE-IN (Dv. Pimentel) - Pimentel",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "ALEE01",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00282928382398,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.93386497699998,
+            -6.8378589619999275,
+            2.5709999999962747
+          ],
+          [
+            -79.93658476699994,
+            -6.838635519999968,
+            2.726299999994808
+          ]
+        ]
+      }
+    },
+    {
+      "id": "77",
+      "type": "Feature",
+      "properties": {
+        "Id": 862.0,
+        "dkmInicio": 20.469,
+        "dkmFinal": 34.294,
+        "dLongitud": 13.825,
+        "cCodRuta": "PE-1NJ",
+        "cNomRuta": "Emp. PE-1N (Dv. Mochumí) - Mochumí - Illimo - Pte. La Leche - Pte. Salas - Pte. Anchovira - Pte. Chicoma - Pte. Motupe - Motupe - Dv. Jaén (PE-04 B) - Pte. Olmos – Olmos - Pte. Cascajal - Insculas - Pte. Insculas - Las Animas - Dv. Huancabamba (PE-0",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C01",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.125102847754,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.85922622499999,
+            -6.505086898999934,
+            0.0
+          ],
+          [
+            -79.85810279699996,
+            -6.500102996999942,
+            0.0
+          ],
+          [
+            -79.85809707499999,
+            -6.494331359999933,
+            0.0
+          ],
+          [
+            -79.85594749299997,
+            -6.478015899999946,
+            0.0
+          ],
+          [
+            -79.85611915399994,
+            -6.463308333999976,
+            0.0
+          ],
+          [
+            -79.85413360399997,
+            -6.447126387999958,
+            0.0
+          ],
+          [
+            -79.85175513999997,
+            -6.442560195999931,
+            0.0
+          ],
+          [
+            -79.84111594999996,
+            -6.430217742999957,
+            0.0
+          ],
+          [
+            -79.82978439199997,
+            -6.412189483999953,
+            0.0
+          ],
+          [
+            -79.82047797299998,
+            -6.390261495999937,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "78",
+      "type": "Feature",
+      "properties": {
+        "Id": 4145.0,
+        "dkmInicio": 63.673,
+        "dkmFinal": 67.322,
+        "dLongitud": 3.649,
+        "cCodRuta": "PE-06A",
+        "cNomRuta": "Emp. PE-1N (Larán) - Pomalca - Pátapo -Chongoyape - Pte. El Cumbil - Dv. Sta. Cruz de Succhabamba (PE-06 B) - Llama - Huambos - Emp. PE-3N (Cochabamba)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C16",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0329150202122,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.40195770399998,
+            -6.631621982999945,
+            206.69719999999506
+          ],
+          [
+            -79.38885514699996,
+            -6.632900435999943,
+            216.20419999999285
+          ],
+          [
+            -79.38490558899997,
+            -6.6280160529999534,
+            233.42359999999462
+          ],
+          [
+            -79.38355214599994,
+            -6.62359203799997,
+            229.66259999999602
+          ],
+          [
+            -79.38062370099993,
+            -6.623844125999938,
+            235.75250000000233
+          ],
+          [
+            -79.37825495899995,
+            -6.622409707999964,
+            239.9956999999995
+          ],
+          [
+            -79.37547017399999,
+            -6.622120216999974,
+            242.57069999999658
+          ]
+        ]
+      }
+    },
+    {
+      "id": "79",
+      "type": "Feature",
+      "properties": {
+        "Id": 5401.0,
+        "dkmInicio": 840.22,
+        "dkmFinal": 845.229,
+        "dLongitud": 5.009,
+        "cCodRuta": "PE-1N",
+        "cNomRuta": "I.V. Santa Anita - I.V. Huacho - Chimbote - Ov. La Marina (PE-10 A) - Ov. El Milagro - Paiján - Mocupe - Reque - Chiclayo - Lambayeque - Pte. Grau - Pte. Sullana Dv. Talara - Máncora - Zorritos - Tumbes - Pte. Internacional de La Paz (fr. Ecuador).",
+        "cClasifica": "LONGITUDINAL DE LA COSTA",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "EE01",
+        "cCodTraCon": "013",
+        "Shape_Leng": 0.0453222405654,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.17195060899996,
+            -6.415112452999949,
+            0.0
+          ],
+          [
+            -80.19862245699994,
+            -6.378473773999929,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "80",
+      "type": "Feature",
+      "properties": {
+        "Id": 5192.0,
+        "dkmInicio": 18.632,
+        "dkmFinal": 20.469,
+        "dLongitud": 1.837,
+        "cCodRuta": "PE-1NJ",
+        "cNomRuta": "Emp. PE-1N (Dv. Mochumí) - Mochumí - Illimo - Pte. La Leche - Pte. Salas - Pte. Anchovira - Pte. Chicoma - Pte. Motupe - Motupe - Dv. Jaén (PE-04 B) - Pte. Olmos – Olmos - Pte. Cascajal - Insculas - Pte. Insculas - Las Animas - Dv. Huancabamba (PE-0",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C01",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0160671558753,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.86317825099997,
+            -6.5206432339999765,
+            0.0
+          ],
+          [
+            -79.85922622499999,
+            -6.505086898999934,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "81",
+      "type": "Feature",
+      "properties": {
+        "Id": 2371.0,
+        "dkmInicio": 36.368,
+        "dkmFinal": 85.597,
+        "dLongitud": 49.229,
+        "cCodRuta": "PE-1NJ",
+        "cNomRuta": "Emp. PE-1N (Dv. Mochumí) - Mochumí - Illimo - Pte. La Leche - Pte. Salas - Pte. Anchovira - Pte. Chicoma - Pte. Motupe - Motupe - Dv. Jaén (PE-04 B) - Pte. Olmos – Olmos - Pte. Cascajal - Insculas - Pte. Insculas - Las Animas - Dv. Huancabamba (PE-0",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C01",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.443749604401,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.80766925799998,
+            -6.377317061999975,
+            0.0
+          ],
+          [
+            -79.79429053999996,
+            -6.370594024999946,
+            0.0
+          ],
+          [
+            -79.79068946599995,
+            -6.368057250999925,
+            0.0
+          ],
+          [
+            -79.76774406199996,
+            -6.3413867949999485,
+            0.0
+          ],
+          [
+            -79.76562690499998,
+            -6.336791991999974,
+            0.0
+          ],
+          [
+            -79.75524902099994,
+            -6.298469542999953,
+            0.0
+          ],
+          [
+            -79.71123885899993,
+            -6.2271633149999275,
+            0.0
+          ],
+          [
+            -79.70214462099995,
+            -6.214376449999975,
+            0.0
+          ],
+          [
+            -79.70021819899995,
+            -6.21007347099993,
+            0.0
+          ],
+          [
+            -79.69839286599995,
+            -6.1809024809999755,
+            0.0
+          ],
+          [
+            -79.69971275099994,
+            -6.160280227999976,
+            0.0
+          ],
+          [
+            -79.71727370999997,
+            -6.14683341999995,
+            0.0
+          ],
+          [
+            -79.71965217399998,
+            -6.143196105999948,
+            0.0
+          ],
+          [
+            -79.72042274299997,
+            -6.13893318199996,
+            0.0
+          ],
+          [
+            -79.71985244599995,
+            -6.1356639859999405,
+            0.0
+          ],
+          [
+            -79.70205878999997,
+            -6.089719771999967,
+            0.0
+          ],
+          [
+            -79.69754981799997,
+            -6.071422576999964,
+            0.0
+          ],
+          [
+            -79.69166564699998,
+            -6.063060759999928,
+            0.0
+          ],
+          [
+            -79.68844604299994,
+            -6.05542755099998,
+            0.0
+          ],
+          [
+            -79.67920875399994,
+            -6.0502300259999515,
+            0.0
+          ],
+          [
+            -79.67580549299998,
+            -6.043824244999939,
+            0.0
+          ],
+          [
+            -79.67924690099994,
+            -6.02998733499993,
+            0.0
+          ],
+          [
+            -79.68551635599994,
+            -6.02089118899994,
+            0.0
+          ],
+          [
+            -79.68468173499997,
+            -6.015967519999947,
+            0.0
+          ],
+          [
+            -79.69006347499999,
+            -6.011533736999979,
+            0.0
+          ],
+          [
+            -79.69117545899996,
+            -6.004138945999955,
+            0.0
+          ],
+          [
+            -79.69370234399997,
+            -5.9987113359999285,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "82",
+      "type": "Feature",
+      "properties": {
+        "Id": 661.0,
+        "dkmInicio": 15.527,
+        "dkmFinal": 41.534,
+        "dLongitud": 26.007,
+        "cCodRuta": "PE-1NI",
+        "cNomRuta": "Emp. PE-1N (Nvo. Mocupe) - Zaña - Cayaltí - Nueva Arica - Oyotún - Las Delicias - Dv. Bebederos  - Niepos - Bolivar",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "ALEE01",
+        "cCodTraCon": "012",
+        "Shape_Leng": 0.233910242718,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.55842967299998,
+            -6.895355704999929,
+            0.0
+          ],
+          [
+            -79.55483054999996,
+            -6.89395523099995,
+            0.0
+          ],
+          [
+            -79.54818534799995,
+            -6.902563094999948,
+            0.0
+          ],
+          [
+            -79.53891754099999,
+            -6.9034233089999475,
+            0.0
+          ],
+          [
+            -79.52887916499998,
+            -6.908428191999974,
+            0.0
+          ],
+          [
+            -79.52735710099995,
+            -6.911184310999943,
+            0.0
+          ],
+          [
+            -79.52522086999994,
+            -6.91185188299994,
+            0.0
+          ],
+          [
+            -79.51680492399998,
+            -6.907052495999949,
+            0.0
+          ],
+          [
+            -79.51370239199997,
+            -6.9099197389999745,
+            0.0
+          ],
+          [
+            -79.45650291399994,
+            -6.897676467999929,
+            0.0
+          ],
+          [
+            -79.45545959399999,
+            -6.898525237999934,
+            0.0
+          ],
+          [
+            -79.45250079399995,
+            -6.898475381999958,
+            0.0
+          ],
+          [
+            -79.45125961199994,
+            -6.897726058999979,
+            0.0
+          ],
+          [
+            -79.45030240899996,
+            -6.895711048999942,
+            0.0
+          ],
+          [
+            -79.42084884599996,
+            -6.887580871999944,
+            0.0
+          ],
+          [
+            -79.41583061199998,
+            -6.884336471999973,
+            0.0
+          ],
+          [
+            -79.41189765899998,
+            -6.8834133149999275,
+            0.0
+          ],
+          [
+            -79.40469932499997,
+            -6.883474349999972,
+            0.0
+          ],
+          [
+            -79.40227439999995,
+            -6.884459984999978,
+            0.0
+          ],
+          [
+            -79.38617637699997,
+            -6.886986409999963,
+            0.0
+          ],
+          [
+            -79.37210655199993,
+            -6.883695601999932,
+            0.0
+          ],
+          [
+            -79.35080909699997,
+            -6.876108169999952,
+            0.0
+          ],
+          [
+            -79.34832000699998,
+            -6.874570846999973,
+            0.0
+          ],
+          [
+            -79.34384448399999,
+            -6.873564669999951,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "83",
+      "type": "Feature",
+      "properties": {
+        "Id": 777.0,
+        "dkmInicio": 6.10622663544e-16,
+        "dkmFinal": 0.196,
+        "dLongitud": 0.196,
+        "cCodRuta": "PE-06",
+        "cNomRuta": "Emp. PE-IN (Dv. Pimentel) - Pimentel",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "ALEE01",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00201423489067,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.87364969699996,
+            -6.778112755999928,
+            0.0
+          ],
+          [
+            -79.87520886399994,
+            -6.7793744019999735,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "84",
+      "type": "Feature",
+      "properties": {
+        "Id": 545.0,
+        "dkmInicio": 88.3724903325,
+        "dkmFinal": 90.1691008276,
+        "dLongitud": 1.79661049504,
+        "cCodRuta": "PE-04A",
+        "cNomRuta": "Emp. PE-1N (El Cruce) - Emp. PE-1N J (Olmos)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 9,
+        "cEstado": 6,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0162349479577,
+        "origenTipoTramo": "proyectadaV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.77488977799999,
+            -5.922871479999969,
+            0.0
+          ],
+          [
+            -79.77317505399998,
+            -5.9265136739999775,
+            0.0
+          ],
+          [
+            -79.76861165799994,
+            -5.929643674999966,
+            0.0
+          ],
+          [
+            -79.76206255399995,
+            -5.929522179999935,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "85",
+      "type": "Feature",
+      "properties": {
+        "Id": 5821.0,
+        "dkmInicio": 45.184070773,
+        "dkmFinal": 88.3724903325,
+        "dLongitud": 43.1884195595,
+        "cCodRuta": "PE-04A",
+        "cNomRuta": "Emp. PE-1N (El Cruce) - Emp. PE-1N J (Olmos)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 9,
+        "cEstado": 6,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.390161965604,
+        "origenTipoTramo": "proyectadaV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.13760827599998,
+            -5.884336211999937,
+            0.0
+          ],
+          [
+            -80.08978405099998,
+            -5.879051163999975,
+            0.0
+          ],
+          [
+            -79.97136979699997,
+            -5.873185541999931,
+            0.0
+          ],
+          [
+            -79.95933957399996,
+            -5.877145982999934,
+            0.0
+          ],
+          [
+            -79.95374856999996,
+            -5.8774593359999585,
+            0.0
+          ],
+          [
+            -79.94820723499998,
+            -5.881773222999925,
+            0.0
+          ],
+          [
+            -79.93993689799998,
+            -5.884403964999933,
+            0.0
+          ],
+          [
+            -79.93580775699996,
+            -5.887136209999937,
+            0.0
+          ],
+          [
+            -79.92432175499994,
+            -5.888107429999934,
+            0.0
+          ],
+          [
+            -79.90791830499995,
+            -5.892267036999954,
+            0.0
+          ],
+          [
+            -79.89684684299993,
+            -5.89060148599998,
+            0.0
+          ],
+          [
+            -79.88145146699998,
+            -5.892234972999972,
+            0.0
+          ],
+          [
+            -79.87157213399996,
+            -5.88985443699994,
+            0.0
+          ],
+          [
+            -79.86570465699998,
+            -5.892669785999942,
+            0.0
+          ],
+          [
+            -79.85710056399995,
+            -5.89444358999998,
+            0.0
+          ],
+          [
+            -79.83147681699995,
+            -5.894565194999927,
+            0.0
+          ],
+          [
+            -79.82931945199994,
+            -5.893467037999926,
+            0.0
+          ],
+          [
+            -79.82354988399999,
+            -5.88520718999996,
+            0.0
+          ],
+          [
+            -79.81666588299998,
+            -5.884478809999962,
+            0.0
+          ],
+          [
+            -79.80393637099996,
+            -5.890604871999926,
+            0.0
+          ],
+          [
+            -79.79546992399997,
+            -5.89697328099993,
+            0.0
+          ],
+          [
+            -79.78878396399995,
+            -5.9065686839999785,
+            0.0
+          ],
+          [
+            -79.78283969899996,
+            -5.9126797479999595,
+            0.0
+          ],
+          [
+            -79.77933465199999,
+            -5.919157026999926,
+            0.0
+          ],
+          [
+            -79.77488977799999,
+            -5.922871479999969,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "86",
+      "type": "Feature",
+      "properties": {
+        "Id": 1658.0,
+        "dkmInicio": 61.159,
+        "dkmFinal": 68.984,
+        "dLongitud": 7.825,
+        "cCodRuta": "PE-1NI",
+        "cNomRuta": "Emp. PE-1N (Nvo. Mocupe) - Zaña - Cayaltí - Nueva Arica - Oyotún - Las Delicias - Dv. Bebederos  - Niepos - Bolivar",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 3,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "ALEE01",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0699349135619,
+        "origenTipoTramo": "sinAfirmarV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.25844024199995,
+            -6.797504400999969,
+            0.0
+          ],
+          [
+            -79.25455474799998,
+            -6.7984123229999796,
+            0.0
+          ],
+          [
+            -79.25170516899993,
+            -6.79819488499993,
+            0.0
+          ],
+          [
+            -79.24855422899998,
+            -6.800012587999959,
+            0.0
+          ],
+          [
+            -79.24627193999999,
+            -6.799673814999949,
+            0.0
+          ],
+          [
+            -79.24045181199995,
+            -6.8020648959999335,
+            0.0
+          ],
+          [
+            -79.23004913299997,
+            -6.801597594999976,
+            0.0
+          ],
+          [
+            -79.22682762099998,
+            -6.806356429999937,
+            0.0
+          ],
+          [
+            -79.22513961699997,
+            -6.8070163729999535,
+            0.0
+          ],
+          [
+            -79.22241020199993,
+            -6.806629180999948,
+            0.0
+          ],
+          [
+            -79.22138790999998,
+            -6.805303211999956,
+            0.0
+          ],
+          [
+            -79.22041129999997,
+            -6.805326461999925,
+            0.0
+          ],
+          [
+            -79.21662330599997,
+            -6.8081054689999405,
+            0.0
+          ],
+          [
+            -79.21451377799997,
+            -6.8112258909999355,
+            0.0
+          ],
+          [
+            -79.21062469399999,
+            -6.812511443999938,
+            0.0
+          ],
+          [
+            -79.20554923999998,
+            -6.819103240999937,
+            0.0
+          ],
+          [
+            -79.20123672399995,
+            -6.819345473999931,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "87",
+      "type": "Feature",
+      "properties": {
+        "Id": 2861.0,
+        "dkmInicio": 4.447,
+        "dkmFinal": 6.057,
+        "dLongitud": 1.61,
+        "cCodRuta": "PE-06A",
+        "cNomRuta": "Emp. PE-1N (Larán) - Pomalca - Pátapo -Chongoyape - Pte. El Cumbil - Dv. Sta. Cruz de Succhabamba (PE-06 B) - Llama - Huambos - Emp. PE-3N (Cochabamba)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 11,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C16",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0145689600959,
+        "origenTipoTramo": "solucionBasicaV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.81192051599999,
+            -6.817195415999947,
+            0.0
+          ],
+          [
+            -79.80557968899996,
+            -6.8132100299999365,
+            0.0
+          ],
+          [
+            -79.80083480199994,
+            -6.8079641049999395,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "88",
+      "type": "Feature",
+      "properties": {
+        "Id": 748.0,
+        "dkmInicio": 6.057,
+        "dkmFinal": 11.057,
+        "dLongitud": 5.0,
+        "cCodRuta": "PE-06A",
+        "cNomRuta": "Emp. PE-1N (Larán) - Pomalca - Pátapo -Chongoyape - Pte. El Cumbil - Dv. Sta. Cruz de Succhabamba (PE-06 B) - Llama - Huambos - Emp. PE-3N (Cochabamba)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 11,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C16",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0450855767157,
+        "origenTipoTramo": "solucionBasicaV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.80083480199994,
+            -6.8079641049999395,
+            0.0
+          ],
+          [
+            -79.79240475899996,
+            -6.799275880999971,
+            0.0
+          ],
+          [
+            -79.77904184099998,
+            -6.793152869999972,
+            0.0
+          ],
+          [
+            -79.77481823199997,
+            -6.775459092999938,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "89",
+      "type": "Feature",
+      "properties": {
+        "Id": 1520.0,
+        "dkmInicio": 0.91,
+        "dkmFinal": 4.447,
+        "dLongitud": 3.537,
+        "cCodRuta": "PE-06A",
+        "cNomRuta": "Emp. PE-1N (Larán) - Pomalca - Pátapo -Chongoyape - Pte. El Cumbil - Dv. Sta. Cruz de Succhabamba (PE-06 B) - Llama - Huambos - Emp. PE-3N (Cochabamba)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 11,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C16",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0321543338094,
+        "origenTipoTramo": "solucionBasicaV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.82020902899995,
+            -6.847266763999926,
+            0.0
+          ],
+          [
+            -79.81974397999994,
+            -6.8366992709999295,
+            0.0
+          ],
+          [
+            -79.81659164299998,
+            -6.832386246999931,
+            0.0
+          ],
+          [
+            -79.81192051599999,
+            -6.817195415999947,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "90",
+      "type": "Feature",
+      "properties": {
+        "Id": 7100.0,
+        "dkmInicio": 11.057,
+        "dkmFinal": 11.362,
+        "dLongitud": 0.305,
+        "cCodRuta": "PE-06A",
+        "cNomRuta": "Emp. PE-1N (Larán) - Pomalca - Pátapo -Chongoyape - Pte. El Cumbil - Dv. Sta. Cruz de Succhabamba (PE-06 B) - Llama - Huambos - Emp. PE-3N (Cochabamba)",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "D.S.011-2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "LAMBAYEQUE",
+        "cSuperfici": 11,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "14",
+        "cCodCorLog": "C16",
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00271085168234,
+        "origenTipoTramo": "solucionBasicaV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.77481823199997,
+            -6.775459092999938,
+            0.0
+          ],
+          [
+            -79.77407744399994,
+            -6.772865621999927,
+            0.0
+          ]
+        ]
+      }
+    }
+  ]
+}

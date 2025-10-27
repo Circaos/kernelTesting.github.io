@@ -1,0 +1,2022 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "Id": 6657.0,
+        "dkmInicio": 0.662,
+        "dkmFinal": 0.717,
+        "dLongitud": 0.055,
+        "cCodRuta": "PE-20B",
+        "cNomRuta": "Emp. PE-20 (Ovalo 200 Millas) – Aeropuerto (Ovalo Faucett) – Av Faucett - Pte. Faucett – Av. Morales Duarez – Emp. PE 20 (Av. Nestor Gambetta). Incluye el acceso al Límite Provincial Lima - Callao Emp. Av. Paseo Japón).",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.000780997466017,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.12132924199994,
+            -11.999069731999953,
+            0.0
+          ],
+          [
+            -77.12206477399997,
+            -11.998808511999925,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "Id": 1347.0,
+        "dkmInicio": 0.745,
+        "dkmFinal": 1.165,
+        "dLongitud": 0.42,
+        "cCodRuta": "PE-20B",
+        "cNomRuta": "Emp. PE-20 (Ovalo 200 Millas) – Aeropuerto (Ovalo Faucett) – Av Faucett - Pte. Faucett – Av. Morales Duarez – Emp. PE 20 (Av. Nestor Gambetta). Incluye el acceso al Límite Provincial Lima - Callao Emp. Av. Paseo Japón).",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00295884986527,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.11825316199997,
+            -12.000240675999976,
+            0.0
+          ],
+          [
+            -77.12101761099996,
+            -11.99918672299998,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "Id": 1229.0,
+        "dkmInicio": 3.28,
+        "dkmFinal": 4.567,
+        "dLongitud": 1.287,
+        "cCodRuta": "PE-20B",
+        "cNomRuta": "Emp. PE-20 (Ovalo 200 Millas) – Aeropuerto (Ovalo Faucett) – Av Faucett - Pte. Faucett – Av. Morales Duarez – Emp. PE 20 (Av. Nestor Gambetta). Incluye el acceso al Límite Provincial Lima - Callao Emp. Av. Paseo Japón).",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.011565347556,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.11134074499995,
+            -12.011528157999976,
+            0.0
+          ],
+          [
+            -77.10646041899997,
+            -12.02199105799997,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "Id": 5356.0,
+        "dkmInicio": 6.809,
+        "dkmFinal": 8.603,
+        "dLongitud": 1.794,
+        "cCodRuta": "PE-20B",
+        "cNomRuta": "Emp. PE-20 (Ovalo 200 Millas) – Aeropuerto (Ovalo Faucett) – Av Faucett - Pte. Faucett – Av. Morales Duarez – Emp. PE 20 (Av. Nestor Gambetta). Incluye el acceso al Límite Provincial Lima - Callao Emp. Av. Paseo Japón).",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0164610306763,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.09974999199994,
+            -12.04039097499998,
+            0.0
+          ],
+          [
+            -77.10866494399994,
+            -12.042012973999931,
+            0.0
+          ],
+          [
+            -77.11583135999996,
+            -12.040322261999961,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "Id": 8112.0,
+        "dkmInicio": 1.647,
+        "dkmFinal": 1.997,
+        "dLongitud": 0.35,
+        "cCodRuta": "PE-20B",
+        "cNomRuta": "Emp. PE-20 (Ovalo 200 Millas) – Aeropuerto (Ovalo Faucett) – Av Faucett - Pte. Faucett – Av. Morales Duarez – Emp. PE 20 (Av. Nestor Gambetta). Incluye el acceso al Límite Provincial Lima - Callao Emp. Av. Paseo Japón).",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00292586195705,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.11672877999996,
+            -12.00122668299997,
+            0.0
+          ],
+          [
+            -77.11474863699993,
+            -11.999091653999926,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "Id": 5355.0,
+        "dkmInicio": 8.603,
+        "dkmFinal": 9.405,
+        "dLongitud": 0.802,
+        "cCodRuta": "PE-20B",
+        "cNomRuta": "Emp. PE-20 (Ovalo 200 Millas) – Aeropuerto (Ovalo Faucett) – Av Faucett - Pte. Faucett – Av. Morales Duarez – Emp. PE 20 (Av. Nestor Gambetta). Incluye el acceso al Límite Provincial Lima - Callao Emp. Av. Paseo Japón).",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00751387882425,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.11583135999996,
+            -12.040322261999961,
+            0.0
+          ],
+          [
+            -77.12317144599996,
+            -12.038926849999939,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "Id": 3576.0,
+        "dkmInicio": 0.59,
+        "dkmFinal": 0.976,
+        "dLongitud": 0.386,
+        "cCodRuta": "PE-20I",
+        "cNomRuta": "Emp. PE-20 B (Av. Morales Duarez) – Av. Santa Rosa - Emp. CL-100 (Av. Costanera)",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "Nº 211-2016 MTC/01.02/DS011-1",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00416783966619,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.11575447999996,
+            -12.045876733999933,
+            0.00010000000474974513
+          ],
+          [
+            -77.11534948499997,
+            -12.05001723099997,
+            0.00010000000474974513
+          ]
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "Id": 1280.0,
+        "dkmInicio": 4.567,
+        "dkmFinal": 4.625,
+        "dLongitud": 0.058,
+        "cCodRuta": "PE-20B",
+        "cNomRuta": "Emp. PE-20 (Ovalo 200 Millas) – Aeropuerto (Ovalo Faucett) – Av Faucett - Pte. Faucett – Av. Morales Duarez – Emp. PE 20 (Av. Nestor Gambetta). Incluye el acceso al Límite Provincial Lima - Callao Emp. Av. Paseo Japón).",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.000517904156037,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.10646041899997,
+            -12.02199105799997,
+            0.0
+          ],
+          [
+            -77.10620024499997,
+            -12.022436506999952,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "Id": 3682.0,
+        "dkmInicio": 22.376,
+        "dkmFinal": 23.909,
+        "dLongitud": 1.533,
+        "cCodRuta": "PE-20",
+        "cNomRuta": "Emp. PE-1N (I.V. Zapallal) - Ventanilla - Ov. 200 millas - Av. Gambetta - Pto. Callao",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "Nº 814-2016-MTC/01.02/192-201",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0142783589903,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.12913877699998,
+            -12.023076917999958,
+            0.0
+          ],
+          [
+            -77.12768182499997,
+            -12.03015376899998,
+            0.0
+          ],
+          [
+            -77.12742174699997,
+            -12.037101863999965,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "Id": 3544.0,
+        "dkmInicio": 19.45,
+        "dkmFinal": 19.559,
+        "dLongitud": 0.109,
+        "cCodRuta": "PE-20",
+        "cNomRuta": "Emp. PE-1N (I.V. Zapallal) - Ventanilla - Ov. 200 millas - Av. Gambetta - Pto. Callao",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "Nº 814-2016-MTC/01.02/192-201",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.000985522588654,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.12634702499997,
+            -11.996957707999968,
+            0.0
+          ],
+          [
+            -77.12648563399995,
+            -11.997932509999941,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "Id": 1709.0,
+        "dkmInicio": 24.746,
+        "dkmFinal": 25.746,
+        "dLongitud": 1.0,
+        "cCodRuta": "PE-20",
+        "cNomRuta": "Emp. PE-1N (I.V. Zapallal) - Ventanilla - Ov. 200 millas - Av. Gambetta - Pto. Callao",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "Nº 814-2016-MTC/01.02/192-201",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00898103791582,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.12660579799996,
+            -12.044609252999976,
+            0.0
+          ],
+          [
+            -77.13504649699996,
+            -12.047657710999943,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "Id": 3470.0,
+        "dkmInicio": 19.559,
+        "dkmFinal": 19.995,
+        "dLongitud": 0.436,
+        "cCodRuta": "PE-20",
+        "cNomRuta": "Emp. PE-1N (I.V. Zapallal) - Ventanilla - Ov. 200 millas - Av. Gambetta - Pto. Callao",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "Nº 814-2016-MTC/01.02/192-201",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00393711239114,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.12648563399995,
+            -11.997932509999941,
+            0.0
+          ],
+          [
+            -77.12687145099994,
+            -12.001849765999964,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "Id": 8667.0,
+        "dkmInicio": 23.909,
+        "dkmFinal": 24.746,
+        "dLongitud": 0.837,
+        "cCodRuta": "PE-20",
+        "cNomRuta": "Emp. PE-1N (I.V. Zapallal) - Ventanilla - Ov. 200 millas - Av. Gambetta - Pto. Callao",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "Nº 814-2016-MTC/01.02/192-201",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00755675359137,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.12742174699997,
+            -12.037101863999965,
+            0.0
+          ],
+          [
+            -77.12660579799996,
+            -12.044609252999976,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "Id": 4735.0,
+        "dkmInicio": 0.0,
+        "dkmFinal": 1.002,
+        "dLongitud": 1.002,
+        "cCodRuta": "PE-20H",
+        "cNomRuta": "Emp. PE-20 (Dv. Pto. Callao) – Acceso Muelle Norte (Contralmirante Raygada).",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "D.S.011- 2016-MTC",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00529998865427,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.14062135699999,
+            -12.051203118999979,
+            0.0
+          ],
+          [
+            -77.14126049699996,
+            -12.050652107999952,
+            0.0
+          ],
+          [
+            -77.13996082099999,
+            -12.04790126699993,
+            0.0
+          ],
+          [
+            -77.14111723899998,
+            -12.047519362999935,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "Id": 7606.0,
+        "dkmInicio": 19.252,
+        "dkmFinal": 19.45,
+        "dLongitud": 0.198,
+        "cCodRuta": "PE-20",
+        "cNomRuta": "Emp. PE-1N (I.V. Zapallal) - Ventanilla - Ov. 200 millas - Av. Gambetta - Pto. Callao",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00178882982567,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.12613853999994,
+            -11.995181112999944,
+            0.0
+          ],
+          [
+            -77.12634702499997,
+            -11.996957707999968,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "Id": 842.0,
+        "dkmInicio": 0.452,
+        "dkmFinal": 0.662,
+        "dLongitud": 0.21,
+        "cCodRuta": "PE-20B",
+        "cNomRuta": "Emp. PE-20 (Ovalo 200 Millas) – Aeropuerto (Ovalo Faucett) – Av Faucett - Pte. Faucett – Av. Morales Duarez – Emp. PE 20 (Av. Nestor Gambetta). Incluye el acceso al Límite Provincial Lima - Callao Emp. Av. Paseo Japón).",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00129174259723,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.12206477399997,
+            -11.998808511999925,
+            0.0
+          ],
+          [
+            -77.12326476099997,
+            -11.998331180999969,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "type": "Feature",
+      "properties": {
+        "Id": 3528.0,
+        "dkmInicio": -7.54951656745e-15,
+        "dkmFinal": 3.813,
+        "dLongitud": 3.813,
+        "cCodRuta": "PE-20",
+        "cNomRuta": "Emp. PE-1N (I.V. Zapallal) - Ventanilla - Ov. 200 millas - Av. Gambetta - Pto. Callao",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.034699594853,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.11282192599998,
+            -11.834004984999979,
+            0.0
+          ],
+          [
+            -77.11082509599999,
+            -11.836162650999938,
+            0.0
+          ],
+          [
+            -77.11091953099998,
+            -11.83729849499997,
+            0.0
+          ],
+          [
+            -77.11891092999997,
+            -11.845574795999937,
+            0.0
+          ],
+          [
+            -77.12054342099998,
+            -11.848461305999933,
+            0.0
+          ],
+          [
+            -77.12310100399998,
+            -11.84946509799994,
+            0.0
+          ],
+          [
+            -77.12630261699996,
+            -11.849512366999932,
+            0.0
+          ],
+          [
+            -77.12888591999996,
+            -11.851635364999936,
+            0.0
+          ],
+          [
+            -77.12994073799996,
+            -11.85349695399998,
+            0.0
+          ],
+          [
+            -77.13030215999999,
+            -11.857605983999974,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "type": "Feature",
+      "properties": {
+        "Id": 7599.0,
+        "dkmInicio": 6.676,
+        "dkmFinal": 6.753,
+        "dLongitud": 0.077,
+        "cCodRuta": "PE-20B",
+        "cNomRuta": "Emp. PE-20 (Ovalo 200 Millas) – Aeropuerto (Ovalo Faucett) – Av Faucett - Pte. Faucett – Av. Morales Duarez – Emp. PE 20 (Av. Nestor Gambetta). Incluye el acceso al Límite Provincial Lima - Callao Emp. Av. Paseo Japón).",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.000689294821342,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.09930241399996,
+            -12.039550032999955,
+            0.0
+          ],
+          [
+            -77.09926060999999,
+            -12.040238057999943,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "type": "Feature",
+      "properties": {
+        "Id": 3574.0,
+        "dkmInicio": 0.281,
+        "dkmFinal": 0.59,
+        "dLongitud": 0.309,
+        "cCodRuta": "PE-20I",
+        "cNomRuta": "Emp. PE-20 B (Av. Morales Duarez) – Av. Santa Rosa - Emp. CL-100 (Av. Costanera)",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "Nº 211-2016 MTC/01.02/DS011-1",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0031931806491,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.11595952399995,
+            -12.042691776999959,
+            0.00010000000474974513
+          ],
+          [
+            -77.11575447999996,
+            -12.045876733999933,
+            0.00010000000474974513
+          ]
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "type": "Feature",
+      "properties": {
+        "Id": 201.0,
+        "dkmInicio": 1.997,
+        "dkmFinal": 3.226,
+        "dLongitud": 1.229,
+        "cCodRuta": "PE-20B",
+        "cNomRuta": "Emp. PE-20 (Ovalo 200 Millas) – Aeropuerto (Ovalo Faucett) – Av Faucett - Pte. Faucett – Av. Morales Duarez – Emp. PE 20 (Av. Nestor Gambetta). Incluye el acceso al Límite Provincial Lima - Callao Emp. Av. Paseo Japón).",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0110834671344,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.11159706099994,
+            -12.01102256799993,
+            0.0
+          ],
+          [
+            -77.11672877999996,
+            -12.00122668299997,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "type": "Feature",
+      "properties": {
+        "Id": 6259.0,
+        "dkmInicio": 3.801,
+        "dkmFinal": 3.927,
+        "dLongitud": 0.126,
+        "cCodRuta": "PE-20I",
+        "cNomRuta": "Emp. PE-20 B (Av. Morales Duarez) – Av. Santa Rosa - Emp. CL-100 (Av. Costanera)",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "Nº 211-2016 MTC/01.02/DS011-1",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 4,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00114833505937,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.12331928499998,
+            -12.072547399999962,
+            0.00010000000474974513
+          ],
+          [
+            -77.12388924099997,
+            -12.073544306999963,
+            0.00010000000474974513
+          ]
+        ]
+      }
+    },
+    {
+      "id": "21",
+      "type": "Feature",
+      "properties": {
+        "Id": 7595.0,
+        "dkmInicio": 3.813,
+        "dkmFinal": 4.3,
+        "dLongitud": 0.487,
+        "cCodRuta": "PE-20",
+        "cNomRuta": "Emp. PE-1N (I.V. Zapallal) - Ventanilla - Ov. 200 millas - Av. Gambetta - Pto. Callao",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00441083148767,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.13030215999999,
+            -11.857605983999974,
+            0.0
+          ],
+          [
+            -77.13035701499996,
+            -11.860029833999931,
+            0.0
+          ],
+          [
+            -77.12927384199998,
+            -11.861664777999977,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "type": "Feature",
+      "properties": {
+        "Id": 4144.0,
+        "dkmInicio": 25.746,
+        "dkmFinal": 27.846,
+        "dLongitud": 2.1,
+        "cCodRuta": "PE-20",
+        "cNomRuta": "Emp. PE-1N (I.V. Zapallal) - Ventanilla - Ov. 200 millas - Av. Gambetta - Pto. Callao",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "Nº 814-2016-MTC/01.02/192-201",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": "CLL-PORT",
+        "Shape_Leng": 0.0182634527078,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.13504649699996,
+            -12.047657710999943,
+            0.0
+          ],
+          [
+            -77.13942172199995,
+            -12.049664090999954,
+            0.0
+          ],
+          [
+            -77.14522494999994,
+            -12.057579002999944,
+            0.0
+          ],
+          [
+            -77.14821977899999,
+            -12.059498401999974,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "23",
+      "type": "Feature",
+      "properties": {
+        "Id": 5518.0,
+        "dkmInicio": 1.689,
+        "dkmFinal": 1.734,
+        "dLongitud": 0.045,
+        "cCodRuta": "PE-20I",
+        "cNomRuta": "Emp. PE-20 B (Av. Morales Duarez) – Av. Santa Rosa - Emp. CL-100 (Av. Costanera)",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "Nº 211-2016 MTC/01.02/DS011-1",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.000406087687328,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.11493184499994,
+            -12.05643942599994,
+            0.00010000000474974513
+          ],
+          [
+            -77.11490090099994,
+            -12.056844332999958,
+            0.00010000000474974513
+          ]
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "type": "Feature",
+      "properties": {
+        "Id": 585.0,
+        "dkmInicio": 1.241,
+        "dkmFinal": 1.362,
+        "dLongitud": 0.121,
+        "cCodRuta": "PE-20B",
+        "cNomRuta": "Emp. PE-20 (Ovalo 200 Millas) – Aeropuerto (Ovalo Faucett) – Av Faucett - Pte. Faucett – Av. Morales Duarez – Emp. PE 20 (Av. Nestor Gambetta). Incluye el acceso al Límite Provincial Lima - Callao Emp. Av. Paseo Japón).",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.000817273205917,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.11694457499993,
+            -12.001013740999952,
+            0.0
+          ],
+          [
+            -77.11761429899997,
+            -12.000546806999978,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "25",
+      "type": "Feature",
+      "properties": {
+        "Id": 5411.0,
+        "dkmInicio": 1.194,
+        "dkmFinal": 1.241,
+        "dLongitud": 0.047,
+        "cCodRuta": "PE-20B",
+        "cNomRuta": "Emp. PE-20 (Ovalo 200 Millas) – Aeropuerto (Ovalo Faucett) – Av Faucett - Pte. Faucett – Av. Morales Duarez – Emp. PE 20 (Av. Nestor Gambetta). Incluye el acceso al Límite Provincial Lima - Callao Emp. Av. Paseo Japón).",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.000289421709906,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.11761429899997,
+            -12.000546806999978,
+            0.0
+          ],
+          [
+            -77.11786456499993,
+            -12.000401438999972,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "type": "Feature",
+      "properties": {
+        "Id": 7596.0,
+        "dkmInicio": 4.3,
+        "dkmFinal": 10.6,
+        "dLongitud": 6.3,
+        "cCodRuta": "PE-20",
+        "cNomRuta": "Emp. PE-1N (I.V. Zapallal) - Ventanilla - Ov. 200 millas - Av. Gambetta - Pto. Callao",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0560914462987,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.12927384199998,
+            -11.861664777999977,
+            0.0
+          ],
+          [
+            -77.12680064299997,
+            -11.875748410999961,
+            0.0
+          ],
+          [
+            -77.12603979899995,
+            -11.886617416999968,
+            0.0
+          ],
+          [
+            -77.12697586399997,
+            -11.897012403999952,
+            0.0
+          ],
+          [
+            -77.12827155399998,
+            -11.901288251999972,
+            0.0
+          ],
+          [
+            -77.12902530799994,
+            -11.917102395999962,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "27",
+      "type": "Feature",
+      "properties": {
+        "Id": 1867.0,
+        "dkmInicio": 1.165,
+        "dkmFinal": 1.194,
+        "dLongitud": 0.029,
+        "cCodRuta": "PE-20B",
+        "cNomRuta": "Emp. PE-20 (Ovalo 200 Millas) – Aeropuerto (Ovalo Faucett) – Av Faucett - Pte. Faucett – Av. Morales Duarez – Emp. PE 20 (Av. Nestor Gambetta). Incluye el acceso al Límite Provincial Lima - Callao Emp. Av. Paseo Japón).",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.000421209447701,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.11786456499993,
+            -12.000401438999972,
+            0.0
+          ],
+          [
+            -77.11825316199997,
+            -12.000240675999976,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "28",
+      "type": "Feature",
+      "properties": {
+        "Id": 7604.0,
+        "dkmInicio": 9.405,
+        "dkmFinal": 9.867,
+        "dLongitud": 0.462,
+        "cCodRuta": "PE-20B",
+        "cNomRuta": "Emp. PE-20 (Ovalo 200 Millas) – Aeropuerto (Ovalo Faucett) – Av Faucett - Pte. Faucett – Av. Morales Duarez – Emp. PE 20 (Av. Nestor Gambetta). Incluye el acceso al Límite Provincial Lima - Callao Emp. Av. Paseo Japón).",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00423284018384,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.12317144599996,
+            -12.038926849999939,
+            0.0
+          ],
+          [
+            -77.12724562299996,
+            -12.038058354999976,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "29",
+      "type": "Feature",
+      "properties": {
+        "Id": 7605.0,
+        "dkmInicio": 6.753,
+        "dkmFinal": 6.809,
+        "dLongitud": 0.056,
+        "cCodRuta": "PE-20B",
+        "cNomRuta": "Emp. PE-20 (Ovalo 200 Millas) – Aeropuerto (Ovalo Faucett) – Av Faucett - Pte. Faucett – Av. Morales Duarez – Emp. PE 20 (Av. Nestor Gambetta). Incluye el acceso al Límite Provincial Lima - Callao Emp. Av. Paseo Japón).",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.000512716637904,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.09926060999999,
+            -12.040238057999943,
+            0.0
+          ],
+          [
+            -77.09974999199994,
+            -12.04039097499998,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "30",
+      "type": "Feature",
+      "properties": {
+        "Id": 8213.0,
+        "dkmInicio": 2.931,
+        "dkmFinal": 3.801,
+        "dLongitud": 0.87,
+        "cCodRuta": "PE-20I",
+        "cNomRuta": "Emp. PE-20 B (Av. Morales Duarez) – Av. Santa Rosa - Emp. CL-100 (Av. Costanera)",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "Nº 211-2016 MTC/01.02/DS011-1",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 4,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00779043621553,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.11956338599998,
+            -12.065763695999976,
+            0.00010000000474974513
+          ],
+          [
+            -77.12331928499998,
+            -12.072547399999962,
+            0.00010000000474974513
+          ]
+        ]
+      }
+    },
+    {
+      "id": "31",
+      "type": "Feature",
+      "properties": {
+        "Id": 8202.0,
+        "dkmInicio": 0.976,
+        "dkmFinal": 1.689,
+        "dLongitud": 0.713,
+        "cCodRuta": "PE-20I",
+        "cNomRuta": "Emp. PE-20 B (Av. Morales Duarez) – Av. Santa Rosa - Emp. CL-100 (Av. Costanera)",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "Nº 211-2016 MTC/01.02/DS011-1",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00643820520935,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.11534948499997,
+            -12.05001723099997,
+            0.00010000000474974513
+          ],
+          [
+            -77.11493184499994,
+            -12.05643942599994,
+            0.00010000000474974513
+          ]
+        ]
+      }
+    },
+    {
+      "id": "32",
+      "type": "Feature",
+      "properties": {
+        "Id": 3545.0,
+        "dkmInicio": 19.995,
+        "dkmFinal": 22.376,
+        "dLongitud": 2.381,
+        "cCodRuta": "PE-20",
+        "cNomRuta": "Emp. PE-1N (I.V. Zapallal) - Ventanilla - Ov. 200 millas - Av. Gambetta - Pto. Callao",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "Nº 814-2016-MTC/01.02/192-201",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0215025876099,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.12687145099994,
+            -12.001849765999964,
+            0.0
+          ],
+          [
+            -77.12708891099999,
+            -12.00742175299996,
+            0.0
+          ],
+          [
+            -77.12945789499997,
+            -12.019423463999942,
+            0.0
+          ],
+          [
+            -77.12913877699998,
+            -12.023076917999958,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "33",
+      "type": "Feature",
+      "properties": {
+        "Id": 713.0,
+        "dkmInicio": 0.294,
+        "dkmFinal": 0.452,
+        "dLongitud": 0.158,
+        "cCodRuta": "PE-20B",
+        "cNomRuta": "Emp. PE-20 (Ovalo 200 Millas) – Aeropuerto (Ovalo Faucett) – Av Faucett - Pte. Faucett – Av. Morales Duarez – Emp. PE 20 (Av. Nestor Gambetta). Incluye el acceso al Límite Provincial Lima - Callao Emp. Av. Paseo Japón).",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00134364885296,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.12326476099997,
+            -11.998331180999969,
+            0.0
+          ],
+          [
+            -77.12454055499995,
+            -11.99791010499996,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "34",
+      "type": "Feature",
+      "properties": {
+        "Id": 2711.0,
+        "dkmInicio": 1.525,
+        "dkmFinal": 1.647,
+        "dLongitud": 0.122,
+        "cCodRuta": "PE-20B",
+        "cNomRuta": "Emp. PE-20 (Ovalo 200 Millas) – Aeropuerto (Ovalo Faucett) – Av Faucett - Pte. Faucett – Av. Morales Duarez – Emp. PE 20 (Av. Nestor Gambetta). Incluye el acceso al Límite Provincial Lima - Callao Emp. Av. Paseo Japón).",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00141124609472,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.11377000499994,
+            -11.998075153999935,
+            0.0
+          ],
+          [
+            -77.11474863699993,
+            -11.999091653999926,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "35",
+      "type": "Feature",
+      "properties": {
+        "Id": 329.0,
+        "dkmInicio": 0.717,
+        "dkmFinal": 0.745,
+        "dLongitud": 0.028,
+        "cCodRuta": "PE-20B",
+        "cNomRuta": "Emp. PE-20 (Ovalo 200 Millas) – Aeropuerto (Ovalo Faucett) – Av Faucett - Pte. Faucett – Av. Morales Duarez – Emp. PE 20 (Av. Nestor Gambetta). Incluye el acceso al Límite Provincial Lima - Callao Emp. Av. Paseo Japón).",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.000332867502531,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.12101761099996,
+            -11.99918672299998,
+            0.0
+          ],
+          [
+            -77.12132924199994,
+            -11.999069731999953,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "36",
+      "type": "Feature",
+      "properties": {
+        "Id": 851.0,
+        "dkmInicio": 0.272,
+        "dkmFinal": 0.294,
+        "dLongitud": 0.022,
+        "cCodRuta": "PE-20B",
+        "cNomRuta": "Emp. PE-20 (Ovalo 200 Millas) – Aeropuerto (Ovalo Faucett) – Av Faucett - Pte. Faucett – Av. Morales Duarez – Emp. PE 20 (Av. Nestor Gambetta). Incluye el acceso al Límite Provincial Lima - Callao Emp. Av. Paseo Japón).",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.000313539997043,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.12454055499995,
+            -11.99791010499996,
+            0.0
+          ],
+          [
+            -77.12484004899994,
+            -11.997817443999963,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "37",
+      "type": "Feature",
+      "properties": {
+        "Id": 5157.0,
+        "dkmInicio": 1.402,
+        "dkmFinal": 1.525,
+        "dLongitud": 0.123,
+        "cCodRuta": "PE-20B",
+        "cNomRuta": "Emp. PE-20 (Ovalo 200 Millas) – Aeropuerto (Ovalo Faucett) – Av Faucett - Pte. Faucett – Av. Morales Duarez – Emp. PE 20 (Av. Nestor Gambetta). Incluye el acceso al Límite Provincial Lima - Callao Emp. Av. Paseo Japón).",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00194299667097,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.11240121799995,
+            -11.996696735999933,
+            0.0
+          ],
+          [
+            -77.11377000499994,
+            -11.998075153999935,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "38",
+      "type": "Feature",
+      "properties": {
+        "Id": 3419.0,
+        "dkmInicio": 4.625,
+        "dkmFinal": 6.676,
+        "dLongitud": 2.051,
+        "cCodRuta": "PE-20B",
+        "cNomRuta": "Emp. PE-20 (Ovalo 200 Millas) – Aeropuerto (Ovalo Faucett) – Av Faucett - Pte. Faucett – Av. Morales Duarez – Emp. PE 20 (Av. Nestor Gambetta). Incluye el acceso al Límite Provincial Lima - Callao Emp. Av. Paseo Japón).",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0187982657894,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.10620024499997,
+            -12.022436506999952,
+            0.0
+          ],
+          [
+            -77.10003490399998,
+            -12.034092721999968,
+            0.0
+          ],
+          [
+            -77.09930241399996,
+            -12.039550032999955,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "39",
+      "type": "Feature",
+      "properties": {
+        "Id": 712.0,
+        "dkmInicio": 0.0,
+        "dkmFinal": 0.272,
+        "dLongitud": 0.272,
+        "cCodRuta": "PE-20B",
+        "cNomRuta": "Emp. PE-20 (Ovalo 200 Millas) – Aeropuerto (Ovalo Faucett) – Av Faucett - Pte. Faucett – Av. Morales Duarez – Emp. PE 20 (Av. Nestor Gambetta). Incluye el acceso al Límite Provincial Lima - Callao Emp. Av. Paseo Japón).",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00181408348349,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.12484004899994,
+            -11.997817443999963,
+            0.0
+          ],
+          [
+            -77.12634702499997,
+            -11.996957707999968,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "40",
+      "type": "Feature",
+      "properties": {
+        "Id": 6639.0,
+        "dkmInicio": 0.0,
+        "dkmFinal": 1.905,
+        "dLongitud": 1.905,
+        "cCodRuta": "PE-20K",
+        "cNomRuta": "Emp. PE-20 B (Av. Elmer Faucett) – Límite provincial de Callao-Lima",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "Nº 329-2019 MTC/01.02\r",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 4,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0174617593852,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.09926060999999,
+            -12.040238057999943,
+            0.0
+          ],
+          [
+            -77.08288399899999,
+            -12.036940450999964,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "41",
+      "type": "Feature",
+      "properties": {
+        "Id": 848.0,
+        "dkmInicio": 3.226,
+        "dkmFinal": 3.28,
+        "dLongitud": 0.054,
+        "cCodRuta": "PE-20B",
+        "cNomRuta": "Emp. PE-20 (Ovalo 200 Millas) – Aeropuerto (Ovalo Faucett) – Av Faucett - Pte. Faucett – Av. Morales Duarez – Emp. PE 20 (Av. Nestor Gambetta). Incluye el acceso al Límite Provincial Lima - Callao Emp. Av. Paseo Japón).",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.000566883322769,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.11159706099994,
+            -12.01102256799993,
+            0.0
+          ],
+          [
+            -77.11134074499995,
+            -12.011528157999976,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "42",
+      "type": "Feature",
+      "properties": {
+        "Id": 9419.0,
+        "dkmInicio": 10.6,
+        "dkmFinal": 19.252,
+        "dLongitud": 8.652,
+        "cCodRuta": "PE-20",
+        "cNomRuta": "Emp. PE-1N (I.V. Zapallal) - Ventanilla - Ov. 200 millas - Av. Gambetta - Pto. Callao",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.079249928636,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.12902530799994,
+            -11.917102395999962,
+            0.0
+          ],
+          [
+            -77.13187675699999,
+            -11.948426165999933,
+            0.0
+          ],
+          [
+            -77.12535796799995,
+            -11.970616911999969,
+            0.0
+          ],
+          [
+            -77.12613853999994,
+            -11.995181112999944,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "43",
+      "type": "Feature",
+      "properties": {
+        "Id": 6658.0,
+        "dkmInicio": 1.362,
+        "dkmFinal": 1.402,
+        "dLongitud": 0.04,
+        "cCodRuta": "PE-20B",
+        "cNomRuta": "Emp. PE-20 (Ovalo 200 Millas) – Aeropuerto (Ovalo Faucett) – Av Faucett - Pte. Faucett – Av. Morales Duarez – Emp. PE 20 (Av. Nestor Gambetta). Incluye el acceso al Límite Provincial Lima - Callao Emp. Av. Paseo Japón).",
+        "cClasifica": "VARIANTE",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.000303550606424,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.11672877999996,
+            -12.00122668299997,
+            0.0
+          ],
+          [
+            -77.11694457499993,
+            -12.001013740999952,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "44",
+      "type": "Feature",
+      "properties": {
+        "Id": 8213.0,
+        "dkmInicio": 1.734,
+        "dkmFinal": 2.931,
+        "dLongitud": 1.197,
+        "cCodRuta": "PE-20I",
+        "cNomRuta": "Emp. PE-20 B (Av. Morales Duarez) – Av. Santa Rosa - Emp. CL-100 (Av. Costanera)",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "Nº 211-2016 MTC/01.02/DS011-1",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0112113506429,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.11490090099994,
+            -12.056844332999958,
+            0.00010000000474974513
+          ],
+          [
+            -77.11500482099996,
+            -12.05934893899996,
+            0.00010000000474974513
+          ],
+          [
+            -77.11891736199993,
+            -12.064667953999958,
+            0.00010000000474974513
+          ],
+          [
+            -77.11982393699998,
+            -12.064867829999969,
+            0.00010000000474974513
+          ],
+          [
+            -77.11956338599998,
+            -12.065763695999976,
+            0.00010000000474974513
+          ]
+        ]
+      }
+    },
+    {
+      "id": "45",
+      "type": "Feature",
+      "properties": {
+        "Id": 9013.0,
+        "dkmInicio": 4.99600361081e-16,
+        "dkmFinal": 0.281,
+        "dLongitud": 0.281,
+        "cCodRuta": "PE-20I",
+        "cNomRuta": "Emp. PE-20 B (Av. Morales Duarez) – Av. Santa Rosa - Emp. CL-100 (Av. Costanera)",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "Nº 211-2016 MTC/01.02/DS011-1",
+        "cReclasifi": "Clasificada como nacional",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 1,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.00253893543809,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.11583135999996,
+            -12.040322261999961,
+            0.00010000000474974513
+          ],
+          [
+            -77.11595952399995,
+            -12.042691776999959,
+            0.00010000000474974513
+          ]
+        ]
+      }
+    },
+    {
+      "id": "46",
+      "type": "Feature",
+      "properties": {
+        "Id": 2185.0,
+        "dkmInicio": 1.11022302463e-16,
+        "dkmFinal": 0.128,
+        "dLongitud": 0.128,
+        "cCodRuta": "PE-20J",
+        "cNomRuta": "Emp. PE-20B - Av. Canta Callao – Av. Naranjal – Emp. PE-1N (Ov. Naranjal) – Emp. Av. Túpac Amaru – Av. Condorcanqui – Av. Los Olmos – Av. El Sol – Emp. Carretera Central – Av. Separadora Industrial – Emp. Av. Circunvalación",
+        "cClasifica": "TRANSVERSAL",
+        "cNroResMin": "Nº 814-2016/965-2016 MTC/01.0",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 1,
+        "cEstado": 3,
+        "cTipRed": "RNT",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.000265663339816,
+        "origenTipoTramo": "asfaltadoV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.11240121799995,
+            -11.996696735999933,
+            0.0
+          ],
+          [
+            -77.11221420099997,
+            -11.996508051999967,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "id": "47",
+      "type": "Feature",
+      "properties": {
+        "Id": 3537.0,
+        "dkmInicio": 0.0,
+        "dkmFinal": 1.62197631906,
+        "dLongitud": 1.62197631906,
+        "cCodRuta": "PE-20E",
+        "cNomRuta": "Emp. PE-20 - Embarque de Minerales (Cerro El Perro)",
+        "cClasifica": "RAMAL",
+        "cNroResMin": "Nº 814-2016 -MTC/01.02",
+        "cReclasifi": "Modificación de Clasificador de Rutas",
+        "cDepartame": "CALLAO",
+        "cSuperfici": 9,
+        "cEstado": 6,
+        "cTipRed": "RN",
+        "cCodDepart": "07",
+        "cCodCorLog": null,
+        "cCodTraCon": null,
+        "Shape_Leng": 0.0148075814148,
+        "origenTipoTramo": "proyectadaV2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.12841455699999,
+            -11.903152625999951,
+            0.0
+          ],
+          [
+            -77.13063749799994,
+            -11.903985424999973,
+            0.0
+          ],
+          [
+            -77.13365499299994,
+            -11.907684907999965,
+            0.0
+          ],
+          [
+            -77.14107245499997,
+            -11.907187240999974,
+            0.0
+          ]
+        ]
+      }
+    }
+  ]
+}
