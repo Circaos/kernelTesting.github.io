@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta name="theme-color" content="#003366">
+
+      <!-- Favicon estándar -->
+    <link rel="icon" href="favicon.ico" sizes="any">
+    <!-- Favicon en SVG (opcional) -->
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <!-- Para Apple (iOS) -->
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <!-- Para Android/Chrome -->
+    <link rel="manifest" href="site.webmanifest">
+    <!-- Color de tema en navegadores móviles -->
+    <meta name="theme-color" content="#ffffff">
+
+    <title>Intendencia de Aduana de Pucallpa - Inicio de Sesión</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/login.css" />
+    <link rel="stylesheet" href="css/reutilizar/cargando.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="login-container">
+      <div class="login-header">
+        <img src="recursos/imagenes/LogoAduanas.png" alt="Logo Aduana Pucallpa" class="logo">
+        <h1>INTENDENCIA DE ADUANA DE PUCALLPA</h1>
+      </div>
+      <div class="login-box">
+        <h2>Iniciar Sesión</h2>
+        <form id="loginForm">
+          <div class="input-group">
+            <input type="text" id="username" name="username" autocomplete="username" required />
+            <label for="username">Usuario</label>
+            <span class="input-border"></span>
+          </div>
+          <div class="input-group">
+            <input type="password" id="password" name="password" autocomplete="current-password" required />
+            <label for="password">Contraseña</label>
+            <span class="input-border"></span>
+          </div>
+          <button type="submit" class="login-btn">
+            <span>Ingresar</span>
+            <svg width="13px" height="10px" viewBox="0 0 13 10">
+              <path d="M1,5 L11,5"></path>
+              <polyline points="8 1 12 5 8 9"></polyline>
+            </svg>
+          </button>
+        </form>
+        <div id="errorMessage" class="error-message"></div>
+      </div>
+      <div class="login-footer">
+        <p>Grupo Operativo I.A Pucallpa &copy; 2025</p>
+      </div>
+    </div>
+
+    <!-- Cargando Ingreso -->
+    <div class="loading-overlay" id="loadingOverlay">
+      <div class="loading-content">
+        <div class="spinner"></div>
+        <div class="loading-text">Ingresando...</div>
+      </div>
+    </div>
+
+    <script type="module" src="js/auth.js"></script>
+  </body>
+</html>

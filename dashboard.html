@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta name="theme-color" content="#003366">
+
+        <!-- Favicon estándar -->
+    <link rel="icon" href="favicon.ico" sizes="any">
+    <!-- Favicon en SVG (opcional) -->
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <!-- Para Apple (iOS) -->
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <!-- Para Android/Chrome -->
+    <link rel="manifest" href="site.webmanifest">
+    <!-- Color de tema en navegadores móviles -->
+    <meta name="theme-color" content="#ffffff">
+
+  <title>Panel Principal</title>
+  <link rel="stylesheet" href="css/dashboard.css" />
+  <link rel="stylesheet" href="css/dashboardModal.css" />
+</head>
+
+<body>
+  <div class="dashboard-container">
+    <h1>Bienvenido ....</h1>
+    <div class="menu-grid">
+      <a href="consulta.html" class="menu-item">
+        <div class="menu-icon">📅</div>
+        <div class="menu-title">Consulta Provias</div>
+      </a>
+      <a href="consultaDNI.html" class="menu-item">
+        <div class="menu-icon">🙎🙎‍♂️</div>
+        <div class="menu-title">Consulta DNI</div>
+      </a>
+     <a href="mapa.html" class="menu-item">
+        <div class="menu-icon">🗺️</div>
+        <div class="menu-title">Acogimiento</div>
+      </a>
+       <!-- <a href="transmisionDocumento.html" class="menu-item">
+        <div class="menu-icon">💻📲</div>
+        <div class="menu-title">Transmision Documentos</div>
+      </a>
+      <a href="#" class="menu-item">
+        <div class="menu-icon">⚙️</div>
+        <div class="menu-title">Configuración</div>
+      </a> -->
+    </div>
+  </div>
+
+  <!-- Modal de bienvenida -->
+<div id="welcomeModal" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <div class="logo-container">
+            <img src="recursos/imagenes/LogoAduanas.png" alt="Logo de la empresa" class="company-logo">
+        </div>
+        <h2 class="welcome-title">¡Bienvenido!</h2>
+        <h2 id="nombreBienvenida" class="welcome-name">Nombre</h2>
+        <button id="acceptBtn" class="accept-button">Aceptar</button>
+    </div>
+</div>
+  <script type="module" src="js/dashboard.js"></script>
+
+</body>
+
+</html>
